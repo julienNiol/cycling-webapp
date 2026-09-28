@@ -1,0 +1,17 @@
+[project]
+name = "cycling-webapp"
+version = "0.1.0"
+description = "Web application for exploring cycling rankings and statistics"
+readme = "readme.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.0.6",
+    "pandas-stubs>=3.0.5.260914",
+    "plotly>=7.1.0",
+    "streamlit>=1.64.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.16.8",
+]

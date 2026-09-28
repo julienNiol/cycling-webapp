@@ -1,0 +1,3377 @@
+﻿id_rider;first_name;surname;nat_p;nat_s
+1;A.;Kazmer;35;0
+2;Aafke;Soet;1;0
+3;Abby;Albershardt;4;0
+4;Abby-Mae;Parkinson;8;0
+5;Abi;Smith;8;0
+6;Abigail;Van Twisk;8;0
+7;Adahi Orneila;Kouassi;120;0
+8;Adèle;Normand;13;0
+9;Adele;Reitmayer;3;0
+10;Adiam;Dawit-Mengs;85;0
+11;Adiam;Tesfalem;85;0
+12;Adriana;Alfaro;45;0
+13;Adriana;Barraza Castañeda;38;0
+14;Adriana Maria;Rojas Cubero;51;0
+15;Adriana;Muriel;33;0
+16;Adrie;Visser;1;0
+17;Adrienn;Hajnal;35;0
+18;Agne;Bagdonaviciute;9;0
+19;Agne;Silinyte;9;0
+20;Agnes;Dusart;12;0
+21;Agnes;Loohuis-Damveld;1;0
+22;Agneta;Asplund;11;0
+23;Agnieszka;Godras;18;0
+24;Agnieszka;Skalniak-Sojka;18;0
+25;Agnieszka;Wiesniewska;18;0
+26;Agua Marina;Espinola Salinas;53;0
+27;Agusta Edda;Björnsdottir;65;0
+28;Agustina Belen;Fernandez Perez;111;0
+29;Ahlam;Alzaid;128;0
+30;Aicha;Tihar;77;0
+31;Aida;Jimenez Torres;61;0
+32;Aidi Gerde;Tuisk;32;0
+33;Aiga;Zagorska;9;19
+34;Aileen;Schweikart;3;0
+35;Aina;Puronen;19;0
+36;Ainhoa;Artolazabal Royo;14;0
+37;Ainhoa;Ostolaza;14;0
+38;Aino;Laurio;22;0
+39;Aitziber;Irazustabarrena;14;0
+40;Aizhan;Zhaparova;7;0
+41;Akissi Christine;Kouakou;120;0
+42;Aksana;Papko;20;0
+43;Alana;Castrique;12;0
+44;Alba;Teruel Ribes;14;0
+45;Albine;Caillie;5;0
+46;Alejandra;Carvajal;51;0
+47;Alejandra Janet;Huamani Quispe;67;0
+48;Aleksandra;Chekina;7;0
+49;Aleksandra;Dawidowicz;18;0
+50;Aleksandra;Koliaseva;7;19
+51;Aleksandra;Sovilj;44;0
+52;Alena;Amialiusik;20;0
+53;Alena;Hetsman;20;0
+54;Alena;Ivanchenko;7;0
+55;Alena;Peterkova;30;0
+56;Alessandra;Borchi;2;0
+57;Alessandra;Cappellotto;2;0
+58;Alessandra;D'Ettore;2;0
+59;Alessandra Giuseppina;Grassi Herrera;38;0
+60;Alessandra;Keller;10;0
+61;Alessia;Vigilia;2;0
+62;Alexandra;Bähler;10;0
+63;Alexandra;Burchenkova;7;0
+64;Alexandra;Goncharova;7;0
+65;Alexandra;Greenfield;8;0
+66;Alexandra;Hasler;107;0
+67;Alexandra;Manly;6;0
+68;Alexandra;Nöhles;3;0
+69;Alexandra;Rannou (Le Henaff);5;0
+70;Alexandra;Rutz;10;0
+71;Alexandra;Wrubleski;13;0
+72;Alexi;Costa-Ramirez;80;0
+73;Alexia;Muffat;5;0
+74;Alexis;Rhodes;6;0
+75;Alexis;Ryan;4;0
+76;Alia;Cardinale;51;0
+77;Alice;Cobb;8;0
+78;Alice Cristina;Couto Azevedo;39;0
+79;Alice Maria;Arzuffi;2;0
+80;Alice;Marmorini;2;0
+81;Alice;Sharpe;41;0
+82;Alice;Towers;8;0
+83;Alice;Wood (Barnes);8;0
+84;Alicia;Amezgaray;14;0
+85;Alicia;Gonzalez Blanco;14;0
+86;Alicia;Thompson;62;0
+87;Aline;Camboulives;5;0
+88;Aline Fatima;Mariga Cavaglieri;29;0
+89;Aline Fernandes;Paiva Paroliz;29;0
+90;Alison;Dunlap;4;0
+91;Alison;Jackson;13;0
+92;Alison;Powers;4;0
+93;Alison;Shanks;17;0
+94;Alison;Sydor;13;0
+95;Alison;Testroete;13;0
+96;Alison;Tetrick (Starnes);4;0
+97;Alison;Wright;6;0
+98;Alla;Epifanova;7;0
+99;Alla;Iakovleva;19;0
+100;Alla;Lukutina;19;0
+101;Allie;Legg (Dragoo);4;0
+102;Allison;Beveridge;13;0
+103;Ally;Wollaston;17;0
+104;Allyson;Brandt;4;0
+105;Alma;Alijagic;99;0
+106;Aloisia;Wakolbinger;25;0
+107;Alzbeta;Bacikova (Pavlendova);24;0
+108;Amalie;Dideriksen;16;0
+109;Amanda;Jones;8;0
+110;Amanda;Miller;4;0
+111;Amanda;Spratt;6;0
+112;Amber;Glasgow;121;0
+113;Amber;Halliday;6;0
+114;Amber;Joseph;95;0
+115;Amber;Kraak;1;0
+116;Amber;Neben;4;0
+117;Amber;Pate;6;0
+118;Amber;Pierce (Rais);4;0
+119;Amber;Van Der Hulst;1;0
+120;Amélie;Rivat-Mas;5;0
+121;Amme;Sophie;112;0
+122;Amy;Charity;4;0
+123;Amy;Cure;6;0
+124;Amy;Dombroski;4;0
+125;Amy;Gillett-Safe;6;0
+126;Amy;Moore-Jarvis;13;0
+127;Amy;Pieters;1;0
+128;An;Callebout;12;0
+129;An;Van Rie;12;0
+130;Ana;Barros;39;0
+131;Ana Bélen;Garcia Antequera;14;0
+132;Ana;Burgos Acuna;14;0
+133;Ana Claudia;Seijas Gomez;111;0
+134;Ana Cristina;Sanabira Sanchez;33;0
+135;Ana Gabriela;Vivar Torres;74;0
+136;Ana Laura;Estrada;100;0
+137;Ana Lucrecia;Figueroa;45;0
+138;Ana Maria;Covrig;55;0
+139;Ana Maria;Hernandez Delgado;38;0
+140;Ana Maria;Ventura;82;0
+141;Ana;Martinez Oneca;14;0
+142;Ana Milena;Fagua Raquira;33;0
+143;Ana Paola;Madrinan Villegas;33;0
+144;Ana Paula;Polegatch;29;0
+145;Ana;Ramirez Bauxel;14;0
+146;Ana;Rodina;101;0
+147;Ana Sofia;Pereira Carmelo;39;0
+148;Ana Teresa;Casas Bonilla;38;0
+149;Ana;Usabiaga Balerdi;14;0
+150;Ana Vitoria;Gouvea Vieira Almeida Magalhaes;29;0
+151;Anabel;Yapura Plaza;40;0
+152;Anais;Morichon;5;0
+153;Ana-M.;Betancourt;33;0
+154;Anastasia;Carbonari;58;2
+155;Anastasia;Chulkova;7;0
+156;Anastasia;Pastourmatzi;50;0
+157;Anastasiia;Chursina (Iakovenko);7;0
+158;Anastasiia;Pliaskina;7;0
+159;Anastasiya;Kolesava;20;0
+160;Andisabel;Luque De Briceno;49;0
+161;Andrea;Bosman;1;0
+162;Andrea;Dvorak;4;0
+163;Andrea;Edmeier;3;0
+164;Andrea;Elle;34;0
+165;Andrea Fernanda;Guillen Rivera;72;0
+166;Andrea;Fischer;34;0
+167;Andrea;Graus;25;0
+168;Andrea;Hänni;10;0
+169;Andrea;Hannos;13;0
+170;Andrea;Knecht;10;0
+171;Andrea;Peyer;10;0
+172;Andrea;Purner-Koschier;25;0
+173;Andrea;Ramirez Fregoso;38;0
+174;Andrea;Ratkovic-Bowman;4;0
+175;Andrea;Schrade;3;0
+176;Andrea;Thürig;10;0
+177;Andrea;Vranken-Schütze;3;0
+178;Andrea;Wolfer;10;0
+179;Andree;Flageolet;5;0
+180;Andrée;Vaudel;5;0
+181;Ane;Iversen;15;0
+182;Ane;Santesteban Gonzalez;14;0
+183;Anet;Barrera Esparza;38;0
+184;Aneta;Antovska;83;0
+185;Anette;Artmann;3;0
+186;Angela;Hennig (Brodtka);3;0
+187;Angela;Hillenga;1;0
+188;Angela;Kindling;34;0
+189;Angela;Ranft;34;0
+190;Angela;Van Smoorenburg;1;0
+191;Angelica;Agerteg;11;0
+192;Angelica;Brogi;2;0
+193;Angelika;Darsch;3;0
+194;Angelique;Greupink-Jekel;1;0
+195;Angie De Jesus;Gomez Bentancourth;98;0
+196;Angie Marielle Paulett;Bustamente;67;0
+197;Angie Sabrina;Gonzalez Garcia;49;0
+198;Aniek;Van Alphen;1;0
+199;Aniko;Revesz;35;0
+200;Anisha;Vekemans;12;0
+201;Anita;Guin;5;0
+202;Anita;Keijzer;1;0
+203;Anita;Kenyo;35;0
+204;Anita;Valen-De Vries;15;0
+205;Anita;Velickovska;83;0
+206;Anja;Nobus;12;0
+207;Anke;Moore (Erlank);23;0
+208;Anke;Wichmann;3;0
+209;An-Li;Kachelhoffer (Pretorius);23;0
+210;Ann;Bailey;8;0
+211;Ann;Gariepy;13;0
+212;Ann;Horswell;8;0
+213;Ann;Illingworth;8;0
+214;Ann;Pettersson;11;0
+215;Ann;Samplonius;13;0
+216;Ann;Svendsgaard Mathiesen;16;0
+217;Anna;Dyrak;18;0
+218;Anna;Farina;2;0
+219;Anna;Gnetner;18;0
+220;Anna;Gusmini;2;0
+221;Anna;Henderson;8;0
+222;Anna;Kiesenhofer;25;0
+223;Anna;Knauer;3;0
+224;Anna;Konkina;19;0
+225;Anna;Lindström;22;0
+226;Anna Maria Zita;Stricker;2;0
+227;Anna;McLoon;4;0
+228;Anna;Millward-Wilson;6;0
+229;Anna;Nahirna;21;0
+230;Anna;Plichta;18;0
+231;Anna;Potokina;7;0
+232;Anna;Sanchis Chafer;14;0
+233;Anna;Shackley;8;0
+234;Anna;Skawinska;18;0
+235;Anna;Szafraniec;18;0
+236;Anna;Trevisi;2;0
+237;Anna;Turvey;41;0
+238;Anna;Van Der Breggen;1;0
+239;Anna;Zavershinsakaya;7;0
+240;Anna;Zugno;2;0
+241;Annabelle;Dreville;5;0
+242;Anna-Bianca;Schnitzmeier;3;0
+243;Anna-Karin;Johansson;11;0
+244;Annalisa;Cucinotta;2;0
+245;Annalisa;Farrell;17;0
+246;Ann-Christin;Allik;32;0
+247;Anne;Arnouts;12;0
+248;Anne;Carlsen;15;0
+249;Anne;Dorthe Ysland;15;0
+250;Anne;Möhlmann-Riemersma;1;0
+251;Anne;Palm;22;0
+252;Anne;Rautio;22;0
+253;Anne;Sirotniak;4;0
+254;Anne;Van Rooijen;1;0
+255;Annelie;Lundin;11;0
+256;Annelies;Dom;12;0
+257;Annelies;Van Doorslaer;12;0
+258;Anne-Marie;Collis;6;0
+259;Anne-Marie;Cooreman;12;0
+260;Anne-Marie;Schmitt;26;0
+261;Annemarie;Worst;1;0
+262;Annemiek;Van Vleuten;1;0
+263;Annett;Woidt;34;0
+264;Annette;Beutler;10;0
+265;Annette;Brede;3;0
+266;Annette;Edmondson;6;0
+267;Annibel Emilia;Prieto Ostia De Godoy;81;0
+268;Annica;Jonsson;11;0
+269;Annick;Chapron;5;0
+270;Annie;Foreman-Mackey;13;0
+271;Annie;Rebiere;5;0
+272;Annie;Vermeiren;12;0
+273;Anniina;Ahtosalo;22;0
+274;Annika;Langvad;16;0
+275;Ann-Sophie;Duyck;12;0
+276;Anny;Hauglid;15;0
+277;Anouk;Rijff;1;0
+278;Anouska;Koster;1;0
+279;Anouska;Van Der Zee;1;0
+280;Anriette;Schoeman;23;0
+281;Anrosi;Paruta Alloca;49;0
+282;Antonela;Ferencic;46;0
+283;Antonella;Bellutti;2;0
+284;Antonella Lilia;Leonardi;40;0
+285;Antonia;Gröndahl;22;0
+286;Antonia;Niedermaier;3;0
+287;Antonina;Reznikova;43;0
+288;Antri;Christoforou;64;0
+289;Anujin;Jinjiibadam;56;0
+290;Aracely Jazmin;Galeano Centurion;53;0
+291;Arantzatzu;Azpiroz Azpiroz;14;0
+292;Aranza;Villalon Sanchez;47;0
+293;Areke;Hassink;1;0
+294;Arenda;Grimberg;1;0
+295;Arfiana;Khairunnisa;90;0
+296;Argelis;Bernal;81;0
+297;Argyro;Milaki;50;0
+298;Arianna;Fidanza;2;0
+299;Arlenis;Sierra Canadilla;28;0
+300;Arlette;Lacan;5;0
+301;Armelle;Chenet;5;0
+302;Asa;Gudny;65;0
+303;Åsa;Hagberg;11;0
+304;Asdis;Kristjansdottir;65;0
+305;Ashleigh;Moolman-Pasio;23;0
+306;Ashley;Estwanik (Couper);57;0
+307;Ashley;Robinson;57;0
+308;Ashlynn;Van Baarle;1;0
+309;Asja;Paladin;2;0
+310;Asmaa;Namli;79;0
+311;Asmaa;Zerfaoui;79;0
+312;Asta;Forsell;22;0
+313;Astrid;Danielsen-Tangen;15;0
+314;Astrid;Schop;1;0
+315;Athina;Chatzistyli;50;0
+316;Atika;Sabib;79;0
+317;Aude;Biannic;5;0
+318;Aude;Pollet;5;0
+319;Aud-Kari;Berg;15;0
+320;Audrey;Cordon-Ragot;5;0
+321;Audrey;Lemieux;13;0
+322;Audrey;McElmury;4;0
+323;Aukje;De Koning;1;0
+324;Aurélie;G'Styr;5;0
+325;Aurélie;Halbwachs;87;0
+326;Aurore;Verhoeven;5;0
+327;Ausrine;Trebaite;9;0
+328;Awa;Bamogo;118;0
+329;Ayan;Khankishiyeva;63;0
+330;Aylena;De Las Mercedes Quevedo Alvarez;28;0
+331;Ayumu;Otsuka;31;0
+332;Ayustina Delia;Priatna;90;0
+333;Azize;Bekar;68;0
+334;Babs;Bijlsma;1;0
+335;Yue;Bai;42;0
+336;Bajba;Tsaune;19;0
+337;Barbara;Ampollini;2;0
+338;Barbara Ann;Bernard;103;0
+339;Barbara;Anton Alfaro;14;0
+340;Barbara;Arancibia;47;0
+341;Barbara;Benko;35;0
+342;Barbara;Cazzaniga;2;0
+343;Barbara;Delvai;2;0
+344;Barbara;Dolan;4;0
+345;Barbara;Erdin-Ganz;10;0
+346;Barbara Fiorella;Malaspina;40;0
+347;Barbara;Guarischi;2;0
+348;Barbara;Harris;8;0
+349;Barbara;Heeb;10;0
+350;Barbara;Hintzen;4;0
+351;Barbara Inez;Body;8;0
+352;Barbara;Lancioni;2;0
+353;Barbara;Lang;13;0
+354;Barbara;Malcotti;2;0
+355;Barbara;Menegon;2;0
+356;Bärbel;Jungmeier;25;0
+357;Baukje;Doedee;1;0
+358;Beata Adrienne;Piringer;55;0
+359;Beata;Jasinska;18;0
+360;Beate;Habetz;3;0
+361;Beate;Szabo Kovacs;35;0
+362;Beate;Zanner;3;0
+363;Beatha;Ingabire;88;0
+364;Beatrice;Angele;10;0
+365;Beatrice;Bartelloni;2;0
+366;Beatrice;Horisberger;10;0
+367;Beatrice;Labarthe;5;0
+368;Beatrice;Piazzini;2;0
+369;Beatrice;Rogue;5;0
+370;Beatrice;Rossato;2;0
+371;Beatrice;Thomas;5;0
+372;Becky;Storrie;8;0
+373;Belem;Guerrero Mendez;38;0
+374;Belen;Cuevas Lopez;14;0
+375;Belen;Lopez Morales;14;0
+376;Belinda;Goss;6;0
+377;Belinda;Soper;73;0
+378;Bella;Van Der Spiegel-Hage;1;0
+379;Belle;De Gast;1;0
+380;Benay;Statia;91;0
+381;Bernadette;Irastorza;5;0
+382;Bernadette;Schober;25;0
+383;Bernadette;Swinnerton;8;0
+384;Berta;Fernandez Anzuola;14;0
+385;Bertine;Spijkerman;1;0
+386;Beryl;Burton;8;0
+387;Beth;Heiden;4;0
+388;Betsy;King;4;0
+389;Bettina;Falsing;16;0
+390;Bettina;Kuhn;10;0
+391;Bettina;Schöke;3;0
+392;Betty;Wise-Steffan;4;0
+393;Bex Seini;O'Connor;137;0
+394;Bianca;Purath (Knöpfle);3;0
+395;Bianca-Jane;Netzler;17;0
+396;Bidya Lakshmi;Thangadurai;70;0
+397;Bidyaluxmi;Tourangbam;70;0
+398;Birehan Fekadu;Abrha;89;0
+399;Birgit;Förstl;3;0
+400;Birgit;Jung;3;0
+401;Birgit;Söllner;3;0
+402;Birgit;Winter;25;0
+403;Birna;Bjornsdottir;65;0
+404;Bisrat;Gebremeskel;85;0
+405;Bjørg-Eva;Jensen;15;0
+406;Bjork;Kristjansdottir;65;0
+407;Blanca Liliana;Moreno Canchon;33;0
+408;Blandine;Camus;5;0
+409;Blanka;Navratilova;30;0
+410;Blendys;Rojas;49;0
+411;Bogumila;Matusiak;18;0
+412;Bonnie;Bridges;4;0
+413;Brenda Andrea;Santoyo Perez;38;0
+414;Brenda;Atkinson;8;0
+415;Brenda;Brashears;4;0
+416;Brenda;Tate;8;0
+417;Brianna;Walle;4;0
+418;Bridget;Evans;6;0
+419;Bridie;O'Donnell;6;0
+420;Brigitte;Felber;25;0
+421;Brigitte;Gyr-Gschwend;10;0
+422;Brigitte;Krebs;25;0
+423;Brodie;Chapman;6;0
+424;Brooke;Blackwelder;4;0
+425;Brooke;Miller;4;0
+426;Brooke;Motley;4;0
+427;Bruna;Cancelli;2;0
+428;Bruna;Seghezzi;2;0
+429;Bryony;Van Velzen;1;0
+430;Caitlyn;Conyers;57;0
+431;Camila;Pinheiro Monteiro Rodriguez;29;0
+432;Camilla;Alessio;2;0
+433;Camilla;Hott Johansen;15;0
+434;Camilla;Indset Sorgjerd;15;0
+435;Camilla;Larsson;11;0
+436;Camilla;Møllebro Pedersen;16;0
+437;Candice;Lill;23;0
+438;Cansu;Celebi (Turkmenoglu);68;0
+439;Caren;Asimow;4;0
+440;Carin;Winell;11;0
+441;Carina;Kirssi Ketonen;22;0
+442;Carina;Schrempf;25;0
+443;Carissa;Wilkes;17;0
+444;Carla;Bosio;2;0
+445;Carla;Camargo Gardenal;29;0
+446;Carla;Oberholzer (Van Der Merwe);23;0
+447;Carla;Ryan;6;0
+448;Carla;Swart;23;0
+449;Carlee;Taylor;6;0
+450;Carlijn;Achtereekte;1;0
+451;Carly;Hibberd;6;0
+452;Carmelina;Errera;5;0
+453;Carmen;Bassingthwaighte;54;0
+454;Carmen;D'Aluisio-Richardson;4;0
+455;Carmen;Da Ronch;10;0
+456;Carmen;Menegaldo;2;0
+457;Carmen;Small;4;0
+458;Carol Ann;Canuel;13;0
+459;Carol;Barton;8;0
+460;Carol Lee;Royer;4;0
+461;Carol;Moore;4;0
+462;Carol;Rogers-Dunning;4;0
+463;Carole;Vanier;13;0
+464;Carolina Inez;Perez;40;0
+465;Carolina;Rodriguez Gutierrez;38;0
+466;Carolina;Sagarmendi;14;0
+467;Caroline;Alexander;8;0
+468;Caroline;Andersson;11;0
+469;Caroline;Baur;10;0
+470;Caroline;Cahill;136;0
+471;Caroline;Hakansson;11;0
+472;Caroline;Ryan;41;0
+473;Caroline;Steffen;10;0
+474;Caroline;Van Peteghem;12;0
+475;Carolyn;Donnelly;4;0
+476;Casandra;Slingerland;23;0
+477;Catalina;Soto Campos;47;0
+478;Cathalijne;Hoolwerf;1;0
+479;Catharina;Mulders;1;0
+480;Catherine;Barsa;110;0
+481;Catherine;Cardwell;4;0
+482;Catherine;Cheatley (Sell);17;0
+483;Catherine;Delfosse;12;0
+484;Catherine;Hart;6;0
+485;Catherine;Lee;4;0
+486;Catherine;Marsal;5;0
+487;Catherine;Nikolovska;83;0
+488;Catherine;Powers;4;0
+489;Catherine;Riley;8;0
+490;Catherine;Swinnerton;8;0
+491;Catherine;Talec;5;0
+492;Catherine;Williamson (Hare);8;0
+493;Cathrine;Grage;16;0
+494;Cathy;Moncassin-Prime;5;0
+495;Cathy;Moreac;5;0
+496;Cathy;Reardon;6;0
+497;Cécile;Odin;5;0
+498;Cecilia;Van Zuthem;1;0
+499;Cecilie;Gotaas Johsen;15;0
+500;Cecilie;Uttrup Ludwig;16;0
+501;Cédrine;Kerbaol;5;0
+502;Celina;Santos Carpinteiro;39;0
+503;Celine;Van Severen;12;0
+504;Ceris;Gilfillian;8;0
+505;Cesarina;Ballenilla;86;0
+506;Ceylin;Del Carmen Alvarado;1;0
+507;Chaimae;Ez-Zakraouy;79;0
+508;Chalime;Giourbouz;50;0
+509;Chanella;Stougje;1;0
+510;Yue;Chang;42;0
+511;Chaniporn;Batriya;48;0
+512;Chantal;Beltman;1;0
+513;Chantal;Broca;5;0
+514;Chantal;Daucourt;10;0
+515;Chantal;Diaz;5;0
+516;Chantal;Fortier;5;0
+517;Chantal;Gorostegui;5;0
+518;Chantal;Nguyen;5;0
+519;Chantal;Van Den Broek-Blaak;1;0
+520;Chaoba Devi;Elangbam;70;0
+521;Charlotte;Becker;3;0
+522;Charlotte;Bravard;5;0
+523;Charlotte;Cox;17;0
+524;Charlotte;Goldsmith;8;0
+525;Charlotte;Kool;1;0
+526;Charlotte;White-Pordham;6;0
+527;Charmain;Breon;4;0
+528;Charmaine;Shannon;54;0
+529;Chelsie Wei Shi;Tan;84;0
+530;Cherie;Pridham;8;0
+531;Cherise;Willeit (Taylor);23;0
+532;Cherley;Van Der Linden;91;0
+533;Cheryl;Binney;4;0
+534;Hui Lin;Chia;59;0
+535;Chiara;Consonni;2;0
+536;Chiara;Pierobon;2;0
+537;Chiara;Vanni;2;0
+538;Ching Zen Grace;Phang;71;0
+539;Chisako;Harigai;31;0
+540;Chloe;Dygert;4;0
+541;Chloe;Hosein;80;0
+542;Chloe;Hosking;6;0
+543;Hye Kyeong;Choi;52;0
+544;Christa;Janssen;1;0
+545;Christa;Riffel;3;0
+546;Christel;Ferrier-Bruneau;5;13
+547;Christelle;Coudrais;5;0
+548;Christelle;Deslignes;5;0
+549;Christelle;Halgand;5;0
+550;Christiane;Farah;80;0
+551;Christiane;Geerts;12;0
+552;Christiane;Goeminne;12;0
+553;Christiane;Goodfellow;8;0
+554;Christiane;Söder;25;0
+555;Christina;Becker;3;0
+556;Christina;Gokey-Smith;4;0
+557;Christina;Malling Siggaard;16;0
+558;Christina;Peick-Andersen;16;0
+559;Christina;Perchtold;25;0
+560;Christina;Redden;13;0
+561;Christina;Ruiter;4;0
+562;Christina;Schweinberger;25;0
+563;Christina;Vosveld;11;0
+564;Christine;Gourmelon;5;0
+565;Christine;Kerriguy;5;0
+566;Christine;Koschier-Bitante;25;0
+567;Christine;Larsson;11;0
+568;Christine;Majerus;26;0
+569;Christine;Mos;1;0
+570;Christine;Swaertvaeger;5;0
+571;Christine;Thorburn;4;0
+572;Christine;Van Kwikenborne;12;0
+573;Christine;Waller;5;0
+574;Chrystele;Richard;5;0
+575;Young Kyung;Chun;52;0
+576;Cicile;Kristiansen;15;0
+577;Cindy;Morales Aquino;72;0
+578;Cindy;Pieters;12;0
+579;Cinthya Alessandra;Davila Rodriguez;67;0
+580;Cinzia;Faccin;2;0
+581;Claire;Louise;92;0
+582;Claire;Moore;41;0
+583;Claire;Rose (Galloway);8;0
+584;Claire;Steels;8;0
+585;Claire;Thomas;8;0
+586;Clara;Copponi;5;0
+587;Clara;Emond;13;0
+588;Clara;Hughes;13;0
+589;Clara;Koppenburg;3;0
+590;Clare;Greenwood;8;0
+591;Clare;Vlahopoulos;6;0
+592;Clarissa;Breuer;3;0
+593;Claudia;Aravena Cortes;47;0
+594;Claudia;Bucher;10;0
+595;Claudia;Buerklin;3;0
+596;Claudia;Carceroni-Saintagne;29;5
+597;Claudia;Cretti;2;0
+598;Claudia;Koster;1;0
+599;Claudia;Lehmann;3;0
+600;Claudia;Lichtenberg (Häusler);3;0
+601;Claudia;Martinez Cano;53;0
+602;Claudia;Meyer;3;0
+603;Claudia;Stumpf;3;0
+604;Claudia;Tohermes;13;0
+605;Claudia;Vitorino;39;0
+606;Clemilda;Fernandes Silva;29;0
+607;Colette;Davaine-Savary;5;0
+608;Conchita;Carballeda;14;0
+609;Connie;Carpenter-Phinney;4;0
+610;Connie;Meijer;1;0
+611;Constanza Victoria;Paredes Martinez;47;0
+612;Consuelo;Alvarez Garcia;14;0
+613;Cora;Westland;1;0
+614;Coralie;Demay;5;0
+615;Cordula;Gruber;3;0
+616;Cordula;Moller;54;0
+617;Cordula;Vogel;34;3
+618;Corina;Ouwehand;1;0
+619;Corine;Dorland;1;0
+620;Corine;Hierckens;12;0
+621;Corinna;Lechner;3;0
+622;Corinne;Le Gal;5;0
+623;Corinne;Lutz;5;0
+624;Corinne;Sempé;5;0
+625;Cornelia;Cyrus;3;0
+626;Cornelia;Dreher;3;0
+627;Cornelia;Theisen;3;0
+628;Corrie;Timmermans;1;0
+629;Coryn;Labecki (Rivera);4;0
+630;Courtney;Lowe;17;0
+631;Crismonita;Dwi Putri;90;0
+632;Cristel Pamela;Espinosa Vasquez;51;0
+633;Cristiana;Santos Valente;39;0
+634;Cristina;Alcalde Huertanos;14;0
+635;Cristina;Martinez Bonafe;14;0
+636;Cristina;Menuzzo;2;0
+637;Cristina Michelle;Mata Pitti;81;0
+638;Cristina;Tonetti;2;0
+639;Crystal Kaya;Cattouse;62;0
+640;Cs.;Steig;35;0
+641;Cybil;Di Guistini;13;0
+642;Cyntha;Lutke Schipholt;1;0
+643;Cynthia;Cary;8;0
+644;Cynthia Eugenia;Lee Lopez;72;0
+645;Cynthia;Olavarri;4;0
+646;D.;Zanders;17;0
+647;Daeira;Diaz;49;0
+648;Dafina;Zylfiu;112;0
+649;Dahlia;Palmer;104;0
+650;Daiana;Almada;40;0
+651;Daiva;Cepeliene;19;9
+652;Daiva;Ragazinskiene (Tuslaite);9;0
+653;Dale;Tye;17;0
+654;Dalia;Muccioli;2;0
+655;Dalila;Rodriguez Hernandez;28;0
+656;Dana;Krnavcova;24;36
+657;Dana;Rozlapa;58;0
+658;Danait Fitsum;Tekeste;85;0
+659;Daniek;Hengeveld;1;0
+660;Daniela;Campos;39;0
+661;Daniela;Conceicao Alexandre Reis;39;0
+662;Daniela Cristine;Lionco;29;0
+663;Daniela;Curlo;2;0
+664;Daniela;Degiorgio;25;0
+665;Daniela;Donadio;40;0
+666;Daniela Eugenia;Rojas Meneses;47;0
+667;Daniela;Fusar Poli;2;0
+668;Daniela;Gaß;3;0
+669;Daniela;Guajardo Cornejo;47;0
+670;Daniela;Kenty;3;0
+671;Daniela;Levi;43;0
+672;Daniela;Ortuno Espeda;82;0
+673;Daniela;Perez Serrano;28;0
+674;Daniela;Pintarelli;25;0
+675;Daniela;Salazar;33;0
+676;Daniela;Veronesi;37;0
+677;Daniela;Vogel;10;0
+678;Danielle;Christmas;8;0
+679;Danielle;De Fransceso;6;0
+680;Danielle;Lentz;26;0
+681;Danielle;Linden;26;0
+682;Danielle;Overgaag;1;0
+683;Danielle;Rowe (King);8;0
+684;Danielys;Garcia Buitrago;49;0
+685;Danilas;Ferreira Silva;29;0
+686;Danique;Braam;1;0
+687;Danute;Bankaitis-Davis;4;0
+688;Dany;Bonnoront;5;0
+689;Daphne;Hoeve;1;0
+690;Daria;Pikulik;18;0
+691;Davina;Summers;6;0
+692;Dayana;Chirinos;49;0
+693;Daymelin;Perez Quezada;28;0
+694;Daysi;Sulca;67;0
+695;Deanna;McMullen-Thomson;57;0
+696;Debbie;Bradley;4;0
+697;Debbie;Jensen;13;0
+698;Debbie;Milne;4;0
+699;Debbie;Stephan;4;0
+700;Debby;Mansveld;1;0
+701;Debora;Galvez Lopez;14;0
+702;Debora;Gerhard;29;0
+703;Debora;Scharloo;1;0
+704;Debora;Scopel;2;0
+705;Debora;Silvestri;2;0
+706;Deborah;Kinnear;6;0
+707;Deborah;Schumway;4;0
+708;Deirdre;Demet-Barry;4;0
+709;Delia;Lopez Chavez;67;0
+710;Delphine;Bézille;5;0
+711;Delphine;Deschamps;5;0
+712;Demetra;Antoniou;64;0
+713;Demi;De Jong;1;0
+714;Demi;Vollering;1;0
+715;Denisa;Slamova;30;0
+716;Denise;Bral;12;0
+717;Denise;Burton;8;0
+718;Denise;Kelly;13;0
+719;Denise;Landa;26;0
+720;Denise;Ramsden;13;0
+721;Denise;Zuckermandel;3;0
+722;Denisse;Ahumada Riquelme;47;0
+723;Devon;Gorry (Haskell);4;0
+724;Diana Carolina;Peñuela Martinez;33;0
+725;Diana;Klimova;7;0
+726;Diana;Rast;10;0
+727;Diana;Szuromine-Pulsfort;35;0
+728;Diana;Ziliute;9;0
+729;Diane;Ingabire;88;0
+730;Xiaojuan;Diao;60;0
+731;Dilyxine;Miermont;5;0
+732;Dinize;Wilsch;119;0
+733;Dixiana;Quesada Paniagua;51;0
+734;Dolores Jimena;Rodriguez Rey;40;0
+735;Dominique;Damiani;5;0
+736;Donelys;Cariño Rivera;61;0
+737;Yan Huang;Dong;42;0
+738;Donna;Gould;6;0
+739;Donna;Pollard;80;0
+740;Donna;Rae-Szalinski;6;0
+741;Donna;Tobias;4;0
+742;Doreen;Kirschbach;3;0
+743;Doreen;Kralick;91;0
+744;Doris;Posch;25;0
+745;Doris;Reitener;25;0
+746;Doris;Schweizer;10;0
+747;Dorota;Czynszak;18;0
+748;Dorota;Warczyk;18;0
+749;Dorothy;Cowden-Bausch;4;0
+750;Dorothy;Johnsson;4;0
+751;Dorte;Lohse Rasmussen;16;0
+752;Doubrava;Pelikanova-Lozkovova;36;0
+753;Dragana;Kovacevic;44;105
+754;Dragana;Zafirovska;83;0
+755;Dulce;Pliego Moreno;38;0
+756;Dunja;Ivanova;83;0
+757;Dusica;Lekic;44;105
+758;Ebtissam;Zayed Ahmed;129;0
+759;Ece;Calp;68;0
+760;Edita;Janeliunaite;9;0
+761;Edita;Kubelskiene-Raudonyte;9;0
+762;Edita;Pucinskaite;9;0
+763;Edith;Guillen Chavarria;51;0
+764;Edith;Klep-Moerenhout;1;0
+765;Edith;Obersberger;25;0
+766;Edith;Schönenberger;10;0
+767;Edwige;Pitel;5;0
+768;Edyta;Jasinska;18;0
+769;Eglantine;Rayer;5;0
+770;Egle;Zablockyte;9;0
+771;Eider;Merino Cortazar;14;0
+772;Eileen;Burns;41;0
+773;Eileen;Cooper;8;0
+774;Eileen;Roe;8;0
+775;Ekaterina;Knebeleva;69;0
+776;Ekatseryna;Sharakova;20;0
+777;Eleftheria;Ellinikaki;50;0
+778;Elena;Barillova;24;36
+779;Elena;Berlato;2;0
+780;Elena;Bondarenko;7;0
+781;Elena;Cecchini;2;0
+782;Elena;Franchi;2;0
+783;Elena;Hartmann;10;0
+784;Elena;Kuchinskaya (Andreeva);7;0
+785;Elena;Malikova;20;0
+786;Elena;Malinovskaja;20;0
+787;Elena;Novikova;7;0
+788;Elena;Ogui;21;19
+789;Elena;Petrova;83;0
+790;Elena;Pirrone;2;0
+791;Elena;Tchalykh;7;19
+792;Elena;Unruh;3;0
+793;Elena;Valentini;2;0
+794;Eleni;Diakaki;50;0
+795;Eleni Michalista;Tsavari;50;0
+796;Eleonora Camilla;Gasparrini;2;0
+797;Eleonora;Mazzoleni;2;0
+798;Eleonora;Patuzzo;2;0
+799;Eleonora;Soldo;2;0
+800;Elfie;Schramm;25;0
+801;Elfriede;Kunz;10;0
+802;Elfriede;Vey;34;0
+803;Elina;Sophocleous;64;0
+804;Elinor;Barker;8;0
+805;Elisa;Balsamo;2;0
+806;Elisa;Longo Borghini;2;0
+807;Elisa Maria;Garcia;47;0
+808;Elisabet;Chantzi;50;0
+809;Elisabet;Hoeglund;11;0
+810;Elisabeth;Braam;1;0
+811;Elisabeth;Camus;5;0
+812;Elisabeth;Chevanne-Brunel;5;0
+813;Elisabeth;Fagernes;15;0
+814;Elisabeth;Kleinhans-Eichholz;34;0
+815;Elisabeth;Lötscher;10;0
+816;Elisabeth;Reichert;3;0
+817;Elisabeth;Westman;11;0
+818;Elisabeth;Williams;17;0
+819;Elisabetta;Fanton;2;0
+820;Elisabetta;Maffeis;2;0
+821;Elise;Chabbey;10;0
+822;Elise;Delzenne;5;0
+823;Elise;Maes;26;0
+824;Elise;Uijen;1;0
+825;Eliska;Kvasnickova;30;0
+826;Elizabeth;Banks (Stedman);8;0
+827;Elizabeth;Begosh   ;4;0
+828;Elizabeth;Bucy;4;0
+829;Elizabeth;Deignan (Armitstead);8;0
+830;Elizabeth;Emery;4;0
+831;Elizabeth;Hepple;6;0
+832;Elizabeth;Holden;8;0
+833;Elizabeth;Larsen;4;0
+834;Elizabeth Le Min;Liau;84;0
+835;Elizabeth Scotti;Lechuga (Wilborne);4;0
+836;Elizabeth;Stannard;6;17
+837;Elizabeth;Tadich;6;0
+838;Elizabeth;Vasquez Avila;82;0
+839;Elizaveta;Oshurkova;7;21
+840;Elke;Cancellieri;2;0
+841;Elke;Gebhardt;3;0
+842;Elke;Van De Walle;12;0
+843;Ella;Harris;17;0
+844;Ella;Wyllie;17;0
+845;Elleen;Brennan;4;0
+846;Ellen;Skerritt;6;0
+847;Ellen;Spangelid;15;0
+848;Ellen;Van Dijk;1;0
+849;Ellie;Kennedy;6;0
+850;Elly;Van Boxmeer;1;0
+851;Elodie;Leroux-Touffet;5;0
+852;Elodie;Lollierou (Hégoburu);5;0
+853;Eloisa;Schiavetti;2;0
+854;Els;Decottenier;12;0
+855;Els;Koolloos-Van Leeuwen;1;0
+856;Els;Pauwels;12;0
+857;Elsbeth;Van Rooy-Vink;1;0
+858;Elsy;Jacobs;26;0
+859;Emanuela;Azzini;2;0
+860;Emanuela;Menuzzo;2;0
+861;Emanuelle;Lorenzon;2;0
+862;Emese;Szalay;35;0
+863;Emilia;Fahlin;11;0
+864;Emilia;Sonka;19;0
+865;Emilie;Aubry;10;0
+866;Emilie;Jeannot;5;0
+867;Emilie;Moberg;15;0
+868;Emilie;Öhrstig;11;0
+869;Emily;Collins;17;0
+870;Emily;Herfoss (Roper);6;0
+871;Emily;Newsom;8;0
+872;Emily;Robbins;4;0
+873;Emily;Thurston;4;0
+874;Emily;Williams;6;0
+875;Emma Cecilie;Norsgaard Jørgensen;16;0
+876;Emma;Crum;17;0
+877;Emma;Davies;8;0
+878;Emma;Grant;8;0
+879;Emma;James;6;0
+880;Emma;Johansson;11;0
+881;Emma;Jorge;81;0
+882;Emma;Langley;4;0
+883;Emma;Mackie;6;0
+884;Emma;Petersen;17;0
+885;Emma;Pooley;8;0
+886;Emma;Rickards;6;0
+887;Emma;Trott;8;0
+888;Emma;White;4;0
+889;Emmanuelle;Farcy;5;0
+890;Emmanuelle;Merlot;5;0
+891;Eneritz;Iturriaga Mazage;14;0
+892;Eniko;Nagy;55;0
+893;Enkhjargal;Tuvshinjargal;56;0
+894;Eri;Yonamine;31;0
+895;Erialis;Otero Otero;61;0
+896;Erica;Carney-Allar;4;0
+897;Erica;Magnaldi;2;0
+898;Erica;Oomen;1;0
+899;Erika;Böhm;3;0
+900;Erika;Csomor;35;0
+901;Erika Fernanda;Gramiscelli;29;0
+902;Erika Haydee;Varela Huerta;38;0
+903;Erika;Schertl;3;0
+904;Erika;Vilunaite;9;0
+905;Erin;Carter;13;0
+906;Erin;Mirabella (Veenstra);4;0
+907;Erinne;Willock;13;0
+908;Erla Sigurlaug;Sigurdardottir;65;0
+909;Ernesta;Strainyte;9;0
+910;Ese Lovina;Ukpeseraye;126;0
+911;Esin;Yilmaz;68;0
+912;Esmée;Peperkamp;1;0
+913;Esra;Kürkcü Akgonul;68;0
+914;Estefania;Sibila Pilz;40;0
+915;Estefanie;Alvarez Arguedas;51;0
+916;Estela;Peris Rodriguez;14;0
+917;Ester Sofia;Santos Alves;39;0
+918;Esther;Fennel;3;0
+919;Esther;Heidemann;3;0
+920;Esther Jessenia;Galarza Munoz;74;0
+921;Esther;Miller-Rosemond;95;0
+922;Esther;Olthuis;1;0
+923;Esther;Salim;4;0
+924;Esther;Van Der Helm;1;0
+925;Eugenia;Bujak (Alickun);27;18
+926;Eugénie;Duval;5;0
+927;Eugenie;Mermillod;5;0
+928;Hee Kim;Eun;52;0
+929;Eva;Buurman;1;0
+930;Eva;Hatala;105;0
+931;Eva;Izsak;35;0
+932;Eva;Johansson;11;0
+933;Eva;Lechner;2;0
+934;Eva;Lutz;3;0
+935;Eva Margret;Einarsdottir;65;0
+936;Eva;Orvosova-Lowe;24;36
+937;Eva;Potocna;24;0
+938;Eva;Van Agt;1;0
+939;Eva;Vykopalova;36;0
+940;Eva-Maria;Wilfing;25;0
+941;Eve;McCrystal;41;0
+942;Eve;Stephenson;4;0
+943;Evelyn;Arys;12;0
+944;Evelyn;Garcia Marroque;45;0
+945;Evelyn;Godart;26;0
+946;Evelyn;Stevens;4;0
+947;Evelyne;Baert;12;0
+948;Evelyne;Breyton;5;0
+949;Evelyne;Müller;10;0
+950;Evgenia;Ilyinskaya;65;0
+951;Evi;Gensheimer;3;0
+952;Evita;Muzic;5;0
+953;Evy;Kuijpers;1;0
+954;Evy;Van Damme;12;0
+955;Ewelina;Szybiak;18;0
+956;Eyerusalem;Kelil;89;0
+957;Ezgi;Beyram;68;0
+958;Fabiana Andrea;Granizal Martinez;111;0
+959;Fabiana;Luperini;2;0
+960;Fabiola;Acaron;61;0
+961;Fanny;Ribérot;5;0
+962;Fany;Lecourtois;5;0
+963;Fariba;Hashimi;138;0
+964;Fatima;Blazquez Lozano;14;0
+965;Fatima;Galiulina;69;19
+966;Fatima Zahra;El Hayani;79;0
+967;Fatimatou;Maidida;130;0
+968;Fattoum;Sirine;93;0
+969;Federica;Piergiovanni;2;0
+970;Federica;Primavera;2;0
+971;Felicia;Gomez (Greer);13;0
+972;Felicity;Wardlaw;6;0
+973;Fem;Van Empel;1;0
+974;Femke;De Vries;1;0
+975;Femke;Gerritse;1;0
+976;Femke;Markus;1;0
+977;Zhaoqi;Feng;42;0
+978;Fernanda;Mendez;81;0
+979;Fernanda;Silva Souza;29;0
+980;Fine Azogoua;Akendengue;135;0
+981;Fiona;Carswell-Ramage;17;0
+982;Fiona;Dutriaux;5;0
+983;Fiona;Madden;41;0
+984;Fiona;Meade;41;0
+985;Flavia;Oliveira;29;0
+986;Floortje;Mackaij;1;0
+987;Flor Marina;Delgadillo Ruiz;33;0
+988;Flor;Palma Dos Santos;47;0
+989;Florence;Girardet;5;0
+990;Florence;Marrens;5;0
+991;Florinda;Parenti;2;0
+992;Foroozan;Abdollahi Arab;78;0
+993;France-Line;Catherine;5;0
+994;Frances;Janse Van Rensburg;23;0
+995;Frances;Newstead;8;0
+996;Francesca;Barale;2;0
+997;Francesca;Cauz;2;0
+998;Francesca;Galli;2;0
+999;Francesca;Pisciali;2;0
+1000;Francesca;Tognali;2;0
+1001;Francine;Verlot;12;0
+1002;Francis;Linthorst;1;0
+1003;Francisca;Campos Salas;47;0
+1004;Francoise;Berenger;5;0
+1005;Francoise;Leprod'homme;5;0
+1006;Franziska;Brauße;3;0
+1007;Franziska;Koch;3;0
+1008;Freance;Richer;13;0
+1009;Frida;Knutsson;11;0
+1010;Frieda;Maes;12;0
+1011;Frøydis Meen;Wærsted;15;0
+1012;Gabi;Habetz;3;0
+1013;Gabriela;Hausler;3;0
+1014;Gabriela;Riquelme;40;0
+1015;Gabriele;Prieler-Altweck;3;0
+1016;Gabriella;Pregnolato;2;0
+1017;Gabriella;Tejada Batista;86;0
+1018;Gabriella;Zelinka;35;0
+1019;Gaby;Röstel;34;3
+1020;Gaia;Masetti;2;0
+1021;Gaia;Realini;2;0
+1022;Gail;Cooley;4;0
+1023;Galina;Matsyk;19;0
+1024;Galina;Tsareva;19;0
+1025;Galina;Yudina;19;0
+1026;Ganna;Bogoluzkaya;21;0
+1027;Ganna;Solovei;21;0
+1028;Min;Gao;42;0
+1029;Gayle;Brownlee;17;0
+1030;Geerike;Schreurs;1;0
+1031;Gema;Pascual Torrecilla;14;0
+1032;Genevieve;Brunet;13;0
+1033;Geneviève;Gambillon;5;0
+1034;Genevieve;Jeanson;13;0
+1035;Georgeta;Ungureanu;55;0
+1036;Georgia;Baker;6;0
+1037;Georgia;Christie (Catterick);17;0
+1038;Georgia;Williams;17;0
+1039;Georgina;Howe;6;0
+1040;Georgine;Carberry;41;0
+1041;Geraldine;Denham;6;0
+1042;Geraldine;Dumortier;5;0
+1043;Geraldine;Gill;41;0
+1044;Geraldine;Loewenguth;5;0
+1045;Geraldine;Queniart;5;0
+1046;Gerda;Fokker;75;0
+1047;Gerda;Sierens;12;0
+1048;Gessica;Turato;2;0
+1049;Ghita;Beltman;1;0
+1050;Giada;Borgato;2;0
+1051;Giana;Roberge-Goldberg;4;0
+1052;Gilberte;Rocaboy;5;0
+1053;Gilke;Croket;12;0
+1054;Gillian;Carleton;13;0
+1055;Gina;Aubrey;4;0
+1056;Gina;Grain;13;0
+1057;Giorgia;Bronzini;2;0
+1058;Giovanna;Troldi;2;0
+1059;Gisela;Grassmann;34;0
+1060;Gisela;Roehl;3;0
+1061;Gisèle;Caille;5;0
+1062;Giselle;Craigwell;80;0
+1063;Gitana;Gruodyte;9;0
+1064;Githa;Michiels;12;0
+1065;Giuditta;Longari;2;0
+1066;Giuliana;Fatule Zuleta;67;0
+1067;Giuliana;Pioselli;2;0
+1068;Giuseppa;Micheloni;2;0
+1069;Gladys;Choque;82;0
+1070;Gladys;Verhulst-Wild;5;0
+1071;Gloria;Presti;2;0
+1072;Gloria;Soto Aguilar;33;0
+1073;Glory;Odiase;126;0
+1074;Godelieve;Jansens;12;0
+1075;Gonnie;Van Koert;1;0
+1076;Gonny;Van De Mosselear;1;0
+1077;Grace;Anderson;17;0
+1078;Grace;Brown;6;0
+1079;Grace;Fleury;4;0
+1080;Grace;Sulzberger;6;0
+1081;Grace;Verbeke;12;0
+1082;Gracie;Elvin;6;0
+1083;Graciela Elena;Zarate;40;0
+1084;Graciela;Martinez;40;0
+1085;Gré;Donkers-Knetemann;1;0
+1086;Greer;Wynn;73;0
+1087;Greta;Marturano;2;0
+1088;Greta;Richioud;5;0
+1089;Greta;Zocca;2;0
+1090;Grete;Treier;32;0
+1091;Grit;Reimann;3;0
+1092;Sungeun;Gu;52;0
+1093;Siqi;Guan;42;0
+1094;Gul;Celebi;68;0
+1095;Gulnara;Ivanova-Fatkulina;7;19
+1096;Gunhild;Örn;15;0
+1097;Gunilla;Johansson;11;0
+1098;Gunn;Hilleren;15;0
+1099;Gunn-Rita;Dahle Flesjå;15;0
+1100;Xinghong;Guo;42;0
+1101;Gurpreet;Kaur;70;0
+1102;Gwenn;Oster;5;0
+1103;Gwenola;Yvinec;5;0
+1104;Hafdis;Sigurdardottir;65;0
+1105;Halima Lizzie;Jimenez Polanco;100;0
+1106;Hana;Hotova;36;0
+1107;Hanka;Kupfernagel;3;0
+1108;Hanna;Amend;3;0
+1109;Hanna;Chmelarova;36;0
+1110;Hanna;Nilsson;11;0
+1111;Hanna;Tserakh;20;0
+1112;Hannah;Barnes;8;0
+1113;Hannah;Ludwig;3;0
+1114;Hannah;Mayho;8;0
+1115;Hannah;North;4;0
+1116;Hannah;Rich;8;0
+1117;Hanne;Malmberg;16;0
+1118;Hanne;Rasmussen;16;0
+1119;Hanneke;Lieverse;1;0
+1120;Hannelore;Mattig;34;0
+1121;Hanni;Weiss;10;0
+1122;Hayley;Brand;54;0
+1123;Hayley;Brown (Rutherford);6;0
+1124;Hayley;Preen;23;0
+1125;Hayley;Simmonds;8;0
+1126;Hazine;Barratt;92;0
+1127;Heather;Albert-Hall;4;0
+1128;Heather;Fischer;4;0
+1129;Heather;Kelson;6;0
+1130;Heather;Labance;4;0
+1131;Heather;Logan-Sprenger;13;0
+1132;Heather;Wilson;41;0
+1133;Hedi;Peterson;32;0
+1134;Hege;Stendahl;15;0
+1135;Heidi;Dalton;23;0
+1136;Heidi;Franz;4;0
+1137;Heidi;Haakonsen;15;0
+1138;Heidi;Hopkins;4;0
+1139;Heidi;Iratcabal;5;0
+1140;Heidi;Klawitter;34;0
+1141;Heidi;Matwew;3;0
+1142;Heidi;Metzger;3;0
+1143;Heidi;Van De Vijver;12;0
+1144;Heleen;Hage;1;0
+1145;Helen;Kelly;6;0
+1146;Helen;Mitchell;73;0
+1147;Helen;O'Connell;17;0
+1148;Helen;Vincent;103;0
+1149;Helen;Wyman (Saunders);8;0
+1150;Helena;Badalova;36;0
+1151;Helena;Krasna;36;0
+1152;Helena;Norrman;11;0
+1153;Helene;Salmon;5;0
+1154;Helene;Søgaard;16;0
+1155;Heletje;Van Staden;54;0
+1156;Helga;Faccin;2;0
+1157;Heli;Tapanainen;22;0
+1158;Heljä;Korhonen;22;0
+1159;Helle;Jensen;16;0
+1160;Helle;Sørensen;16;0
+1161;Hennie;Faber-Hondeveld;1;0
+1162;Hennie;Top;1;0
+1163;Henrietta;Christie;17;0
+1164;Henrietta;Colborne;8;0
+1165;Henryka;Jankowska;18;0
+1166;Henryka;Laskus;18;0
+1167;Hester-Marieke;Kroes;1;0
+1168;Hilary;Matte;13;0
+1169;Hilda;Castillo;86;0
+1170;Hilda;Castillo Belen;61;0
+1171;Hilde;Dobiasch;25;0
+1172;Hildegunn;Hovdenak;15;0
+1173;Sau Yee;Ho;60;0
+1174;Long;Hoi;139;0
+1175;Holpuchova;;36;0
+1176;Mei Yu;Hsiao;59;0
+1177;Dong Yan;Huang;42;0
+1178;Ho Hsiung;Huang;59;0
+1179;Ting Ying;Huang;59;0
+1180;Huch;Hayley;6;0
+1181;Ida;Erngren;11;0
+1182;Idoia;Lazkoz;14;0
+1183;Iiris;Karhu;22;0
+1184;Ilaria;Sanguinetti;2;0
+1185;Ildiko;Fabo;105;0
+1186;Ildiko;Molnar;35;0
+1187;Ildiko;Paczova;24;36
+1188;Ilona;Bublova;30;0
+1189;Ilona;Hoeksma;1;0
+1190;Ilse;Geldhof;12;0
+1191;Ilse;Pluimers;1;0
+1192;Imelda;Chiappa;2;0
+1193;Immaculada;De Carlos;14;0
+1194;Imogen;Cotter;41;0
+1195;Ina-Yoko;Teutenberg;3;0
+1196;Inbar;Ronen;43;0
+1197;India;Grangier;5;0
+1198;Ine;Beyen;12;0
+1199;Ine;Wannijn;12;0
+1200;Ineke;Heusinkveld-Van IJken;1;0
+1201;Ines;Gutierrez;40;0
+1202;Ines;Varenkamp;3;0
+1203;Inga;Cesuliene (Cilvinaite);9;0
+1204;Inga;Thompson-Benedict;4;0
+1205;Inge;Van Den Broeck;12;0
+1206;Ingrid;Drexel Clouthier;38;0
+1207;Ingrid;Haringa;1;0
+1208;Ingrid;Lorvik;15;0
+1209;Ingrid;Mekers;12;0
+1210;Ingrid;Weigel-Persohn;3;0
+1211;Ingunn;Bollerud;15;0
+1212;Ingvild;Gåskjenn;15;0
+1213;Inmaculada;Monroy;14;0
+1214;Iona;Wynter-Parks;104;0
+1215;Iosune;Murillo Elkano;14;0
+1216;Irena;Waligora;18;0
+1217;Irene;Bitto;2;0
+1218;Irene;Digenis;6;0
+1219;Irene;Evans;8;0
+1220;Irene;Steyn;54;0
+1221;Irene;Van Den Broek;1;0
+1222;Irina;Belan;19;0
+1223;Irina;Kolesnikova;19;0
+1224;Irina;Molicheva;7;0
+1225;Irina;Osiptchenko;7;0
+1226;Irina Roberta;Garcia Coelho;39;0
+1227;Irina;Safonova;20;0
+1228;Irina;Simonova;21;0
+1229;Irina;Stevanovic;44;0
+1230;Irina;Zakharova;19;0
+1231;Iris;Pierre-Diaz;45;0
+1232;Iris;Sachet;5;0
+1233;Iris;Slappendel;1;0
+1234;Irma;Jussila;22;0
+1235;Iryna;Chuzhynova-Denisiuk;21;0
+1236;Iryna;Shpylyova;21;0
+1237;Isabel;Caetano;39;0
+1238;Isabella;Daubert;3;0
+1239;Isabella;Söderberg;11;0
+1240;Isabella;Wieser;25;0
+1241;Isabelle;Carro;5;0
+1242;Isabelle;Gautheron;5;0
+1243;Isabelle;Hoffmann;26;0
+1244;Isabelle;Kerhamon;5;0
+1245;Isabelle;Melet;5;0
+1246;Isabelle;Michel;10;0
+1247;Isabelle;Nicoloso-Verger;5;0
+1248;Isabelle;Thevenet-Sadot;5;0
+1249;Isayana;Alguera Morales;100;0
+1250;Ita;Kryjanovskaia;7;0
+1251;Itsaso;Leunda Coni;14;0
+1252;Iulia;Arustamova;7;0
+1253;Iurani;Blanco Calbet;14;0
+1254;Iva;Pachtova;30;0
+1255;Iva;Zajikova;36;0
+1256;Ivana;Kostic;44;0
+1257;Ivana;Miucic;44;0
+1258;Ivana;Panzi;2;0
+1259;Ivana;Ruszkowski;46;0
+1260;Ivana;Vilim;44;0
+1261;Ivanda;Eiduka;58;0
+1262;Iveta;Kostadinova;102;0
+1263;Iveta;Sitarova;36;24
+1264;Izabella;Wlosowicz;8;0
+1265;Izasqun;Bengoa Perez;14;0
+1266;Jaccolien;Wallaard;1;0
+1267;Jacinta;Coleman;17;0
+1268;Jacky;Barbedette;5;0
+1269;Jacqueline;Brabenetz;3;0
+1270;Jacqueline;Hahn;25;0
+1271;Jacqueline;Hewson;8;0
+1272;Jacqueline;Martin;23;0
+1273;Jacqueline;Mestre;5;0
+1274;Jacqueline;Nelson;17;0
+1275;Jacqueline;Tuyishimire;88;0
+1276;Jacqueline;Van Vliet;1;0
+1277;Jacquelyn;Crowell;4;0
+1278;Jacqui;Uttien;6;0
+1279;Jade;Wiel;5;0
+1280;Jade;Wilcoxson;4;0
+1281;Jadwiga;Czarkowska;18;0
+1282;Jaime;Gunning;6;0
+1283;Jaime;Nielsen;17;0
+1284;Jamie;Bookwalter (Dinkins);4;0
+1285;Jamsran;Ulzii-Solongo;56;0
+1286;Jana;Hrmova;24;36
+1287;Jana;Jerabkova;30;36
+1288;Jana;Kralova;36;0
+1289;Jana;Polanska;36;0
+1290;Jana;Schemmer;3;0
+1291;Jana;Siekmann;68;0
+1292;Jane;Knietsch;3;0
+1293;Jane;Marshall;4;0
+1294;Jane;Robinson;4;0
+1295;Jane;Slack-Smith;6;0
+1296;Janelle;Cole;4;0
+1297;Janelle;Parks;4;0
+1298;Janet;Holcomb;4;0
+1299;Janet;Uwimana;88;0
+1300;Janice;Bolland;4;0
+1301;Janildes;Fernandes Silva;29;0
+1302;Janka;Keseg Stevkova;24;0
+1303;Janneille;Morgan;104;0
+1304;Janneke;Ensing;1;0
+1305;Janneke;Kanis-Busser;1;0
+1306;Janneke;Vos;1;0
+1307;Janny;Smulders-Jonkers;1;0
+1308;Jarmila;Machacova;30;0
+1309;Jarmilla;Snahnicanova;36;24
+1310;Jaroslava;Komankova;24;0
+1311;Jaroslava;Petkova;36;0
+1312;Jasmin;Duehring (Glaesser);13;0
+1313;Jasmin Gabriela;Soto Lopez;72;0
+1314;Jasmin;Hurikino;6;0
+1315;Jayne;Westbury;8;0
+1316;Jazmin;Taborda;74;0
+1317;Jeanette;Denison;4;0
+1318;Jeanette;Matt;3;0
+1319;Jeanine;Martin-Leborgne;5;0
+1320;Jeanne d'Arc;Girubuntu;88;0
+1321;Jeanne;Korevaar;1;0
+1322;Jeannie;Golay;4;0
+1323;Jeannie;Longo-Ciprelli;5;0
+1324;Jeannine;Lemaire;5;0
+1325;Jelena;Dovgaluka;58;0
+1326;Jelena;Eric;44;0
+1327;Jelena;Gracin;46;0
+1328;Jelka;Rakus;27;0
+1329;Jemma;O'Brien;6;0
+1330;Jenelle;Crooks;6;0
+1331;Jenna;Merrick;17;0
+1332;Jennie;Olmedo;61;0
+1333;Jennie;Stenerhag;11;0
+1334;Jennifer;Cesar Salazar;49;0
+1335;Jennifer;Dial;4;0
+1336;Jennifer;Eyerman;4;0
+1337;Jennifer;Fiori;2;0
+1338;Jennifer;Hohl;10;0
+1339;Jennifer;McRae-Evans;4;0
+1340;Jennifer;Purcell;4;0
+1341;Jenny;Algelid;11;0
+1342;Jenny;De Smet;12;0
+1343;Jenny Lorena;Colmenares Colmenares;33;0
+1344;Jenny;McPherson;6;0
+1345;Jenny;Rissveds;11;0
+1346;Jer Ling Serene;Lee;84;0
+1347;Jermaine;Post;1;0
+1348;Jermyn;Prado;97;0
+1349;Jesse;Vandenbulcke;12;0
+1350;Jessenia Alejandra;Meneses Gonzalez;33;0
+1351;Jessica;Allen;6;0
+1352;Jessica;Cerra (Noyola);4;0
+1353;Jessica;Companio;40;0
+1354;Jessica Corrin;Prinner;4;0
+1355;Jessica;Cutler;4;0
+1356;Jessica;Glasbergen;1;0
+1357;Jessica;Kihlbom;11;0
+1358;Jessica;Phillips;4;0
+1359;Jessica;Pratt;6;0
+1360;Jessica;Roberts;8;0
+1361;Jessie;Daams;12;0
+1362;Jessie;McLean;6;0
+1363;Jessy;Druyts;12;0
+1364;Jet;Jongeling;1;0
+1365;Yuanyuan;Jia;42;0
+1366;Jill;Koval;4;0
+1367;Jill;Smith;13;0
+1368;Jimena;Arce Vargas;51;0
+1369;Jimena;Florit Juarez;40;0
+1370;Jip;Van Den Bos;1;0
+1371;Jitka;Cutkova;36;0
+1372;Jo;Bowers;8;0
+1373;Joan;Poole;8;0
+1374;Joan;Wilson;4;0
+1375;Joana;Somarriba Arrola;14;0
+1376;Joanie;Caron;13;0
+1377;Jo-Ann;Veldhuizen;114;0
+1378;Joanna;Ignasiak;18;0
+1379;Joanna;Kershaw;8;0
+1380;Joanna;Patterson;41;0
+1381;Joanna;Roswell-Shand;8;0
+1382;Joanna;Van De Winkel (Hotchkiss);23;0
+1383;Joanne;Burke;17;0
+1384;Joanne;Cavill;8;0
+1385;Joanne;Hogan;6;0
+1386;Joanne;Kiesanowski;17;0
+1387;Jocelyn;Loane;6;0
+1388;Jocelyne;Messori-Hugi;5;0
+1389;Joelle;Numainville;13;0
+1390;Johanna;Buick;17;0
+1391;Johanna;Hack;25;0
+1392;Johanna;Laichner-Freysinger;25;0
+1393;Johanna Noelia;Bracco Olmedo;111;0
+1394;Jolanda;Cools-Van Dongen;1;0
+1395;Jolanda;Kalt;10;0
+1396;Jolanda;Neff;10;0
+1397;Jolanda;Schleuniger;10;0
+1398;Jolanta;Mazlon;18;0
+1399;Jolanta;Polikeviciute;9;19
+1400;Jolien;D'Hoore;12;0
+1401;Jorunn;Kvalø;15;0
+1402;Joscelin;Lowden;8;0
+1403;Josephine;Groenveld;1;0
+1404;Josephine;Randell;8;0
+1405;Josiane;Bost;5;0
+1406;Josiane;Mukashema;88;0
+1407;Josiane;Vanhuysse;12;0
+1408;Josie;Nelson;8;0
+1409;Josie;Talbot;6;0
+1410;Josune;Artolazabal Royo;14;0
+1411;Josune;Gorostidi;14;0
+1412;Joukje;Braam;1;0
+1413;Jovana;Crnogorac;44;0
+1414;Jovana;Krtinic;44;0
+1415;Joyce;Burton;8;0
+1416;Ju Pha;Somnet;71;0
+1417;Juana Isidra;Fernandez Veras;86;0
+1418;Juanita;Feldhahn;6;0
+1419;Juanita;Venter;23;0
+1420;Judith;Arndt;3;0
+1421;Judith;Caunter;4;0
+1422;Judith;Painter;8;0
+1423;Judy;Dietiker;13;0
+1424;Judy;Etjeh;114;0
+1425;Judy;Latoski;13;0
+1426;Jule;Kjellaug;15;0
+1427;Julia;Borgström;11;0
+1428;Julia;Hawley;57;0
+1429;Julia;Reynolds;8;0
+1430;Julia;Sanchez Parma;40;0
+1431;Julia;Shaw;8;0
+1432;Julia;Soek;1;0
+1433;Juliana;Furtado;4;0
+1434;Julie;Augizeau;5;0
+1435;Julie;Beveridge;13;0
+1436;Julie;De Wilde;12;0
+1437;Julie;Dheruelle;5;0
+1438;Julie;Earnshaw;8;0
+1439;Julie;Hanson-Hudetz;4;0
+1440;Julie;Krasniak;5;0
+1441;Julie;Norman Leth;16;0
+1442;Julie;O'Hagan;41;0
+1443;Julie;Pekarkova;30;36
+1444;Julie;Van De Velde;12;0
+1445;Julie;Wynants;12;0
+1446;Julie;Young;4;0
+1447;Juliette;Labous;5;0
+1448;Juliette;Vandekerckhove;5;0
+1449;Juliette;Wigbold;1;0
+1450;June;Thackeray (Oliver);8;0
+1451;Justine;Barrow;6;0
+1452;Justine;Clift;13;0
+1453;Justine;Ghekiere;12;0
+1454;Justyna;Czapla;3;0
+1455;Jutatip;Maneephan;48;0
+1456;Jutta;Niehaus;3;0
+1457;Jutta;Stienen;10;0
+1458;K.;Erikson;17;0
+1459;Kaat;Hannes;12;0
+1460;Kaat;Van Der Meulen;12;0
+1461;Kaja;Rysz;18;0
+1462;Kamilla Sofie;Vallin;16;0
+1463;Kanako;Nishi;31;0
+1464;Hyunkyung;Kang;52;0
+1465;Qiao;Kang;42;0
+1466;Karalina;Biruk (Savenka);20;0
+1467;Karelia Judith;Machado Jaimes;49;0
+1468;Karen;Amaya;98;0
+1469;Karen Ann;Strong-Hearth;13;0
+1470;Karen;Axelsdottir;65;0
+1471;Karen;Bockel;3;0
+1472;Karen;Bordage;57;0
+1473;Karen;Brems-Kurreck;4;0
+1474;Karen;Doljak Hentscholek;53;0
+1475;Karen;Dunne;4;0
+1476;Karen;Fulton;17;0
+1477;Karen;Holliday;17;0
+1478;Karen;Livingston-Bliss;4;0
+1479;Karen;Matamoros Zuniga;51;0
+1480;Karen Patricia;Umaña Salazar;45;0
+1481;Karen;Salazar Lizarasu;82;0
+1482;Karen;Smith;57;0
+1483;Karen;Steurs;12;0
+1484;Karin;Aune;11;0
+1485;Karin;Hänsel;34;0
+1486;Karin;Metzler;10;0
+1487;Karin;Möbes;10;0
+1488;Karin;Romer;3;0
+1489;Karin;Schuitema;1;0
+1490;Karin;Thürig;10;0
+1491;Karin;Wieser;25;0
+1492;Karina;Hegelund Nielsen;16;0
+1493;Karina;Kasenova;7;0
+1494;Karina;Koning-Pekelharing;23;0
+1495;Karina;Skibby;16;0
+1496;Karine;Boitier;5;0
+1497;Karine;Corlay;5;0
+1498;Karine;Depine-Dalmais;5;0
+1499;Karine;Gautard-Roussel;5;0
+1500;Karine;Temporelli;5;0
+1501;Karla Daniella;Vallejos Puchi;47;0
+1502;Karla;Polivkova;30;0
+1503;Karlijn;Swinkels;1;0
+1504;Karmen;Macheriotou;64;0
+1505;Karolina;Karasiewicz;18;0
+1506;Karolina;Kumiega;18;0
+1507;Kata Blanka;Vas;35;0
+1508;Katalin;Filutasne Halasi;35;0
+1509;Katarina;Larsson;39;0
+1510;Katarina;Uhlarikova;24;0
+1511;Katarzyna;Niewiadoma;18;0
+1512;Katarzyna;Pawlowska;18;0
+1513;Katarzyna;Sosna;9;0
+1514;Kate;Chilcott;17;0
+1515;Kate;Cullen;8;0
+1516;Kate;Dinneen;4;0
+1517;Kate;Finegan;6;0
+1518;Kate;McIlroy;17;0
+1519;Kate;Mercer;6;0
+1520;Kate;Nichols;6;0
+1521;Kate;Rudd;41;0
+1522;Katerina;Kohoutkova;30;0
+1523;Katerina;Kolarova;36;30
+1524;Katerina;Nash (Hanusova);30;0
+1525;Katherine;Bates;6;0
+1526;Katherine;Carroll;4;0
+1527;Katherine;Hall;4;0
+1528;Katherine;Herrera Fernandez;51;0
+1529;Katherine;Maine;13;0
+1530;Katherine Steisy;Montoya Zuluaga;33;0
+1531;Katheryn;Curi-Mattis;4;0
+1532;Kathleen;Shannon;6;0
+1533;Kathleen;Sterckx;12;0
+1534;Kathrin;Hammes;3;0
+1535;Kathrin;Schweinberger;25;0
+1536;Kathrin;Wicht;3;0
+1537;Kathrine;Lundström;11;0
+1538;Kathryn;Bertine;94;0
+1539;Kathryn;Buss;4;0
+1540;Kathryn;Donovan;4;0
+1541;Kathryn;Watt;6;0
+1542;Kathy;Ingels;12;0
+1543;Kathy;Lynch;17;0
+1544;Kathy;Riggert;4;0
+1545;Kathy;Rivers;4;0
+1546;Katia;Longhin;2;0
+1547;Katia;Montu;40;0
+1548;Katia;Ragusa;2;0
+1549;Katie;Archibald;8;0
+1550;Katie;Brown;6;0
+1551;Katie;Colclough;8;0
+1552;Katie;Mactier;6;0
+1553;Katja;Böhme;3;34
+1554;Katja;Polzin;3;0
+1555;Katrien;Vermeiren;12;0
+1556;Katrin;Garfoot;6;0
+1557;Katrin;Ranger;3;34
+1558;Katrin;Tobin;4;0
+1559;Katrina;Berger-Grove;4;0
+1560;Katrina;Freter-Sayers;4;0
+1561;Katrine;Aalerud;15;0
+1562;Katy;Saint-Laurent;13;0
+1563;Kavita;Siyag;70;0
+1564;Kaytee;Boyd;17;0
+1565;Keetie;Van Oosten-Hage;1;0
+1566;Keiana;Lester;80;0
+1567;Kelly;Druyts;12;0
+1568;Kelly;Fisher-Goodwin (Benjamin);4;0
+1569;Kelly;Kalm;32;0
+1570;Kelly;Kittredge;4;0
+1571;Kelly;Markus;1;0
+1572;Kelly;Murphy;41;0
+1573;Kelly;Van Den Steen;12;0
+1574;Kelly-Ann;Erdmann-Carter;13;0
+1575;Kelly-Ann;Way;13;0
+1576;Kendall;Ryan;4;0
+1577;Kendra;Kneeland-Wenzel;4;0
+1578;Kerry;Hellmuth;4;0
+1579;Kerstin;Reichling;3;0
+1580;Kerstin;Scheitle;3;0
+1581;Ketti;Manfrin;2;0
+1582;Kevinia;Francis;76;0
+1583;Keziban;Koyun;68;0
+1584;Khadidja;Araoui;77;0
+1585;Kim;Applegate;4;0
+1586;Kim;Cashon;4;0
+1587;Kim;De Baat;1;12
+1588;Hyunji;Kim;52;0
+1589;Kim;Shirley;6;0
+1590;Kim;Staff;8;0
+1591;Yong Ae;Kim;109;0
+1592;Kimberley;Anderson-Smith;4;0
+1593;Kimberley;Bruckner-Baldwin;4;0
+1594;Kimberley;Cadzow;17;0
+1595;Kimberley;Langton-Davidge;13;0
+1596;Kimberley;Pienaar (Le Court De Billot);87;0
+1597;Kimberley;Wells;6;0
+1598;Kimberley;Yap Fui Lui;71;0
+1599;Kimberly;Geist;4;0
+1600;Kirsten;Frattini (Robbins);13;0
+1601;Kirsten;Peetoom;1;0
+1602;Kirsten;Wild;1;0
+1603;Kirsti;Giroux (Lay);13;0
+1604;Kirstie;Van Haaften;1;0
+1605;Kirsty;Broun;6;0
+1606;Kirsty;Robb;17;0
+1607;Kisanet;Weldemichael;85;0
+1608;Lam;Kong;60;0
+1609;Kori;Kelley-Seehafer;4;0
+1610;Krissia;Araya Vega;51;0
+1611;Krista;Claes;12;0
+1612;Kristabel;Doebel-Hickok;4;0
+1613;Kristel Sandra;Soonik;32;0
+1614;Kristel;Werckx;12;0
+1615;Kristen;Faulkner;4;0
+1616;Kristen;LaSasso;4;0
+1617;Kristin;Armstrong;4;0
+1618;Kristin;Lotito;4;0
+1619;Kristin;McGrath;4;0
+1620;Kristin;Sanders;4;0
+1621;Kristina;Iisakkila;22;0
+1622;Kristina;Obrucova;30;0
+1623;Kristina;Ranudd;11;0
+1624;Kristina;Stoney;94;0
+1625;Kristine;Saastad;15;0
+1626;Kristy;Miggels;1;0
+1627;Kristy;Scrymgeour;6;0
+1628;Krisztina;Fay;35;0
+1629;Ksenia;Dobrynina;7;0
+1630;Ksenia;Duyunova (Tsymbaluk);7;0
+1631;Ksenia;Tuhai;20;0
+1632;Kumi;Sugimura;31;0
+1633;Kveta;Halkova;36;0
+1634;Lada;Kozlikova;30;0
+1635;Laetitia;Belaud;5;0
+1636;Laima;Zilporite-Baushite;19;9
+1637;Lamoussa;Zoungrana;118;0
+1638;Meng;Lang;42;0
+1639;Lara;Gillespie;41;0
+1640;Lara;Kroepsch;4;0
+1641;Lara;Ruthven;4;0
+1642;Lara;Vieceli;2;0
+1643;Larisa;Pankova;7;0
+1644;Larisa;Tchouyenka;20;0
+1645;Larissa;Kleinmann;3;0
+1646;Larissa;Martson;21;0
+1647;Latefa;Alyaseen;115;0
+1648;Latoya;Brulee;12;0
+1649;Laura;Asencio;5;0
+1650;Laura;Brown;13;0
+1651;Laura;Calliope;2;0
+1652;Laura Camila;Lozano Ramirez;33;0
+1653;Laura;Charameda;4;0
+1654;Laura;Howatt;4;0
+1655;Laura;Kenny (Trott);8;0
+1656;Laura Lizette;Sander;32;0
+1657;Laura Lorenza;Morfin Macouzet;38;0
+1658;Laura;Massey;8;0
+1659;Laura;McKenzie (Yoisten);13;0
+1660;Laura;Tomasi;2;0
+1661;Laura;Van Der Kamp;1;0
+1662;Laura;Van Gilder;4;0
+1663;Laural;Zilke;13;0
+1664;Laure;Lisnard;5;0
+1665;Laure;Werner;12;0
+1666;Lauren;Ellis;17;0
+1667;Lauren;Kitchen;6;0
+1668;Lauren;Rauck-Komanski;4;0
+1669;Lauren;Stephens (Robertson);4;0
+1670;Lauren;Tamayo (Franges);4;0
+1671;Lauren;Tucker-Hall;4;0
+1672;Lauren;Wright;4;0
+1673;Laurence;Leboucher;5;0
+1674;Laurence;Restoin;5;0
+1675;Lauretta;Hanson;6;0
+1676;Léa;Curinier;5;0
+1677;Lea Lin;Teutenberg;3;0
+1678;Lea;Toffolon;4;0
+1679;Leah;Goldstein;43;13
+1680;Leah;Kirchmann;13;0
+1681;Leah;Thomas;4;0
+1682;Chaek Yung;Lee;52;0
+1683;Eunhee;Lee;52;0
+1684;Joohee;Lee;52;0
+1685;Jumi;Lee;52;0
+1686;Min Hye;Lee;52;0
+1687;Sze Wing;Lee;60;0
+1688;Yeonkyeong;Lee;52;0
+1689;Leeanne;Manderson;6;0
+1690;Leigh Ann;Ganzar;4;0
+1691;Leigh;Hobson;13;0
+1692;Leigh;Lamont;8;0
+1693;Leigh;Valletti-Hopkins;4;0
+1694;Leire;Olaberria Dorronsoro;14;0
+1695;Lejane;Cahard;5;0
+1696;Lejla;Tanovic;99;0
+1697;Lena;Gérault;5;0
+1698;Lene;Hansen;15;0
+1699;Lenie;Dijkstra;1;0
+1700;Lenka;Ilavska;24;36
+1701;Lenka;Tesikova;30;0
+1702;Lenore;Pipes;108;0
+1703;Lensy;Debboudt;12;0
+1704;Leonie;Burford (Aisbett);6;0
+1705;Leonie;Laubig;3;0
+1706;Leontien;Van Der Lienden;1;0
+1707;Leontien;Zijlaard-Van Moorsel;1;0
+1708;Leslee;Schenk;4;0
+1709;Leslie;Pulgar Bravo;47;0
+1710;Leslie;Tomlinson;13;0
+1711;Lesya;Kalitovska;21;0
+1712;Letizia;Borghesi;2;0
+1713;Letizia;Paternoster;2;0
+1714;Wing Yee;Leung;60;0
+1715;Lex;Albrecht;13;0
+1716;Leydi Natalia;Munoz Ruiz;33;0
+1717;Jiujin;Li;42;0
+1718;Meifang;Li;42;0
+1719;Liane;Bahler;3;0
+1720;Liane;Lippert;3;0
+1721;Liane;Wagtho;1;0
+1722;Lidia;Donatti;40;0
+1723;Lidia;Khalik;19;0
+1724;Lidiyamol Sunny;Menamparambil;70;0
+1725;Lieke;Nooijen;1;0
+1726;Lien;Verhaeghe;12;0
+1727;Liesbet;De Vocht;12;0
+1728;Liesbeth;Bakker;1;0
+1729;Lieselot;Decroix;12;0
+1730;Liezel Helena;Jordaan;23;0
+1731;Liisa;Ehrberg;32;0
+1732;Liisi;Rist;32;0
+1733;Lija;Laizane;58;0
+1734;Liliane;Cleiren;12;0
+1735;Lilibeth Del Carmen;Chacon Garcia;49;0
+1736;Lily;Herse;5;0
+1737;Lily;Williams;4;0
+1738;Lina Kristin;Schink;3;0
+1739;Lina Marcela;Hernandez Gomez;33;0
+1740;Lina;Rahme;131;0
+1741;Lina;Svarinska;58;0
+1742;Linda;Brenneman;4;0
+1743;Linda Daniela;Menendez Pereira;98;0
+1744;Linda;Davidson;73;0
+1745;Linda;Gornall;8;0
+1746;Linda;Holowesko;103;0
+1747;Linda;Hyden;11;0
+1748;Linda;Indergand;10;0
+1749;Linda;Jackson;13;0
+1750;Linda;Larsen;15;0
+1751;Linda Melanie;Villumsen Serup;17;16
+1752;Linda;Poelstra-Ringlever;1;0
+1753;Linda;Riedmann;3;0
+1754;Linda;Rousseau;73;0
+1755;Linda;Stein;4;0
+1756;Linda;Van Den Berg;1;0
+1757;Linda;Visentin;2;0
+1758;Lindsay;Duffy;76;0
+1759;Lindsay;Myers;4;0
+1760;Line Marie;Gulliksen;15;0
+1761;Ling Er;Choo;84;0
+1762;Linn;Torp;15;0
+1763;Linne Lykke;Meyer-Nielsen;16;0
+1764;Linnea;Lindgred;4;0
+1765;Liontin Evangelina;Setiawan;90;0
+1766;Lisa;Adamson;106;0
+1767;Lisa;Brambani;8;0
+1768;Lisa;Brennauer;3;0
+1769;Lisa;Goldsmith;4;0
+1770;Lisa;Groothuesheidkamp;75;0
+1771;Lisa;Jacobs;6;0
+1772;Lisa;Klein;3;0
+1773;Lisa;Nordén;11;0
+1774;Lisbeth;Korsmo;15;0
+1775;Lisbeth;Simper;16;0
+1776;Lise;Horslund Christensen;16;0
+1777;Lise;Nøstvold;15;0
+1778;Lise;Olivier;23;0
+1779;Liselotte;Pind;16;0
+1780;Dexiang;Liu;42;0
+1781;Xiao Hui;Liu;42;0
+1782;Xin;Liu;42;0
+1783;Yong Li;Liu;42;0
+1784;Liubov;Pugovichnikova;19;0
+1785;Liuda;Triabaite;9;19
+1786;Liv;Hegstad;15;0
+1787;Liza;Rachetto;4;0
+1788;Lizanne;Bussieres;13;0
+1789;Lizbeth Yarely;Salazar Vazquez;38;0
+1790;Lizzie;Williams;6;0
+1791;Llori;Sharpe;104;0
+1792;Loes;Adegeest;1;0
+1793;Loes;Gunnewijk;1;0
+1794;Loes;Markerink;1;0
+1795;Loes;Sels;12;0
+1796;Lohana;Torres;49;0
+1797;Lona;Munck;16;0
+1798;Lone;Larsen;16;0
+1799;Lonneke;Uneken;1;0
+1800;Loren;Rowney;6;0
+1801;Lorena;Candrian;4;0
+1802;Lorena;Colman;40;0
+1803;Lorena;Foresi;2;0
+1804;Lorena;Llamas Garcia;14;0
+1805;Lorena Maria;Vargas Villamil;33;0
+1806;Lorena;Palagi;2;0
+1807;Lorena;Wiebes;1;0
+1808;Lorian;Graham;6;0
+1809;Lorna;Webb;8;0
+1810;Lory;Copans;43;0
+1811;Lory;Laroy;12;0
+1812;Lotta;Green;11;0
+1813;Lotta;Henttala (Lepistö);22;0
+1814;Lotte;Bak;16;0
+1815;Lotte;Claes;12;0
+1816;Lotte;Kopecky;12;0
+1817;Lotte;Schmidt;16;0
+1818;Louisa;Jenkins;4;0
+1819;Louisa;Smits;12;0
+1820;Louise;Groen;1;0
+1821;Louise;Jones;8;0
+1822;Louise;Moriarty;41;0
+1823;Louise;Norman Hansen;16;0
+1824;Louise;Yaxley;6;0
+1825;Lourdes;Oyarbide Jimenez;14;0
+1826;Luana Maria;Angulo;51;0
+1827;Luba;Rjabchenko;19;0
+1828;Luba;Tikhomirova;19;0
+1829;Lubov;Zadoroznaya;19;0
+1830;Lucia;Pizzolotto;2;0
+1831;Lucia;Valachova;24;0
+1832;Lucie;Jounier;5;0
+1833;Lucie;Pader;5;0
+1834;Luciene;Ferreira Silva;29;0
+1835;Lucienne;Benoit;5;0
+1836;Lucille;Hunkeler;10;0
+1837;Lucinda;Brand;1;0
+1838;Lucja;Pietrzak;18;0
+1839;Lucy;Coldwell;8;0
+1840;Lucy;Kennedy;6;0
+1841;Lucy;Martin;8;0
+1842;Lucy;Murchie;132;0
+1843;Lucy;Van Der Haar (Garner);8;0
+1844;Luddy Alheli;Fernandez Quispe;67;0
+1845;Ludivine;Henrion;12;0
+1846;Ludmila;Koblerova;36;0
+1847;Ludmila;Lugova;36;0
+1848;Ludmilla;Bravkova;7;0
+1849;Ludmilla;Drujinina;19;0
+1850;Ludmilla;Felina;19;0
+1851;Ludmilla;Huemerlehner;25;0
+1852;Ludmilla;Markelova;19;0
+1853;Ludmilla;Potapenko;19;0
+1854;Luigina;Bissoli;2;0
+1855;Luisa Fernanda;Naranjo Henao;33;0
+1856;Luisa;Pegoraro;2;0
+1857;Luisa;Seghezzi;2;0
+1858;Luisa;Tamanini;2;0
+1859;Luise;Keller;3;0
+1860;Luz Adriana;Tovar Salgado;33;0
+1861;Luzia;Zberg;10;0
+1862;Lydia;Boylan;41;0
+1863;Lydia;Brein-Haritonides;5;0
+1864;Lydia;Ventker (Wegemund);3;0
+1865;Lydie;Lucas;5;0
+1866;Lyn;Lemaire;4;0
+1867;Lyn;Meadows;6;0
+1868;Lyne;Bessette;13;0
+1869;Lynette;Burger;23;0
+1870;Lynn;Gaggioli (Brotzman);4;0
+1871;Lynn;Nixon;6;0
+1872;M.;McDonald;17;0
+1873;Maaike;Boogaard;1;0
+1874;Maaike;Polspoel;12;0
+1875;Maaria;Siren;22;0
+1876;Maaris;Meier;32;0
+1877;Mabel;Antony;70;0
+1878;Macarena;Larrain;47;0
+1879;Madeleine;Lindberg;11;0
+1880;Madeleine;Olsson;11;0
+1881;Madeleine;Sandig;3;0
+1882;Madeline;Tormoen;4;0
+1883;Madonna;Harris;17;0
+1884;Maëlle;Grossetete;5;0
+1885;Maëva;Squiban;5;0
+1886;Magali;Gallimard;5;0
+1887;Magali;Le Floc'h;5;0
+1888;Magali;Pache;10;0
+1889;Magalie;Finot-Laivier;5;0
+1890;Magalie;Mocquery;5;0
+1891;Magda;Spazierer;3;0
+1892;Magdalena;Day;23;0
+1893;Magdalena;Rigo;14;0
+1894;Magdalena;Zamolska;18;0
+1895;Magdally;Trujillo Nagles;33;0
+1896;Magen;Long;4;0
+1897;Maggie;Coles-Lyster;13;0
+1898;Mahitha;Mohan;70;0
+1899;Maija;Rossi (Laurila);22;0
+1900;Maike;Van Der Duin;1;0
+1901;Maja;Markovic;44;0
+1902;Maja;Perinovic;46;0
+1903;Maja;Watt Adamsen;16;0
+1904;Maja;Wloszczowska;18;0
+1905;Majda;Horvat;46;0
+1906;Makhabbat;Umutzhanova;66;0
+1907;Malgorzata;Jasinska;18;0
+1908;Malgorzata;Jedrzejewska;18;0
+1909;Malgorzata;Sandej;18;0
+1910;Malgorzata;Wysocka;18;0
+1911;Malin;Eriksen;15;0
+1912;Malin;Rydlund;11;0
+1913;Mandana;Dehghan Manshadi;78;0
+1914;Mandy;Hampel;3;0
+1915;Mandy;Heintz;4;0
+1916;Manon;De Rooy;1;0
+1917;Manon;Jutras;13;0
+1918;Manorama Devi;Tongbram;70;0
+1919;Manuela;Freund;3;0
+1920;Manuela;Muresan;55;0
+1921;Mara;Abbott;4;0
+1922;Mara;Calliope;2;0
+1923;Marcela;Castillo;51;0
+1924;Marcela;Prieto Castañeda;38;0
+1925;Marcela;Rubiano Caceres;51;0
+1926;Marcela Veronica;Zarate;40;0
+1927;Marci;Mauro;4;0
+1928;Marcia;Dick;92;0
+1929;Marcia;Eicher-Vouets;10;0
+1930;Marcia;Fernandes Silva;29;0
+1931;Marcia;Guimaraes;39;0
+1932;Mareille;Meijering;1;0
+1933;Marella Vania;Salamat;97;0
+1934;Margaret;Hemsley;6;0
+1935;Margaret;Henderson;6;0
+1936;Margaret;Pearce;8;0
+1937;Margaret;Thompson;8;0
+1938;Margareth;Castel-Heurtaux;5;0
+1939;Margaretha;Groen;1;0
+1940;Margarita;Fullana Riera;14;0
+1941;Margarita;Misyurina;69;0
+1942;Margarita;Syradoeva;7;0
+1943;Margarita Victoria;Garcia Cañellas;14;0
+1944;Margaux;Vigié;5;0
+1945;Margherita;Fiuzzi;2;0
+1946;Margot;Vanpachtenbeke;12;0
+1947;Marguerita;Dams;12;0
+1948;Mari;Holden-Paulsen;4;0
+1949;Maria Andreina;Daza Santana;49;0
+1950;Maria Antonieta;Gaxiola Gonzalez;38;0
+1951;Maria;Blower-Porter;8;0
+1952;Maria;Canins;2;0
+1953;Maria Carla;Alvarez;40;0
+1954;Maria Carmen;Del Soto Perez;14;0
+1955;Maria;Contreras;40;0
+1956;Maria;Cressari;2;0
+1957;Maria;Del Pilar Avendano;67;0
+1958;Maria Elena;Briceño Jimenez;49;0
+1959;Maria Elisa;Gomez Maltez;100;0
+1960;Maria;Gallastegui Aizpurua;14;0
+1961;Maria Giulia;Confalonieri;2;0
+1962;Maria;Halan;20;0
+1963;Maria;Handstanger;25;0
+1964;Maria;Hassan;17;0
+1965;Maria;Hawkins;13;0
+1966;Maria;Heim;10;0
+1967;Maria;Herrijgers;12;0
+1968;Maria Isabel;Moreno Allue;14;0
+1969;Maria;Johnsson;11;0
+1970;Maria;Jongeling;1;0
+1971;Maria Jose;Lopez;14;0
+1972;Maria Jose;Silva Lopez;100;0
+1973;Maria Jose;Vargas Barrientos;51;0
+1974;Maria;Kennes;12;0
+1975;Maria;Lawrence;8;0
+1976;Maria Lucilene;Alves Silva;29;0
+1977;Maria Luisa;Calle Williams;33;0
+1978;Maria Luisa;Izquierdo;14;0
+1979;Maria Luiza Bello;Diniz (Evangelista);29;0
+1980;Maria;Lukchina;19;0
+1981;Maria Magdalena;Angulo Ledezma;51;0
+1982;Maria;Martins;39;0
+1983;Maria;Masczyk;18;0
+1984;Maria Mercedes;Cagigas Amedo;14;0
+1985;Maria Mercedes;Fadiga;40;0
+1986;Maria Mora;Cicera;14;0
+1987;Maria;Novolodskaya;7;0
+1988;Maria Ogn;Gudmundsdottir;65;0
+1989;Maria;Parra Constante;74;0
+1990;Maria;Peßl;25;0
+1991;Maria;Rivera Ortiz;61;0
+1992;Maria;Taranova;19;0
+1993;Maria;Tsal;7;0
+1994;Maria Vittoria;Sperotto;2;0
+1995;Maria;Witzke Rojas;61;0
+1996;Maria-Ecaterina;Stancu;55;0
+1997;Marian;Nagypal;35;0
+1998;Mariana;Garcia Britos;111;0
+1999;Mariana;Mohammad;71;0
+2000;Mariana;Rojas Barrueto;67;0
+2001;Marianna;Lorenzoni;2;0
+2002;Marianne;Berglund;11;0
+2003;Marianne;Stuwe;3;0
+2004;Marianne;Vos;1;0
+2005;Maria-Paola;Turcutto;2;0
+2006;Maribel;Diaz Esquibel;38;0
+2007;Maribel Roxana;Aguirre Mangue;40;0
+2008;Marica;Berardi;2;0
+2009;Marie;Eribo;41;0
+2010;Marie;Höljer;11;0
+2011;Marie Jeanne;Donabedian;5;0
+2012;Marie;Le Net;5;0
+2013;Marie;Lindberg;11;0
+2014;Marie;Purvis;8;0
+2015;Marie;Reilly;41;0
+2016;Marie;Rosado Collado;61;0
+2017;Marie;Schousboe Vilmann;16;0
+2018;Marie Simone;Jaudin;5;0
+2019;Marie-Claude;Audet;13;0
+2020;Marie-Eve;Mochel;5;0
+2021;Marie-Francoise;Bissardon;5;0
+2022;Marie-Helene;Daminato-Trentin;5;0
+2023;Marie-Jose;Chaleat;5;0
+2024;Marie-Josee;Fontaine;12;0
+2025;Marieke;De Groot;1;0
+2026;Marieke;Van Wanroij;1;0
+2027;Mariela Analia;Delgado;40;0
+2028;Marie-Laure;Cloarec;5;0
+2029;Marielle;Garde-Guichard;5;0
+2030;Marielle;Romme-Van Scheppingen;1;0
+2031;Marie-Paul Hermione;Ahouissou;133;0
+2032;Marie-Rose;Gaillard;12;0
+2033;Marie-Therese;Bouchet;5;0
+2034;Marie-Thérèse;Naessens;12;0
+2035;Mariette;Laenen;12;0
+2036;Marijn;De Vries;1;0
+2037;Marika;Murer;10;0
+2038;Marilena;Zerbini;2;0
+2039;Mari-Liis;Möttus;32;0
+2040;Marilyne;Texier;5;0
+2041;Marina;Boduljak;46;0
+2042;Marina;Emanuelsson;11;0
+2043;Marina;Jaunatre;5;0
+2044;Marina;Khodchenkova-Visentini;7;0
+2045;Marina;Likhanova;7;0
+2046;Marina;Prudnikova;7;19
+2047;Marina;Rantanen;22;0
+2048;Marina;Romoli;2;0
+2049;Marina;Scenini;2;0
+2050;Marina;Theodorou;64;0
+2051;Marinette;Flowers;62;0
+2052;Mariolle;Feudjio;140;0
+2053;Marion;Ayebale;141;0
+2054;Marion;Borras;5;0
+2055;Marion;Borst;1;0
+2056;Marion;Brauen;10;0
+2057;Marion;Clignet;5;0
+2058;Marion;Levin;11;0
+2059;Marion;Norbert Riberolle;12;5
+2060;Marion;Rousse;5;0
+2061;Marion;Sicot;5;0
+2062;Marisa;Asplund;4;0
+2063;Marisol;Tellado;61;0
+2064;Marissa;Stander (Van Der Merwe);23;0
+2065;Marit;Raaijmakers;1;0
+2066;Maritza;Corredor;33;0
+2067;Mariya;Slokotovich;66;0
+2068;Marja-Leene;Huhtiniemi;11;0
+2069;Marjan;Bik;1;0
+2070;Marjolaine;Bazin;5;0
+2071;Marjolein;Van't Geloof;1;0
+2072;Marla;Albury;103;0
+2073;Marleen;Clemminck;12;0
+2074;Marlen;Jöhrend;3;0
+2075;Marlen;Reusser;10;0
+2076;Marlena;Ratusz;18;0
+2077;Marlies;Kort;75;0
+2078;Marlies;Meijas Garcia;28;0
+2079;Marlijn;Binnendijk;1;0
+2080;Marta;Bastianelli;2;0
+2081;Marta;Bobadilla Henriquez;47;0
+2082;Marta;Cavalli;2;0
+2083;Marta;Evangelisti;2;0
+2084;Marta;Jaskulska;18;0
+2085;Marta;Lach;18;0
+2086;Marta;Romeu Solaz;14;0
+2087;Marta;Seregely;35;0
+2088;Marta;Tagliaferro;2;0
+2089;Marta;Vajda;35;0
+2090;Marta;Vilajosana Andreu;14;0
+2091;Marte;Berg Edseth;15;0
+2092;Martha;Tulesova;36;0
+2093;Marthe;Truyen;12;0
+2094;Martina;Condra;99;0
+2095;Martina;Corazza;2;0
+2096;Martina;Fidanza;2;0
+2097;Martina;Ritter;25;0
+2098;Martina;Ruzickova;30;0
+2099;Martina;Sablikova;30;0
+2100;Martina;Thomasson;11;0
+2101;Martina;Zwick;3;0
+2102;Martine;Bras;1;0
+2103;Martine;Gauthier;5;0
+2104;Martine;L'Haridon;5;0
+2105;Martyna;Klekot;18;0
+2106;Mary;Barendregt;1;0
+2107;Mary Jane;Reoch;4;0
+2108;Mary;Rosinski;4;0
+2109;Mary;Zider;4;0
+2110;Maryam;Jalaliyeh;78;0
+2111;Mary-Ann;Martin;4;0
+2112;Mary-Ann;Shaw;6;0
+2113;Marylin;Wells;13;0
+2114;Maryline;Salvetat;5;0
+2115;Maryna;Altukhova;21;0
+2116;Mascha;Pijnenborg;1;0
+2117;Matea;Deliu;46;0
+2118;Matilda;Raynolds;6;0
+2119;Matilde;Vitillo;2;0
+2120;Maud;Oudeman;1;0
+2121;Maud;Rijnbeek;1;0
+2122;Maura;Kinsella;4;0
+2123;Maureen;Arens;1;0
+2124;Maureen Kaila;Vergara;45;0
+2125;Maureen;Manley;4;0
+2126;Maxine;Johnson;8;0
+2127;May-Britt;Nilsen;15;0
+2128;May-Britt;Våland;15;0
+2129;Mayra;Chincilla;51;0
+2130;Mayuko;Hagiwara;31;0
+2131;Meeri;Bodelid;11;0
+2132;Meg;Gordon;4;0
+2133;Megan;Armitage;41;0
+2134;Megan;Bäckstedt-Hughes;8;0
+2135;Megan;Dunn;6;0
+2136;Megan;Guarnier;4;0
+2137;Megan;Jastrab;4;0
+2138;Megan;Long;4;0
+2139;Megan;McKenna;13;0
+2140;Megha;Gugad;70;0
+2141;Meike;De Bruijn;1;0
+2142;Melanie;Dorion;13;0
+2143;Melanie;Ferrand;5;0
+2144;Melanie;Hessling;3;0
+2145;Melanie;Mansveld;1;0
+2146;Melanie;McQuaid;13;0
+2147;Melanie;Nadeau;13;0
+2148;Melanie;Sears;8;0
+2149;Melanie;Späth;41;0
+2150;Melina;Rasmussen;16;0
+2151;Melina;Vieyra Oyola;67;0
+2152;Melisa;Rollins;4;0
+2153;Melissa;Hinz;54;0
+2154;Melissa;Holt;17;0
+2155;Melissa;Hoskins;6;0
+2156;Melissa;Placido Oliveira Maia;39;0
+2157;Melissa;Sanborn;4;0
+2158;Melodie;Lesueur;5;0
+2159;Melodie;Metzger;4;0
+2160;Melody;Wong;4;0
+2161;Lang;Meng;42;0
+2162;Zhaojuan;Meng;60;0
+2163;Mercedes;Ateca;14;0
+2164;Meredith;Miller;4;0
+2165;Merve;Demircioglu;68;0
+2166;Merve;Tayfun Marmara;68;0
+2167;Mette;Andersen;16;0
+2168;Mette;Fischer Andreasen;16;0
+2169;Mia;Griffin;41;0
+2170;Mia;Radotic;46;0
+2171;Micaela Beatriz;Gutierrez;40;0
+2172;Micaela;Sarabia Ricaldez;82;0
+2173;Michaela;Brunngraber;25;0
+2174;Michaela;Drummond;17;0
+2175;Michaela;Malarikova;24;0
+2176;Michaela;Schiemenz;34;0
+2177;Michal;Ella;43;0
+2178;Michela;Balducci;2;0
+2179;Michela;Fanini;2;0
+2180;Michela;Miniati;2;0
+2181;Michela;Pavin;2;0
+2182;Michela;Tommasi;2;0
+2183;Michelle;Hyland;17;0
+2184;Michelle;Ward;8;0
+2185;Mie;Becker Lacota;16;0
+2186;Mie;Bjørndal Ottestad;15;0
+2187;Miek;Vyncke;12;0
+2188;Mieke;Docx;12;0
+2189;Mieke;Havik;1;0
+2190;Mieke;Kröger;3;0
+2191;Miho;Masuchi;31;0
+2192;Miho;Oki;31;0
+2193;Mijntje;Geurts;1;0
+2194;Mikayla;Harvey;17;0
+2195;Miki;Uetake;31;0
+2196;Milagro;Mena Solano;51;0
+2197;Milena;Koseticka;36;30
+2198;Milka;Milic Fernandez;67;0
+2199;Millie;Couzens;8;0
+2200;Millie;Robinson;8;0
+2201;Miluse;Flaskova-Glave;30;36
+2202;Minata;Soro;120;0
+2203;Minke;Bakker;1;0
+2204;Minke;Slingerland (Van Dongen);1;0
+2205;Minna-Maria;Kangas;22;0
+2206;Minnie;Brinkhof-Nieuwenhuis;1;0
+2207;Miranda;Griffiths;6;0
+2208;Mireia;Benito Pellicer;14;0
+2209;Mirella;Harju;22;0
+2210;Mirella;Van Melis;1;0
+2211;Miriam;Bar-On;43;0
+2212;Miriam;Bjørnsrud;15;0
+2213;Miriam;Larraule;40;0
+2214;Mirjam;Gysling (Marzohl);10;0
+2215;Mirjam;Hauser-Senn;10;0
+2216;Mirjam;Melchers-Van Poppel;1;0
+2217;Miroslava;Vasilenco;101;0
+2218;Mirta;Luduena;40;0
+2219;Miryam Maritza;Nuñez Padilla;74;0
+2220;Mischa;Bredewold;1;0
+2221;Miyoko;Karami;31;0
+2222;Modesta;Vzesniauskaite;9;0
+2223;Moira;Tarraran;2;0
+2224;Molly;Swann;8;0
+2225;Molly;Weaver;8;0
+2226;Monalisa;Araya-Chneslasie;85;0
+2227;Monia;Baccaille;2;0
+2228;Monica;Bandini;2;0
+2229;Monica;De Waal;1;0
+2230;Monica;Gallucci;2;0
+2231;Monica;Holler;11;0
+2232;Monica Lorena;Mendez Ortiz;33;0
+2233;Monica;Rodriguez Cordoba;86;0
+2234;Monica;Santapa;40;0
+2235;Monica;Valen-Valvik;15;0
+2236;Moniek;Rotmensen;1;0
+2237;Moniek;Tenniglo;1;0
+2238;Monika;Brzezna;18;0
+2239;Monika;Diebel;3;0
+2240;Monika;Freunthaler;25;0
+2241;Monika;Furrer;10;0
+2242;Monika;Grzebinoga;18;0
+2243;Monika;Kadlecova;24;0
+2244;Monika;Kiraly;35;0
+2245;Monika;Krawczyk;18;0
+2246;Monika;Maklas;3;0
+2247;Monika;Schachl;25;0
+2248;Monika;Tyburska;18;0
+2249;Monique;Guignard;5;0
+2250;Monique;Knol;1;0
+2251;Monique;Van De Berg-De Bruin;1;0
+2252;Monique;Van De Ree;1;0
+2253;Montserrat;Alonso Bernal;14;0
+2254;Morena;Tartagni;2;0
+2255;Morgane;Coston;5;0
+2256;Mossana;Debesay;85;0
+2257;Mounia;Benaji;79;0
+2258;Muriel;Maitland;8;0
+2259;Muriel;Sharp;8;0
+2260;Myfanwy;Galloway;6;0
+2261;Mylène;De Zoete;1;0
+2262;Myriam;Meyers-Keller;26;0
+2263;Myrsa Analia;Grance Gaona;53;0
+2264;N.;Spitshyna;19;0
+2265;Ahreum;Na;52;0
+2266;Nada;Cristofoli;2;0
+2267;Nadejda;Pashkova;7;0
+2268;Nadezhda;Kibardina;19;7
+2269;Nadia;Amhaouch;79;0
+2270;Nadia;Germonpre;12;0
+2271;Nadia;Molteni;2;0
+2272;Nadia;Quagliotto;2;0
+2273;Nadia;Samoletova;19;0
+2274;Nadia;Skoukdi;79;0
+2275;Nadia;Stramigioli;2;0
+2276;Nadia;Triquet-Claude;5;0
+2277;Nadie;Poussier;5;0
+2278;Nadine;Fiers;12;0
+2279;Nadine Michaela;Gill;3;0
+2280;Nadine;Moussa;93;0
+2281;Najla;Aljuraiwa;115;0
+2282;Nancy;Burghart;4;0
+2283;Nancy;Casallas;33;0
+2284;Nancy;Chavez Aguilar;67;0
+2285;Nancy;Nieman;4;0
+2286;Nancy;Van Der Burg;1;0
+2287;Naomi;Singh;92;0
+2288;Naomi;Williams;6;0
+2289;Natacha;Maes;12;0
+2290;Natalia;Boyarskaya;7;0
+2291;Natalia;Navarro Cerdas;51;0
+2292;Natalia;Olsevskaja;19;9
+2293;Natalia;Valevach;19;0
+2294;Natalie;Bates;6;0
+2295;Natalie;Grinczer;8;0
+2296;Natalie;Van Gogh;1;0
+2297;Natalja;Bakanova;19;7
+2298;Natalja;Bubentchikova;7;0
+2299;Natalja;Chipaeva;19;0
+2300;Natalja;Gladkova;7;0
+2301;Natalja;Grinina;19;7
+2302;Natalja;Kachalka;21;0
+2303;Natalja;Karimova;7;0
+2304;Natalja;Kistchuk;21;19
+2305;Natalja;Melekhina;19;0
+2306;Natalja;Semerukhina;19;0
+2307;Natalja;Yuganiuk;21;19
+2308;Nataly;Arevalo Garcia;74;0
+2309;Natalya;Saifutdinova (Stefanskaya);66;0
+2310;Natalya;Sokovnina;66;0
+2311;Natascha;Klewitz;3;0
+2312;Natasha;Den Ouden;1;0
+2313;Natasha;Mendez Bonelly;86;0
+2314;Natasja;Nieuwenhuizen;1;0
+2315;Nathalie;Cantet;5;0
+2316;Nathalie;Darengosse;5;0
+2317;Nathalie;Eklund;11;0
+2318;Nathalie;Gendron;5;0
+2319;Nathalie;Guereau;5;0
+2320;Nathalie;Jeuland;5;0
+2321;Nathalie;Lamborelle;26;0
+2322;Nathalie;Pelletier;5;0
+2323;Nathalie;Six;5;0
+2324;Nathalie;Van Katwijk;1;0
+2325;Nathalie;Visser;11;0
+2326;Neelamma;Malligawad;70;0
+2327;Nel;De Crits;12;0
+2328;Nele;D'Haene;12;0
+2329;Nelleke;Van Dijk;1;0
+2330;Neringa;Raudonyte;9;0
+2331;Nesrine;Ghedira;93;0
+2332;Nesrine;Houili;77;0
+2333;Neve;Bradbury;6;0
+2334;Fenghan;Ni;42;0
+2335;Niamh;Fisher-Black;17;0
+2336;Nicky;Samuel;17;0
+2337;Nicla;Fogagnolo;2;0
+2338;Nicola;Juniper;8;0
+2339;Nicole;Brändli;10;0
+2340;Nicole;Cooke;8;0
+2341;Nicole;Demars-Gingles;13;0
+2342;Nicole;Ebner;10;0
+2343;Nicole;Erato;117;0
+2344;Nicole;Frain;6;0
+2345;Nicole;Freedman;4;43
+2346;Nicole;Gallego;62;0
+2347;Nicole;Hanselmann;10;0
+2348;Nicole;Heine;3;0
+2349;Nicole;Hofer-Suter;10;0
+2350;Nicole;Mitchell;57;0
+2351;Nicole;Peitzmeier;3;0
+2352;Nicole;Reinhart;4;0
+2353;Nicole;Steigenga;1;0
+2354;Nicole;Steurs;12;0
+2355;Nicole;Vandenbroeck;12;0
+2356;Nicole;Vermast;1;0
+2357;Nicole;Verzier;5;0
+2358;Nicoleta Lavinia;Rolea;55;0
+2359;Nicolle;Bruderer Cofino;72;0
+2360;Nida;Bibi;125;0
+2361;Nienke;Vinke;1;0
+2362;Niesha;Alexander;121;0
+2363;Nika;Bobnar;27;0
+2364;Nikki;Brammeier (Harris);8;0
+2365;Nikki;Butterfield (Egyed);6;0
+2366;Niknaz;Fazeli;78;0
+2367;Nikol;Plosaj;18;0
+2368;Nikola;Noskova;30;0
+2369;Nikole Pamela;Narvaez Pita;74;0
+2370;Nilmarie;Gonzalez Mendoza;61;0
+2371;Nina;Berton;26;0
+2372;Nina;Brikhs;19;0
+2373;Nina;Buijsman;1;0
+2374;Nina;Homovec;27;0
+2375;Nina;Johansen;15;0
+2376;Nina;Johnsen;15;0
+2377;Nina;Kessler;1;0
+2378;Nina;Koehn;3;0
+2379;Nina;Ovcharenko;21;0
+2380;Nina;Shishina;19;0
+2381;Nina;Søbye;15;0
+2382;Nina;Trofimova;19;0
+2383;Nina;Wrobel (Göhl);3;0
+2384;Nina;Yuyakovan;19;0
+2385;Ninoska;Andina Portillo;98;0
+2386;Nita;Latifi;112;0
+2387;Nita;Van Vliet;1;0
+2388;Noelle;Sabbe;5;0
+2389;Noemi;Cantele;2;0
+2390;Noemi;Rüegg;10;0
+2391;Noemi;Yucra Naupa;67;0
+2392;Noémie;Abgrall;5;0
+2393;Nontsikelelo;Mdlovu;119;0
+2394;Noortje;Tabak;1;0
+2395;Nor Azian;Alias;71;0
+2396;Nora;Jencusova;24;0
+2397;Nora;Rösch;3;0
+2398;Nora;Sahmoud;79;0
+2399;Nour;Dissem;93;0
+2400;Nur Aisyah;Mohamad Zubir;71;0
+2401;Nur Syazwana;Mohd Jamil;71;0
+2402;Nuria;Florencio Cabré;14;0
+2403;Nurul Alissa;Mohd Azman;71;0
+2404;Nurul Suhada;Zainal;71;0
+2405;Odalis;Tomps;28;0
+2406;Oenone;Wood;6;0
+2407;Oksana;Knish;7;0
+2408;Oksana;Saprykina;21;0
+2409;Olena;Andruk;21;0
+2410;Olena;Budovitska;21;0
+2411;Olena;Oliynik;21;0
+2412;Olena;Pavlukhina;63;21
+2413;Olena;Sharga;21;0
+2414;Olga;Cappiello;2;0
+2415;Olga;Cisternas Munoz;47;0
+2416;Olga;Dobrysheva (Krivokoneva);69;0
+2417;Olga;Jantuganova;69;0
+2418;Olga;Khortova;7;0
+2419;Olga;Puklicka;36;0
+2420;Olga;Slyussareva;7;0
+2421;Olga;Sokolova;7;19
+2422;Olga;Svirtchuk;21;0
+2423;Olga;Tishenko;7;0
+2424;Olga;Zabelinskaya;7;69
+2425;Olha;Shekel;21;0
+2426;Olivia;Baril;13;0
+2427;Olivia;Descartes;142;0
+2428;Olivia;Dillon;41;0
+2429;Olivia;Gollan;6;0
+2430;Olivia;Ray;17;0
+2431;Olivija;Baleisyte;9;0
+2432;Olympia;Maduro Fahie;106;0
+2433;Ombretta;Ugolini;2;0
+2434;Omer;Shapira;43;0
+2435;Orvokki;Pajunen;22;0
+2436;Oxana;Kashchyshyna;21;0
+2437;Oxana;Kostenko;7;0
+2438;Oxana;Kozonchuk;7;0
+2439;Pong Sim;Pak;109;0
+2440;Pam;Travers;73;0
+2441;Pamela;Bryan;13;0
+2442;Pamela;Schuster;4;0
+2443;Panawaraporn Sutharat;Boonsawat;48;0
+2444;Yao;Pang;60;0
+2445;Pantea;Gholipour;78;0
+2446;Paola;Dustyn;4;0
+2447;Paola;Latini;3;0
+2448;Paola;Munoz Grandon;47;0
+2449;Paola;Pezzo;2;0
+2450;Paola;Scotti;2;0
+2451;Paola;Toane;40;0
+2452;Parastoo;Bastidehkharghani;78;0
+2453;Pascale;Dernoncourt;5;0
+2454;Pascale;Duchene;5;0
+2455;Pascale;Iavarone (Schnider);10;0
+2456;Pascale;Jeuland-Tranchant;5;0
+2457;Pascale;Ranucci;5;0
+2458;Pat;Engberg;4;0
+2459;Patricia;Chavarria;62;0
+2460;Patricia;Ounzari;5;0
+2461;Patricia;Palencia Aleman;38;0
+2462;Patricia;Pepper;8;0
+2463;Patricia;Quere;5;0
+2464;Patricia;Ravera;40;0
+2465;Patricia;Roel Vazquez;14;0
+2466;Patricia;Schwager;10;0
+2467;Patricia;Woyke De Essant;67;0
+2468;Patricia;Zulato;2;0
+2469;Patrizia;Spadaccini;2;0
+2470;Patsy;Maegerman;12;0
+2471;Patti;Cashman;4;0
+2472;Patty;Peoples;4;0
+2473;Paula Andrea;Jara Andrade;74;0
+2474;Paula Andrea;Patiño Bedoya;33;0
+2475;Paula Cristina;Herrera Hernandez;51;0
+2476;Paula;Findlay;13;0
+2477;Paula;Gorycka;18;0
+2478;Paula Lucrecia;Guillen Rivera;72;0
+2479;Paula;McNamara;4;0
+2480;Paula;Suominen;22;0
+2481;Paula;Westher (Svensson);11;0
+2482;Pauliena;Rooijakkers;1;0
+2483;Paulina;Brzezna-Bentkowska;18;0
+2484;Paulina;Fuentealba;47;0
+2485;Paulina;Guz;18;0
+2486;Pauline;Allin;5;0
+2487;Pauline;Ferrand-Prévot;5;0
+2488;Pavlina;Daneckova;30;0
+2489;Pavlina;Sulcova;30;0
+2490;Paz;Bash;43;0
+2491;Peggy;Maass;4;0
+2492;Penelope;Smithers;6;0
+2493;Penny;Edwards;8;0
+2494;Pernilla;Johansson;11;0
+2495;Pernille;Langelund Jakobsen;16;0
+2496;Pernille;Mathiesen;16;0
+2497;Peta;Mullens;6;0
+2498;Petra;De Boer-Grimbergen;1;0
+2499;Petra;De Bruin;1;0
+2500;Petra;Dijkman;1;0
+2501;Petra;Koch-Stegherr;3;0
+2502;Petra;Meier-Walczewski;10;0
+2503;Petra;Rossner;3;34
+2504;Petra;Stiasny;10;0
+2505;Petra;Van Der Giessen;1;0
+2506;Petra;Van Der Stel;1;0
+2507;Petra;Willinger (Sinzinger);25;0
+2508;Petra;Zrimsek;27;0
+2509;Petya;Minkova;102;0
+2510;Pfeiffer;Georgi;8;0
+2511;Phetdarin;Somrat;48;0
+2512;Phyllis;Hines;4;0
+2513;Pia;Johansson;11;0
+2514;Pia;Pensaari;22;0
+2515;Pia;Prim;11;0
+2516;Pia;Sundstedt;22;0
+2517;Pierrine;Raimboeuf;5;0
+2518;Pippa;Handley;8;0
+2519;Pirjo;Pyykkonen;22;0
+2520;Polina;Kirillova;7;0
+2521;Polona;Batagelj;27;0
+2522;Pranita;Soman;70;0
+2523;Priska;Doppmann;10;0
+2524;Promise;Ntshese;134;0
+2525;Yixian;Pu;42;0
+2526;Puck;Pieterse;1;0
+2527;Quinty;Schoens;1;0
+2528;Quinty;Ton;1;0
+2529;Rabia;Garib;125;0
+2530;Racha;Belkacem Ben Ouanae;77;0
+2531;Rachel;Heal;8;0
+2532;Rachel;Leroux;5;0
+2533;Rachel;Mercer;17;0
+2534;Rachel;Neylan;6;0
+2535;Rachele;Barbieri;2;0
+2536;Radka;Kynclova;36;0
+2537;Ragnhild;Kostøl-Haug;15;0
+2538;Raisa;Obodovskaya;19;0
+2539;Rannveig Anna;Guicharnaud;65;0
+2540;Raphaelle;Lamusse;87;0
+2541;Raquel;Aberasturi;14;0
+2542;Raquel;De Castro;14;0
+2543;Raquel;Queiros;39;0
+2544;Rasa;Leleivyte;9;0
+2545;Rasa;Mazeikyte;9;0
+2546;Rasa;Polikeviciute;9;19
+2547;Rauni;Suomela;22;0
+2548;Razia;Younis;125;0
+2549;Rebeca;Sarabia Ricaldez;82;0
+2550;Rebecca;Bailey;17;0
+2551;Rebecca;Bishop;8;0
+2552;Rebecca;Conzelman;4;0
+2553;Rebecca;Daughton;4;0
+2554;Rebecca;Durrell (Nixon);8;0
+2555;Rebecca;Gonzalez;51;0
+2556;Rebecca;Koerner;16;0
+2557;Rebecca;Romero;8;0
+2558;Rebecca;Twigg;4;0
+2559;Rebecca;Vandiver;136;0
+2560;Rebecca;Wiasak;6;0
+2561;Regina;Bruins;1;0
+2562;Regina;Marunde;3;0
+2563;Regina;Schleicher;3;0
+2564;Relebohile;Mothobi;123;0
+2565;Renata;Baymetova;69;0
+2566;Renata;Danis;35;0
+2567;Renata;Holova;30;0
+2568;Renate;Damm;34;0
+2569;Renate;Krämer;34;0
+2570;Renee;Fortunato;6;0
+2571;Renée;Ganneau;5;0
+2572;Renee;Thuin;5;0
+2573;Renée;Vissac;5;0
+2574;Reta;Trotman;17;0
+2575;Reyhane Khatooni;Daryan;78;0
+2576;Rhae Christie;Shaw;13;0
+2577;Rhonda;Quick;4;0
+2578;Ricarda;Bauernfeind;3;0
+2579;Riejanne;Markus;1;0
+2580;Riina;Toomis;32;0
+2581;Rikke;Lønne;16;0
+2582;Rikke;Sandhøj Olsen;16;0
+2583;Rinata;Abdullayeva;63;0
+2584;Rinata;Sultanova (Akhmetcha);66;0
+2585;Rita;Timpers;1;0
+2586;Ritva;Mykkänen;22;0
+2587;Roba;Helane;110;0
+2588;Roberta;Bonanomi;2;0
+2589;Roberta;Ferrero;2;0
+2590;Robin;Farina;4;0
+2591;Robyn;Battison;6;0
+2592;Rochelle;Gilmore;6;0
+2593;Rocio;Parrado Guarnizo;33;0
+2594;Roghayeh;Sharifi;78;0
+2595;Romina;Diaz;47;0
+2596;Romina Maribel;Medrano Ilizarbe;67;0
+2597;Romy;Kasper;3;0
+2598;Ronel;Van Wyk;23;0
+2599;Rosa;D'Angelo;2;0
+2600;Rosa Emma;Rodriguez;33;0
+2601;Rosa;Jakupova;19;7
+2602;Rosa Maria;Aponte;33;0
+2603;Rosa Maria;Bravo Soba;14;0
+2604;Rosa;Sels;12;0
+2605;Rosalind;Reekie-May;17;0
+2606;Rosalisa;Lapomarda;2;0
+2607;Rosane;Kirch;29;0
+2608;Rosanna;Piantoni;2;0
+2609;Rosario;Corral Diaz;14;0
+2610;Rose Anna;McShane Hoey;57;0
+2611;Roselyne;Riou-Chalon;5;0
+2612;Rosica;Kostova;83;0
+2613;Rosita;Reijnhout;1;0
+2614;Rosmarie;Kurz;10;0
+2615;Rossella;Callovi;2;0
+2616;Rossella;Galbiati;2;0
+2617;Rossella;Ratto;2;0
+2618;Rotem;Gafinovitz;43;0
+2619;Roxana;Alvarado Lopez;51;0
+2620;Roxana;Ortiz;45;0
+2621;Roxane;Fournier;5;0
+2622;Roxane;Knetemann;1;0
+2623;Rozanne;Slik;1;0
+2624;Xiong Yin;Ruan;42;0
+2625;Ruby;Roseman-Gannon;6;0
+2626;Rushlee;Buchanan;17;0
+2627;Ruth;Corset;6;0
+2628;Ruth;Edwards (Winder);4;0
+2629;Ruth;Martinez Gomez;14;0
+2630;Ruth;Moll Marques;14;0
+2631;Ruth;Schmid;3;0
+2632;Ruthie;Matthes;4;0
+2633;Rutuja;Satpute;70;0
+2634;Ruzena;Rackova;36;0
+2635;Ruzena;Voberkova;36;0
+2636;S.;Holland;17;0
+2637;Sabine;Dopleb;3;0
+2638;Sabine;Gentieu;5;0
+2639;Sabine;Meyer;3;0
+2640;Sabine;Spitz;3;0
+2641;Sabrina;Arhab;5;0
+2642;Sabrina;Emmasi;10;0
+2643;Sabrina;Raaijmakers;1;0
+2644;Sabrina;Stultiens;1;0
+2645;Safia;Al Sayegh;116;0
+2646;Saila;Miettinen;22;0
+2647;Saira Massiel;Martinez Zaldana;45;0
+2648;Sally;Ashbridge;8;0
+2649;Sally;Blackmore;106;0
+2650;Sally;Boyden;8;0
+2651;Sally;Fraser;17;0
+2652;Sally;Hodge;8;0
+2653;Sally;Zack;4;0
+2654;Samanta;Costa;2;0
+2655;Samantha Lucia;Molina Rodriguez;67;0
+2656;Samantha;Rizzi;2;0
+2657;Samantha;Schneider;4;0
+2658;Samia;Flores Cayambe;74;0
+2659;Samira;Abraham;70;0
+2660;Sandra;Alonso Dominguez;14;0
+2661;Sandra;Kotre;3;0
+2662;Sandra;Krames;3;0
+2663;Sandra;Kratz-Schumacher;3;0
+2664;Sandra;Krauer;10;0
+2665;Sandra;Levenez;5;0
+2666;Sandra;Missbach;3;0
+2667;Sandra Patricia;Gomez Sanchez;33;0
+2668;Sandra;Postma;91;0
+2669;Sandra;Rombouts;1;0
+2670;Sandra;Temporelli;5;0
+2671;Sandra;Van Veghel;1;0
+2672;Sandra;Wampfler;10;0
+2673;Sandrine;Bideau;5;0
+2674;Sandrine;Guiet;5;0
+2675;Sandrine;Lestrade;5;0
+2676;Sandrine;Marcuz-Moreau;5;0
+2677;Sandy;Espeseth;13;0
+2678;Sandy;Snyder;4;0
+2679;Sanna;Lehtimäki;22;0
+2680;Sanne;Bamelis;12;0
+2681;Sanne;Cant;12;0
+2682;Sanne;Schmidt;16;0
+2683;Sanne;Van Paassen;1;0
+2684;Sara;Bellone;2;0
+2685;Sara;Bergen;13;0
+2686;Sara;Carrigan;6;0
+2687;Sara;Felloni;2;0
+2688;Sara;Frece;27;0
+2689;Sara;Mustonen-Lichan;11;0
+2690;Sara;Penton;11;0
+2691;Sara;Pocuca;44;0
+2692;Sara;Poidevin;13;0
+2693;Sara;Savino;2;0
+2694;Sara;Van De Vel;12;0
+2695;Sara;Waller-Dean;8;0
+2696;Sarah;Assas;77;0
+2697;Sarah;Bonnett;57;0
+2698;Sarah;Düster;3;0
+2699;Sarah;Forrest;4;0
+2700;Sarah;Gigante;6;0
+2701;Sarah;Grab;10;0
+2702;Sarah;Inghelbrecht;12;0
+2703;Sarah;Neil;13;0
+2704;Sarah;Petre-Mears;94;0
+2705;Sarah;Phillips;8;0
+2706;Sarah;Rijkes;25;0
+2707;Sarah;Roy;6;0
+2708;Sarah;Storey (Bailey);8;0
+2709;Sarah;Symington;8;0
+2710;Sarah;Uhl;4;0
+2711;Sarah;Ulmer;17;0
+2712;Sarah-Lena;Hofmann;3;0
+2713;Sari;Jörgensen;10;0
+2714;Sari;Saarelainen;22;0
+2715;Sarka;Vichova;30;36
+2716;Saskia;Elemans;1;0
+2717;Sauking Raquel Shi;Pimentiel;45;0
+2718;Seda;Krylova;7;0
+2719;Ségolène;Thomas;5;0
+2720;Selam Amha;Gerefiel;89;0
+2721;Semra;Yetis;68;0
+2722;Sereina;Trachsel;10;0
+2723;Serena;Gazzini;2;0
+2724;Serika Mitchell;Guluma Ortiz;33;0
+2725;Severine;Cosard;5;0
+2726;Severine;Desbouys;5;0
+2727;Séverine;Eraud;5;0
+2728;Severine;Prior;5;0
+2729;Shaikha;Rashed;116;0
+2730;Shaina;Rodriguez;81;0
+2731;Shakhnoza;Abdullaeva;69;0
+2732;Shalini;Zabaneh;62;0
+2733;Shani;Bloch-Davidov;43;0
+2734;Shannon;Hutchison;4;0
+2735;Shannon;Malseed;6;0
+2736;Shara;Marché (Gillow);6;0
+2737;Shari;Bossuyt;12;0
+2738;Shari;Kain-Rodgers;4;0
+2739;Sharlotte;Lucas;17;0
+2740;Sharon;Laws;8;0
+2741;Sharon;Sarabia Ricaldez;82;0
+2742;Sharon;Van Essen;1;0
+2743;Sharon;Vandromme;12;0
+2744;Sheikha;Al Suwaidi;127;0
+2745;Sheila;Clark;8;0
+2746;Sheila;Holmes;8;0
+2747;Shelley;Kaschula;73;0
+2748;Shelley;Olds;4;0
+2749;Shanrong;Shen;42;0
+2750;Sheyla;Gutierrez Ruiz;14;0
+2751;Jieun;Shin;52;0
+2752;Shirin;Van Anrooij;1;0
+2753;Shirley;Marsden;8;0
+2754;Shirley;Mayers-Hockridge;8;0
+2755;Shirong;Woo;84;0
+2756;Shoko;Kashiki;31;0
+2757;Shontelle;Gauthier;4;0
+2758;Sian;Mulholland;6;0
+2759;Sibora;Kadriu;112;0
+2760;Siew Kieng Dinah;Chan;84;0
+2761;Sigrid;Corneo;2;27
+2762;Sigrid;Jochems;1;0
+2763;Siham;Es-Saddy;79;0
+2764;Silja;Johannesdottir;65;0
+2765;Silke;Kogelman;1;0
+2766;Silke;Smulders;1;0
+2767;Silvia;Bordigoni;2;0
+2768;Silvia;Cubillos;14;0
+2769;Silvia;Fürst;10;0
+2770;Silvia;Hauser;25;0
+2771;Silvia;Juarez;14;0
+2772;Silvia;Magri;2;0
+2773;Silvia Maria;Rodas Maldonado;53;0
+2774;Silvia;Nenning;25;0
+2775;Silvia Noemi;Leon Salinas;53;0
+2776;Silvia;Parietti;2;0
+2777;Silvia;Persico;2;0
+2778;Silvia;Valsecchi;2;0
+2779;Silvia;Zanardi;2;0
+2780;Silvia;Zoller;10;0
+2781;Silvija;Paceviciene (Latozaite);9;0
+2782;Simona;Frapporti;2;0
+2783;Simona;Grossi;2;0
+2784;Simona;Muzzioli;2;0
+2785;Simona;Parente;2;0
+2786;Simone;Aschwanden;10;0
+2787;Simone;Boilard;13;0
+2788;Simone;Boubechiche;5;0
+2789;Simone;Ellegeest;12;0
+2790;Simone;Hoefig;3;0
+2791;Simone;Klewitz;3;0
+2792;Simone;Steffen;26;0
+2793;Simone;Van Der Heide;1;0
+2794;Sina;Frei;10;0
+2795;Sinead;Miller;4;0
+2796;Siobhan;Horgan (Dervan);41;0
+2797;Sirpa;Ahlroos-Kouko;22;0
+2798;Sissel;Holloway;122;0
+2799;Sissy;Van Alebeek;1;0
+2800;Siti Nur Adibah Akma;Mohd Fuad;71;0
+2801;Siv-Peggy;Odly;15;0
+2802;Sjoukje;Dufoer;12;0
+2803;Skye;Davidson;73;0
+2804;Skylar;Schneider;4;0
+2805;Smith;;8;0
+2806;Sofia;Beggin;2;0
+2807;Sofia;Bertizzolo;2;0
+2808;Sofia;Fagerström;11;0
+2809;Sofie;Andersson;11;0
+2810;Sofie;De Vuyst;12;0
+2811;Sofie;Goor;12;0
+2812;Sofie;Van Rooijen;1;0
+2813;Sofie;Verdonck;12;0
+2814;Solbjørk;Anderson;16;0
+2815;Soledad Noelia;Fernandez;40;0
+2816;Solongo;Tserenlkham;56;0
+2817;Solrunn;Flataas;15;0
+2818;Solymar;Rivera Torres;61;0
+2819;Somayeh;Yazdani;78;0
+2820;Sonali Chanu;Mayanglambam;70;0
+2821;Sonia;Bazire;5;0
+2822;Sonia;Huguet-Raiwisque;5;0
+2823;Sonia;Rocca;2;0
+2824;Sonia;Waddell;17;0
+2825;Sonja;Storsved;22;0
+2826;Sonja;Van Kuik-Pfister;1;0
+2827;Sonja;Vermeylen;12;0
+2828;Sophie;Creux;5;0
+2829;Sophie;Hosotte-Eglin;5;0
+2830;Sophie;Quinanzoni;5;0
+2831;Sophie;Swaertvaeger;5;0
+2832;Sophie;Wright;8;0
+2833;Soraia;Duarte Silva;39;0
+2834;Soraya;Paladin;2;0
+2835;Spela;Kern;27;0
+2836;Stacey;Peters;4;0
+2837;Stacy;Marple;4;0
+2838;Stefania;Carmine;10;0
+2839;Steffi;Häberlin;10;0
+2840;Steffy;Van Den Haute;12;0
+2841;Stella;Priakhina;19;0
+2842;Stephanie;Alden;143;0
+2843;Stephanie;Gaumnitz (Pohl);3;0
+2844;Stephanie;Roorda;13;0
+2845;Stephanie;Terrasson;5;0
+2846;Stine;Andersen Borgli;15;0
+2847;Sue;Golder;17;0
+2848;Sue;Gornall;8;0
+2849;Sue;Novara;4;0
+2850;Sue;Wright;8;0
+2851;Sunita Devi;Yanglem;70;0
+2852;Supuksorn;Nuntana;48;0
+2853;Susan;Brown;122;0
+2854;Susan;Carter;8;0
+2855;Susan;Crow;8;0
+2856;Susan;Ehlers-Sutton;4;0
+2857;Susan;Elias;4;0
+2858;Susan;O'Mara;41;0
+2859;Susan;Palmer-Komar;13;0
+2860;Susan;Piscioni-Maidwell;117;0
+2861;Susan;Shook-Byrnes;4;0
+2862;Susan;Yeaton-McDonough;4;0
+2863;Susanna;Zorzi;2;0
+2864;Susannah;Pryde;17;0
+2865;Susanne;Andersen;15;0
+2866;Susanne;Beyer;3;0
+2867;Susanne;Karlsson;11;0
+2868;Susanne;Krauer-Jolidon;10;0
+2869;Susanne;Lange;3;0
+2870;Susanne;Ljungskog;11;0
+2871;Susanne;Meistrok;1;0
+2872;Susanne;Nedergaard;16;0
+2873;Susanne;Plambeck;3;0
+2874;Susie;Simpson;4;0
+2875;Susie;Wood;17;0
+2876;Suzanne;De Goede;1;0
+2877;Suzanne;Lemieux;13;0
+2878;Suzie;Godart;26;0
+2879;Suzie;Weldon;4;0
+2880;Svetlana;Brkic;105;44
+2881;Svetlana;Guiguileva;21;19
+2882;Svetlana;Ivakhonenkova-Potemkina;7;0
+2883;Svetlana;Kuznetsova (Vasilieva);7;0
+2884;Svetlana;Nikolaeva;19;0
+2885;Svetlana;Pachshenko;66;0
+2886;Svetlana;Pauliukaite;9;0
+2887;Svetlana;Samokhvalova;7;19
+2888;Svetlana;Stepanova;7;0
+2889;Svetlana;Stolbova (Bubnenkova);7;0
+2890;Svetlana;Zubareva;7;0
+2891;Svitlana;Galyuk;21;0
+2892;Swasti;Singh;70;0
+2893;Sybille;Erdmann-Voigt;3;0
+2894;Sylvia;Beardon;8;0
+2895;Sylvia;Burka;13;0
+2896;Sylvia;Huebscher;3;0
+2897;Sylvia;Will;34;0
+2898;Sylvianne;Junal;5;0
+2899;Sylvie;Riedlé;5;0
+2900;Sylvie;Slos;12;0
+2901;Sylvie;Villain;5;0
+2902;Sylvie;Welter;26;0
+2903;Sylwia;Kapusta-Szydlak;18;0
+2904;Symenko;Jochinke;6;0
+2905;Taisa;Naskovich;20;0
+2906;Tala;Abujbara;127;0
+2907;Tamara;Boyd;17;0
+2908;Tamara;Dronova-Balabolina;7;0
+2909;Tamara;Garkushina;19;0
+2910;Tamara;Kolesnikova;19;0
+2911;Tamara;Kuchinskaya;19;0
+2912;Tamara;Novikova;19;0
+2913;Tamara;Poliakova;19;21
+2914;Tamiko;Butler;76;0
+2915;Tamires Fanny;Radatz;29;0
+2916;Tammy;Jacques;4;0
+2917;Tana;Stone;4;0
+2918;Xin;Tang;42;0
+2919;Tania;Belvederesi;2;0
+2920;Tania;Bettel;26;0
+2921;Tania;Duff-Miller;17;0
+2922;Tanja;Erath;3;0
+2923;Tanja;Hennes-Schmidt;3;0
+2924;Tanja;Klein;25;0
+2925;Tanja;Reuland;26;0
+2926;Tanja;Slater;8;0
+2927;Tanja;Wintersdorf;26;0
+2928;Tanya;Dubnicoff;13;0
+2929;Tara;Reyes Tydingco;108;0
+2930;Tara;Whitten;13;0
+2931;Taralee;Ordonez;62;0
+2932;Tarja-Leena;Lehtimäki;22;0
+2933;Taryn;Heather;6;0
+2934;Tasnime;Gharbi;93;0
+2935;Tatiana;Andriutchenko;21;0
+2936;Tatiana;Antoshina;7;0
+2937;Tatiana;Cotiga;101;0
+2938;Tatiana;Duk;20;21
+2939;Tatiana;Guderzo;2;0
+2940;Tatiana;Jasekova;24;0
+2941;Tatiana;Makeyeva;20;0
+2942;Tatiana;Panina (Shishkova);7;20
+2943;Tatiana;Stiajkina;21;0
+2944;Tatiana;Voronova;19;0
+2945;Tatiani Cristina;Oliveira;29;0
+2946;Tatjana;Kaverina;7;0
+2947;Tatjana;Kolesnikova;19;0
+2948;Tatjana;Mitianina;21;0
+2949;Tatjana;Poliakova;19;0
+2950;Tatsiana;Sharakova;20;0
+2951;Tatyana;Geneleva;66;0
+2952;Tatyana;Makarova;69;0
+2953;Tatyana;Shadskaya;19;0
+2954;Tayler;Wiles;4;0
+2955;Tea;Vikstedt-Nyman;22;0
+2956;Teniel;Campbell;80;0
+2957;Teodora;Ruano Sanchon;14;0
+2958;Teresa;Adam;17;0
+2959;Tereza;Korvasova;30;0
+2960;Tereza;Medvedova;24;0
+2961;Tereza;Nemcova-Hurikova;30;0
+2962;Tereza;Neumanova;30;0
+2963;Tess;Downing;6;0
+2964;Tessa;Fabry;6;0
+2965;Tetyana;Riabchenko;21;0
+2966;Teuntje;Beekhuis;1;0
+2967;Thalita;De Jong;1;0
+2968;Thatsani;Wichana;48;0
+2969;Thea;Smulders;1;0
+2970;Thea;Thorsen;15;0
+2971;Thea;Van Rijnsoever;1;0
+2972;Theresa;Cliff-Ryan;4;0
+2973;Theresa;Senff;3;0
+2974;Therese;Wolter;26;0
+2975;Thi Kim Ngan;Lam;96;0
+2976;Thi That;Nguyen;96;0
+2977;Thrude;Karlsen (Natholmen);15;0
+2978;Tiffany;Cromwell;6;0
+2979;Tiffany;Tretschok;4;0
+2980;Tiina;Nieminen;22;0
+2981;Tiina;Pohjalainen;22;0
+2982;Tilly;Minnee;1;0
+2983;Tina;Andreassen;15;0
+2984;Tina;Liebig;3;0
+2985;Tina;Nilsson;11;0
+2986;Tina;Pic (Mayolo);4;0
+2987;Tineke;Kole-Fopma;1;0
+2988;Tiril;Jørgensen;15;0
+2989;Tisha;Witwey;4;0
+2990;Tjasa;Rutar;27;0
+2991;Tone;Benjaminsen;15;0
+2992;Tone;Fossum;15;0
+2993;Toni;Bradshaw;17;0
+2994;Tosca;Argentin;2;0
+2995;Tracey;Buckley;13;0
+2996;Tracey;Gaudry-Watson;6;0
+2997;Tracy;Clark;17;0
+2998;Trhas;Teklehaimanot Tesfay;89;0
+2999;Tri;Kusuma Santia;90;0
+3000;Tricia;Walters;4;0
+3001;Trine;Hansen;16;0
+3002;Trine;Schmidt;16;0
+3003;Trixi;Worrack;3;0
+3004;Trudy;Van De Elzen;1;0
+3005;Truus;Van Der Plaat;1;0
+3006;Ya Yu;Tsai;59;0
+3007;Tsaone Oratile;Latiwa;134;0
+3008;Tsega;Beyene;89;0
+3009;Hsiao Chia;Tseng;59;0
+3010;Tsepiso;Lerata;123;0
+3011;Tuija;Kinnunen;22;0
+3012;Tulla;Benjaminsen;15;0
+3013;Tuulikki;Jahre;11;0
+3014;Uenia;Fernandes Souza;29;0
+3015;Ulfet;Nazarli;63;0
+3016;Ulla;Nilsson;11;0
+3017;Ulrica;Andersson;11;0
+3018;Ulrika;Wånggren;11;0
+3019;Ulrike;Baumgartner;25;0
+3020;Unni;Larsen;15;0
+3021;Urska;Pintar;27;0
+3022;Urska;Zigart;27;0
+3023;Ursula;Bürger;3;0
+3024;Urte;Juodvalkyte;9;0
+3025;Usoa;Ostolaza Zabala;14;0
+3026;Ute;Enzenauer;3;0
+3027;Vaida;Pikauskaite;9;0
+3028;Valene;Nanda;135;0
+3029;Valentina;Alessio;2;0
+3030;Valentina;Bastianelli;2;0
+3031;Valentina;Carretta;2;0
+3032;Valentina;Dymova;19;0
+3033;Valentina;Evpake;19;0
+3034;Valentina;Gerasimova;7;19
+3035;Valentina;Karpenko;21;0
+3036;Valentina;Kirilova;19;0
+3037;Valentina;Kuznetsova;19;0
+3038;Valentina;Paniagua;33;0
+3039;Valentina;Polkhanova;7;19
+3040;Valentina;Rebrovskaja;19;0
+3041;Valentina;Scandolara;2;0
+3042;Valentina;Sergejeva;19;0
+3043;Valentina;Smirnova;19;0
+3044;Valentine;Fortin;5;0
+3045;Valentine;Nzayisenga;88;0
+3046;Valeria;Cappellotto;2;0
+3047;Valeria;Escobar Ruiloba;82;0
+3048;Valeria;Muller;40;0
+3049;Valeria;Pintos;40;0
+3050;Valérie;Chavant;5;0
+3051;Valérie;Demey;12;0
+3052;Valerie;Ourthiague;5;0
+3053;Valerie;Rushworth;8;0
+3054;Valérie;Simonnet;5;0
+3055;Valeriia;Kononenko;21;0
+3056;Valeriia;Kozlova;7;0
+3057;Valquiria Alessandra;Bento Pardial;29;0
+3058;Vanesa;Durman;44;0
+3059;Vanessa;Cheatley-Guyton;17;0
+3060;Vanessa;Kelsick;76;0
+3061;Vanessa Sofia;David Pereira;39;0
+3062;Vanessa;Sousa Fernandes;39;0
+3063;Vanessa;Van Dijk;1;0
+3064;Vania;Rossi;2;0
+3065;Vanja;Vonckx;12;0
+3066;Varvara;Fasoi;50;0
+3067;Veerle;Ingels;12;0
+3068;Vera;Carrara;2;0
+3069;Vera;Gorbatcheva;19;0
+3070;Vera;Hohlfeld;3;34
+3071;Vera;Koedooder;1;0
+3072;Vera;Looser (Adrian);54;0
+3073;Verena;Absalyamova;7;0
+3074;Verena;Jooß;3;0
+3075;Verna;Buhler;13;0
+3076;Veronica;Cornolti;2;0
+3077;Veronica;Ewers;4;0
+3078;Veronica;Leal Balderas;38;0
+3079;Veronica;Martinez;40;0
+3080;Veronika;Andreasson;11;0
+3081;Veronika Anna;Kormos;35;0
+3082;Veronika;Christen;10;0
+3083;Veronika;Jeger;35;0
+3084;Veronika;Pare;35;0
+3085;Veronique;Belleter;12;0
+3086;Véronique;De Roose;12;0
+3087;Veronique;Fortin;13;0
+3088;Veronique;Labonte;13;0
+3089;Vibe Jane;Kolding;16;0
+3090;Vicky;Thomas;8;0
+3091;Vicky;Whitelaw (Eustace);6;0
+3092;Victoire;Berteau;5;0
+3093;Victoire;Van Nuffel;12;0
+3094;Victorie;Guilman;5;0
+3095;Viena;Balen;46;0
+3096;Viktoriya;Danova;102;0
+3097;Viktoriya;Sidorenko;63;0
+3098;Vilija;Sereikaite;9;0
+3099;Vini;Scott;4;0
+3100;Viola;Paulitz-Müller;3;0
+3101;Viola;Schneider;3;0
+3102;Virginie;Lafargue;5;0
+3103;Virginie;Moinard;5;0
+3104;Vita;Heine (Peterson);15;58
+3105;Vittoria;Bussi;2;0
+3106;Vittoria;Guazzini;2;0
+3107;Viviana;Cejas;40;0
+3108;Viviana;Velasquez;33;0
+3109;Volha;Hayeva;20;0
+3110;Wahazit;Kidane;85;0
+3111;Wanda;Jankowska;18;0
+3112;Li;Wang;42;0
+3113;Shuging;Wang;42;0
+3114;Tingting;Wang;42;0
+3115;Wenche;Stensvold;15;0
+3116;Wencke;Aasmundsen;15;0
+3117;Wendy;Ducreux Sanchez;81;0
+3118;Wendy;Houvenaghel;8;0
+3119;Wendy;Kramp;1;0
+3120;Wiktoria;Pikulik;18;0
+3121;Wil;Bezemer-Buitelaar;1;0
+3122;Willeke;Knol;1;0
+3123;Willeke;Van De Weide;1;0
+3124;Willy;Kwantes;1;0
+3125;Wilma;Van Der Wal;1;0
+3126;Wilmarys;Moreno Duran;49;0
+3127;Wogahta;Gebrehiwet;85;0
+3128;Wan Yiu Jamie;Wong;60;0
+3129;Xaverine;Nirere;88;0
+3130;Xenia;Estrada Villalta;45;0
+3131;Ling Luo;Xiao;60;0
+3132;Diao;Xiaojuan;60;0
+3133;Liu;Xin;42;0
+3134;Yin Ruan;Xong;42;0
+3135;Yinhua;Yan;42;0
+3136;Qianyu;Yang;60;0
+3137;Yanina;Kuskova;69;0
+3138;Yanthi;Fuchiyanti;90;0
+3139;Yara;Kastelijn;1;0
+3140;Yarden;Avidan;43;0
+3141;Yasmine;El Meddah;77;0
+3142;Yeilien;Fernandez;28;0
+3143;Yekaterina;Yuraitis;66;0
+3144;Yelizaveta;Bochkaryova;21;0
+3145;Yeneth;Amurrio Barrientos;82;0
+3146;Yesennia;Villalta;51;0
+3147;Ka Wah Alexandra;Yeung;60;0
+3148;Yevgenia;Vysotska;21;0
+3149;Yineth;Cubilla;81;0
+3150;Yiwei;Luo;84;0
+3151;Yngrid;Porras Ochoa;49;0
+3152;Yoanka;Gonzalez Perez;28;0
+3153;Yohana;Dawit;85;0
+3154;Yolanda;Mendes;113;0
+3155;Jin A;You;52;0
+3156;Yudelmis;Dominguez Masague;28;0
+3157;Yui;Ishida;31;0
+3158;Yulia;Blindyuk;7;0
+3159;Yulia;Demina;7;0
+3160;Yulia;Iliynikh;7;0
+3161;Yulia;Martisova;7;0
+3162;Yulia;Murenkaia;21;0
+3163;Yulia;Razenkova;7;0
+3164;Yulier;Rodriguez Jimenez;28;0
+3165;Yuliia;Biriukova;21;0
+3166;Yumari;Gonzalez Valdivieso;28;0
+3167;Yuval;Bar Ziv;43;0
+3168;Yvonne;Elkuch;107;0
+3169;Yvonne;McGregor;8;0
+3170;Yvonne;Reynders;12;0
+3171;Yvonne;Schnorf-Wabel;10;0
+3172;Yvonne;Troost-Brunen;1;0
+3173;Zana;Pavicevic;124;0
+3174;Zanri;Rossouw;23;0
+3175;Zdena;Stramberska;36;0
+3176;Ke Xin;Zeng;59;0
+3177;Luyao;Zeng;42;0
+3178;Li Ping;Zhang;42;0
+3179;Haijuan;Zhao;42;0
+3180;Na;Zhao;42;0
+3181;Xisha;Zhao;42;0
+3182;Zinaida;Stahurskaya;20;0
+3183;Zita;Urbonaite;9;19
+3184;Zlata;Hrncirova;36;0
+3185;Zlatica;Bazola-Minori (Gavlakova);24;0
+3186;Zoe;Bäckstedt;8;0
+3187;Zoja;Chakhova;19;0
+3188;Zonica Lola;Milicevic Antic;44;105
+3189;Zorica;Jurkic;99;0
+3190;Zsofia;Szabo;35;0
+3191;Zulfia;Zabirova;7;66
+3192;Zuralmy;Rivas Molina;49;0
+3193;Zuzana;Buriankova;36;0
+3194;Zuzana;Vojtasova;24;0
+3195;Magdeleine;Vallieres;13;0
+3196;Cat;Ferguson;8;0
+3197;Monica;Trinca Colonel;2;0
+3198;Dominika;Wlodarczyk;18;0
+3199;Eline;Jansen;1;0
+3200;Marion;Bunel;5;0
+3201;Sara;Casasola;2;0
+3202;Mara;Roldan;13;0
+3203;Marthe;Goossens;12;0
+3204;Aurela;Nerlo;18;0
+3205;Imogen;Wolff;8;0
+3206;Sophie;Van Berswordt;1;0
+3207;Sigrid;Ytterhus Haugset;15;0
+3208;Olha;Kulynych;21;0
+3209;Isabella;Holmgren;13;0
+3210;Maya;Kingma;1;0
+3211;Linda;Laporta;2;0
+3212;Eleonora;Ciabocco;2;0
+3213;Julie;Bego;5;0
+3214;Audrey;De Keersmaeker;12;0
+3215;Karolina;Perekitko;18;0
+3216;Stina;Kagevi;11;0
+3217;Kim;Cadzow;17;0
+3218;Minke;Solbjørk Andreson;16;0
+3219;Lore;De Schepper;12;0
+3220;Giada;Borghesi;2;0
+3221;Anne;Knijnenburg;1;0
+3222;Sophie;Marr;6;0
+3223;Mari;Hole Mohr;15;0
+3224;Magdalene;Lind;15;0
+3225;Marina;Komina;7;0
+3226;Elynor;Bäckstedt;8;0
+3227;Karin;Söderqvist;11;0
+3228;Marina;Garau Roca;14;0
+3229;Giulia;Giuliani;2;0
+3230;Romina;Hinojosa Cruz;38;0
+3231;Elisabeth;Ebras;32;0
+3232;Katrijn;De Clercq;12;0
+3233;Nienke;Veenhoven;1;0
+3234;Linda;Zanetti;10;0
+3235;Lucie;Fityus;6;0
+3236;Sara;Fiorin;2;0
+3237;Fauve;Bastiaenssen;12;0
+3238;Marith;Vanhove;12;0
+3239;Elisa;Valtulini;2;0
+3240;Ava;Holmgren;13;0
+3241;Nadia;Gontova;13;0
+3242;Flora;Perkins;8;0
+3243;Gaia;Segato;2;0
+3244;Meike;Uiterwijk Winkel;1;0
+3245;Monica;Greenwood;8;0
+3246;Kristyna;Burlova;30;0
+3247;Babette;Van Der Wolf;1;0
+3248;Alison;Avoine;5;0
+3249;Viktoria;Chladonova;24;0
+3250;Julia;Kopecky;30;0
+3251;Sarah;Van Dam;13;0
+3252;Scarlett;Souren;1;0
+3253;Nela;Slanikova;30;0
+3254;April;Tacey;8;0
+3255;Camilla;Rånes Bye;15;0
+3256;Anna;Van Wersch;1;0
+3257;Lucinda;Stewart;6;0
+3258;Yelizaveta;Sklyarova;66;0
+3259;Lani;Wittewrongel;12;0
+3260;Kaja;Risz;18;0
+3261;Célia;Le Mouël;5;0
+3262;Grace;Lister;8;0
+3263;Lauren;Dickson;8;0
+3264;Helena;Bieber;3;0
+3265;Marie;Schreiber;26;0
+3266;Febe;Jooris;12;0
+3267;Ella;Simpson;6;0
+3268;Paula;Blasi Cairol;14;0
+3269;Valentina;Cavallar;25;0
+3270;Célia;Gery;5;0
+3271;Ginia;Caluori;10;0
+3272;Laura;Stigger;25;0
+3273;Laura;Molenaar;1;0
+3274;Anneke;Dijkstra;1;0
+3275;Emma;Siegers;12;0
+3276;Izzy;Sharp;8;0
+3277;Emily;Ehrlich;4;0
+3278;Monika;Jat;70;0
+3279;Maritoni;Krog;97;0
+3280;Fatema;Murad;144;0
+3281;Phi Kun;Pan;71;0
+3282;Nur Fitrah Binti;Shaari;71;0
+3283;Sonia;Olmedo Ocampos;53;0
+3284;Catalina;Vidaurre Kossmann;47;0
+3285;Nancy Debe;Akinyi;145;0
+3286;Taylor;Knibb;4;0
+3287;Wame;Ntwaayakgosi;134;0
+3288;Jia;Sun;42;0
+3289;Kitija;Siltumena;58;0
+3290;Petra;Zsanko;35;0
+3291;Liana;De Medeiros;57;0
+3292;Gergana;Stoyanova;102;0
+3293;Hao;Zhang;42;0
+3294;Flor;Espiritusanto Estevez;86;0
+3295;Fiona;Mangan;41;0
+3296;Imene;Maldji;77;0
+3297;Ivana;Nikolaeva Tonkova;102;0
+3298;Dewika Mulya;Sova;90;0
+3299;Hiromi;Ohori;31;0
+3300;Neriman Neyran Elden;Kösker;68;0
+3301;Angy Deneska;Luna Ramirez;49;0
+3302;Raimatou;Kpovihouede;133;0
+3303;Barbora;Nemcova;30;0
+3304;Mika;Söderström;11;0
+3305;Gabriella;Arnold;57;0
+3306;Karla;Kustura;99;0
+3307;Sevim;Gercek;68;0
+3308;Serkalen Taye;Watango;89;0
+3309;Enkhjin;Gantogtokh;56;0
+3310;Mallika;Benallal;79;0
+3311;Vanessa;Mejia Flores;98;0
+3312;Maria Paula;Posada Mendoza;100;0
+3313;Amoin Raymonde;Kouassi;120;0
+3314;Blanda;Camacho;108;0
+3315;Telesha;Choy;76;0
+3316;Faye;Foo;84;0
+3317;Moratwa;Matlhape;134;0
+3318;Kaur;Jasmmek Sekhon;70;0
+3319;Kaveri;Muranal;70;0
+3320;Natalia;Vasquez Amaya;74;0
+3321;Juliana;Londoño David;33;0
+3322;Lucy;Young;23;0
+3323;Anri;Krugel;54;0
+3324;Anabel;Posse Marrero;111;0
+3325;S'annara;Grove;23;0
+3326;Malvina Maria;Prieto Laport;111;0
+3327;Jennifer;Francone;40;0
+3328;Ci Hui;Nyo;71;0
+3329;Nurul Nabilah;Mohd Asri;71;0
+3330;Carla;De Araujo;113;0
+3331;Nelia;Kabetaj;146;0
+3332;Panzy;Olander;57;0
+3333;Wanda Florencia;Villanueva Scrafton;82;0
+3334;Gloriana Maria;Quesada Sanchez;51;0
+3335;Iva;Pavlovic;44;0
+3336;Charlotte;Metoevi;133;0
+3337;Akari;Kobayashi;31;0
+3338;Skaiste;Mikasauskaite;9;0
+3339;Asil;Moussa;93;0
+3340;Yen Ling Kathlyn;Yeo;84;0
+3341;Mariem;Brini;93;0
+3342;Suwan;Wei;42;0
+3343;Constantina;Georgiou;64;0
+3344;Akpeiil;Ossim;66;0
+3345;Reyhan;Yakisir;68;0
+3346;Nikol;Kolisheva;102;0
+3347;Lulu;Chen;42;0
+3348;Samah;Khaled;147;0
+3349;Beatriz Sofia;Carvalho Roxo;39;0
+3350;Suji;Jang;52;0
+3351;Sarah;Dick;136;0
+3352;Ana;Rumiha;46;0
+3353;Mandiswa;Fakudze;119;0
+3354;Haftu Eyerusalem;Reda;89;0
+3355;Mary;Aleper;141;0
+3356;Therese Diamela;Obilama Buena;140;0
+3357;Andrea;Heged;46;0
+3358;Ekaterina;Kovalchuk;64;0
+3359;Alberte;Greve;16;0
+3360;Sara;Arnadottir;65;0
+3361;Ayana;Mizutani;31;0
+3362;Jazilla;Mwamizaki;88;0
+3363;Sara;Martin Martin;14;0
+3364;Gamze;Ceyhan;68;0
+3365;Talita Luz;Oliveira;29;0
+3366;Kristen;Lombard;108;0
+3367;Tamar;Bezalel;43;0
+3368;Sara Hortensia;Roel Lopez;38;0
+3369;Carolina Vanessa;Maldonado;40;0
+3370;Audrey;Manglona;108;0
+3371;Pont'so;Makatile;123;0
+3372;Diana Mercedes;Marin Fernandez;100;0
+3373;Asma;Jan;125;0
+3374;Thi Thu Mai;Nguyen;96;0
+3375;Ganga;Dadin;70;0
+3376;Harshita;Jakhar;70;0

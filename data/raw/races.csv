@@ -1,0 +1,527 @@
+﻿id_race;name;name_fr;cat;id_nat
+1000;World Championship Road Race;Championnats du monde - Course en ligne;C;202
+1010;Olympic Games Road Race;Jeux Olympiques - Course en ligne;C;201
+1020;Grand Prix de France;Grand Prix de France;C;5
+1030;Hel van Het Mergelland;Hel van Het Mergelland;C;1
+1040;Stausee Rundfahrt;Stausee Rundfahrt;C;10
+1050;Tjejtrampet;Tjejtrampet;C;11
+1060;Giro del Piave;Giro del Piave;C;2
+1070;Rund um die Nürnberger Altstadt;Rund um die Nürnberger Altstadt;C;3
+1080;Gran Premio de la Liberiazone PINK;GP Liberazione PINK;C;2
+1090;Liberty Classic;Liberty Classic;C;4
+1100;Giro del Trentino;Tour du Trentin;C;2
+1110;Trofeo Alfredo Binda;Trofeo Alfredo Binda;C;2
+1120;Thrift Drug Classic;Thrift Drug Classic;C;4
+1130;Kampioenschap van Vlaanderen;Championnat des Flandres;C;12
+1140;Trofeo Citta di Schio;Trofeo Citta di Schio;C;2
+1150;AXA Leben Pokal in Wiesbaden;AXA Leben Pokal in Wiesbaden;C;3
+1160;Berner Rundfahrt;Tour de Berne;C;10
+1170;Trophée International;Trophée International;C;5
+1180;Grand Prix de Suisse;Grand Prix de Suisse;C;10
+1190;Etoile Vosgienne;Etoile Vosgienne;C;5
+1200;Rotterdam Tour;Tour de Rotterdam;C;1
+1210;Australia World Cup;Coupe du Monde Australie;C;6
+1220;Montreal World Cup;Coupe du Monde Montréal;C;13
+1230;La Flèche Wallonne;La Flèche Wallonne;C;12
+1240;Primavera Rosa;Primavera Rosa;C;2
+1250;New Zealand World Cup;Coupe du Monde Nouvelle-Zélande;C;17
+1260;Euregio Cup;Euregio Cup;C;1
+1270;Trophée Méditerranéen;Trophée Méditerranéen;C;5
+1280;Sparkassen Giro Bochun;Sparkassen Giro Bochun;C;3
+1290;Amstel Gold Race;Amstel Gold Race;C;1
+1300;GP Castilla y Leon;Grand Prix de Castille-Leon;C;14
+1310;Grand Prix de Dottignies;Grand Prix de Dottignies;C;12
+1320;Grand Prix de Plouay;Grand Prix de Plouay;C;5
+1330;T-Mobile International Classic;T-Mobile International Classic;C;4
+1340;Ronde van Vlaanderen;Tour des Flandres;C;12
+1350;Grand Prix de Wallonie;Grand Prix de Wallonie;C;12
+1360;GP of Wales;GP du Pays de Galles;C;8
+1370;Coppa dei Laghi;Coppa dei Laghi;C;2
+1380;Open Vargarda;Open Vargarda;C;11
+1390;Omloop Het Nieuwsblad;Omloop Het Nieuwsblad;C;12
+1400;GP Stad Roeselare;GP Stad Roeselare;C;12
+1410;Drentse Acht van Westerveld;Drentse Acht van Westerveld;C;1
+1420;Ronde van Drenthe;Tour de Drenthe;C;1
+1430;Festival Elsy Jacobs;Festival Elsy Jacobs;C;26
+1440;Tour de Gatineau;Tour de Gatineau;C;13
+1450;Chongming Island World Cup;Tour de l'Île de Chongming;C;42
+1460;Dwars door de Westhoek;Dwars door de Westhoek;C;12
+1470;Gooik-Geraardsbergen-Gooik;Gooik-Geraardsbergen-Gooik;C;12
+1480;Grand Prix GSB;Grand Prix GSB;C;45
+1490;Grand Prix El Salvador;Grand Prix El Salvador;C;45
+1500;Gent-Wevelgem;Gand-Wevelgem;C;12
+1510;Dwars door Vlaanderen;A travers la Flandre;C;12
+1520;Grand Prix de Oriente;Grand Prix de Oriente;C;45
+1530;Ronde van Overrijssel;Ronde van Overrijssel;C;1
+1540;La Course by Le Tour;La Course by Le Tour;C;5
+1550;Giro dell'Emilia;Tour d'Emilie;C;2
+1560;Madrid Challenge by La Vuelta;Madrid Challenge by La Vuelta;C;14
+1570;Ride London Classic;Ride London Classic;C;8
+1580;Strade Bianche;Strade Bianche;C;2
+1590;Cadel Evans Road Race;Cadel Evans Road Race;C;6
+1600;Brabantse Pijl;Flèche Brabançonne;C;12
+1610;Europe Championship Road Race;Championnats d'Europe - Course en ligne;C;203
+1620;Liège-Bastogne-Liège;Liège-Bastogne-Liège;C;12
+1630;Tour of Guangxi;Tour of Guangxi;C;42
+1640;Brugge-De Panne;Bruges-De Panne;C;12
+1650;Klasikoa San Sebastian;Classique de San Sebastian;C;14
+1660;Nokere Koerse;Nokere Koerse;C;12
+1670;Clasica Navarra;Classique de Navarra;C;14
+1680;Paris-Roubaix;Paris-Roubaix;C;5
+1690;Tre Valli Varesine;Tre Valli Varesine;C;2
+1700;Milano-San Remo;Milan-San Remo;C;2
+1710;Copenhagen Sprint;Copenhagen Sprint;C;16
+1720;Schwalbe One Day Classic;Schwalbe One Day Classic;C;6
+1730;Holland Hills Classic;Holland Hills Classic;C;1
+2000;Coors Classic;Coors Classic;T;4
+2001;Coors Classic (S);Coors Classic (E);S;4
+2010;Tour of Texas;Tour du Texas;T;4
+2011;Tour of Texas (S);Tour du Texas (E);S;4
+2020;Tour of Norway (PostGiro);Tour de Norvège (PostGiro);T;15
+2021;Tour of Norway (PostGiro) (S);Tour de Norvège (PostGiro) (E);S;15
+2030;Women's Challenge;Women's Challenge;T;4
+2031;Women's Challenge (S);Women's Challenge (E);S;4
+2040;Tour de France;Tour de France;T;5
+2041;Tour de France (S);Tour de France (E);S;5
+2050;Tour d'Aquitaine;Tour d'Aquitaine;T;5
+2051;Tour d'Aquitaine (S);Tour d'Aquitaine (E);S;5
+2060;Tour de l'Aude;Tour de l'Aude;T;5
+2061;Tour de l'Aude (S);Tour de l'Aude (E);S;5
+2070;6 Jours de Saint-Ambroix;6 Jours de Saint-Ambroix;T;5
+2071;6 Jours de Saint-Ambroix (S);6 Jours de Saint-Ambroix (E);S;5
+2080;Omloop van't Molenheike;Omloop van't Molenheike;T;1
+2081;Omloop van't Molenheike (S);Omloop van't Molenheike (E);S;1
+2090;Trois Jours de Vendée;Trois Jours de Vendée;T;5
+2091;Trois Jours de Vendée (S);Trois Jours de Vendée (E);S;5
+2100;Drei-Länder Tour;Drei-Länder Tour;T;25
+2101;Drei-Länder Tour (S);Drei-Länder Tour (E);S;25
+2110;Tour de Colombia;Tour de Colombie;T;33
+2111;Tour de Colombia (S);Tour de Colombie (E);S;33
+2120;Etoile Vosgienne;Etoile Vosgienne;T;5
+2121;Etoile Vosgienne (S);Etoile Vosgienne (E);S;5
+2130;Tour de Bretagne;Tour de Bretagne;T;5
+2131;Tour de Bretagne (S);Tour de Bretagne (E);S;5
+2140;Drei Tagen von Pattensen;Trois Jours de Pattensen;T;3
+2141;Drei Tagen von Pattensen (S);Trois Jours de Pattensen (E);S;3
+2150;Giro d'Italia;Tour d'Italie;T;2
+2151;Giro d'Italia (S);Tour d'Italie (E);S;2
+2160;Tour de la Drôme;Tour de la Drôme;T;5
+2161;Tour de la Drôme (S);Tour de la Drôme (E);S;5
+2170;GP des Kantons Zurich;GP de Zurich;T;10
+2171;GP des Kantons Zurich (S);GP de Zurich (E);S;10
+2180;Niedersachsen Rundfahrt;Tour de Basse-Saxe;T;3
+2181;Niedersachsen Rundfahrt (S);Tour de Basse-Saxe (E);S;3
+2190;Giro dei Laghi;Giro dei Laghi;T;2
+2191;Giro dei Laghi (S);Giro dei Laghi (E);S;2
+2200;Vuelta Alto Aragon;Tour d'Aragon;T;14
+2201;Vuelta Alto Aragon (S);Tour d'Aragon (E);S;14
+2210;Tour de la CEE;Tour de la CEE;T;5
+2211;Tour de la CEE (S);Tour de la CEE (E);S;5
+2220;Tygrikeskupen;Coupe Tygrike;T;11
+2221;Tygrikeskupen (S);Coupe Tygrike (E);S;11
+2230;Vuelta a Mallorca;Tour de Majorque;T;14
+2231;Vuelta a Mallorca (S);Tour de Majorque (E);S;14
+2240;Volta Portugal;Tour du Portugal;T;39
+2241;Volta Portugal (S);Tour du Portugal (E);S;39
+2250;Giro Sicilia;Tour de Sicile;T;2
+2251;Giro Sicilia (S);Tour de Sicile (E);S;2
+2260;Tour de Feminin - Krasna Lipa;Tour de Feminin;T;30
+2261;Tour de Feminin - Krasna Lipa (S);Tour de Feminin (E);S;30
+2270;Grande boucle féminine;Grande boucle féminine;T;5
+2271;Grande boucle féminine (S);Grande boucle féminine (E);S;5
+2280;Gracia Orlova;Gracia Orlova;T;30
+2281;Gracia Orlova (S);Gracia Orlova (E);S;30
+2290;Emakumeen Bira;Emakumeen Bira;T;14
+2291;Emakumeen Bira (S);Emakumeen Bira (E);S;14
+2300;Tour de Belgique;Tour de Belgique;T;12
+2301;Tour de Belgique (S);Tour de Belgique (E);S;12
+2310;Thüringen Rundfahrt;Tour de Thuringe;T;3
+2311;Thüringen Rundfahrt (S);Tour de Thuringe (E);S;3
+2320;Ostlandet 4-Dagens;4 Jours d'Ostlandet;T;15
+2321;Ostlandet 4-Dagens (S);4 Jours d'Ostlandet (E);S;15
+2330;Internationale Berlin Rundfahrt;Tour de Berlin;T;3
+2331;Internationale Berlin Rundfahrt (S);Tour de Berlin (E);S;3
+2340;GP Presov a Pravda;GP Presov;T;24
+2341;GP Presov a Pravda (S);GP Presov (E);S;24
+2350;Grand Prix de la Mutualité de Haute-Garonne;Grand Prix de la Mutualité de Haute-Garonne;T;5
+2351;Grand Prix de la Mutualité de Haute-Garonne (S);Grand Prix de la Mutualité de Haute-Garonne (E);S;5
+2360;Amev International Ladies Trophee;Amev International Ladies Trophee;T;1
+2361;Amev International Ladies Trophee (S);Amev International Ladies Trophee (E);S;1
+2370;Masters féminin;Masters féminin;T;5
+2371;Masters féminin (S);Masters féminin (E);S;5
+2380;Giro del Trentino;Tour du Trentin;T;2
+2381;Giro del Trentino (S);Tour du Trentin (E);S;2
+2390;Street Skills Cycle Classic;Street Skills Cycle Classic;T;17
+2391;Street Skills Cycle Classic (S);Street Skills Cycle Classic (E);S;17
+2400;Giro della Toscana - Memorial Michela Fanini;Tour de Toscane - Memorial Michela Fanini;T;2
+2401;Giro della Toscana - Memorial Michela Fanini (S);Tour de Toscane - Memorial Michela Fanini (E);S;2
+2410;Grand Prix international du Canada;Grand Prix international du Canada;T;13
+2411;Grand Prix international du Canada (S);Grand Prix international du Canada (E);S;13
+2420;Trophée d'Or;Trophée d'Or;T;5
+2421;Trophée d'Or (S);Trophée d'Or (E);S;5
+2430;Sea Otter Classic;Sea Otter Classic;T;4
+2431;Sea Otter Classic (S);Sea Otter Classic (E);S;4
+2440;Tour de Snowy;Tour de Snowy;T;6
+2441;Tour de Snowy (S);Tour de Snowy (E);S;6
+2450;Holland Ladies Tour;Tour des Pays-Bas;T;1
+2451;Holland Ladies Tour (S);Tour des Pays-Bas (E);S;1
+2460;Tour de Suisse;Tour de Suisse;T;10
+2461;Tour de Suisse (S);Tour de Suisse (E);S;10
+2470;Vuelta a Navarra;Tour de Navarre;T;14
+2471;Vuelta a Navarra (S);Tour de Navarre (E);S;14
+2480;Tour de Midi-Pyrénées;Tour de Midi-Pyrénées;T;5
+2481;Tour de Midi-Pyrénées (S);Tour de Midi-Pyrénées (E);S;5
+2490;Trophée Méditerranéen;Trophée Méditerranéen;T;5
+2491;Trophée Méditerranéen (S);Trophée Méditerranéen (E);S;5
+2500;Vuelta Castilla y Leon;Tour de Castille-Leon;T;14
+2501;Vuelta Castilla y Leon (S);Tour de Castille-Leon (E);S;14
+2510;Tour du Grand Montréal;Tour du Grand Montréal;T;13
+2511;Tour du Grand Montréal (S);Tour du Grand Montréal (E);S;13
+2520;Euregio Cup;Euregio Cup;T;1
+2521;Euregio Cup (S);Euregio Cup (E);S;1
+2530;Nature Valley Grand Prix;Grand Prix Nature Valley;T;4
+2531;Nature Valley Grand Prix (S);Grand Prix Nature Valley (E);S;4
+2540;Giro di San Marino;Tour de Saint-Marin;T;37
+2541;Giro di San Marino (S);Tour de Saint-Marin (E);S;37
+2550;Tour du Limousin;Tour du Limousin;T;5
+2551;Tour du Limousin (S);Tour du Limousin (E);S;5
+2560;Tour de l'Ardèche;Tour de l'Ardèche;T;5
+2561;Tour de l'Ardèche (S);Tour de l'Ardèche (E);S;5
+2570;Ster Zweeusche Eilanden;Ster Zweeusche Eilanden;T;1
+2571;Ster Zweeusche Eilanden (S);Ster Zweeusche Eilanden (E);S;1
+2580;La Route de France;La Route de France;T;5
+2581;La Route de France (S);La Route de France (E);S;5
+2590;Tour de Pologne;Tour de Pologne;T;18
+2591;Tour de Pologne (S);Tour de Pologne (E);S;18
+2600;Tour of Qatar;Tour du Qatar;T;127
+2601;Tour of Qatar (S);Tour du Qatar (E);S;127
+2610;Tour of Chongming Island;Tour de l'Île de Chongming;T;42
+2611;Tour of Chongming Island (S);Tour de l'Île de Chongming (E);S;42
+2620;Tour of New Zealand;Tour de Nouvelle-Zélande;T;17
+2621;Tour of New Zealand (S);Tour de Nouvelle-Zélande (E);S;17
+2630;Energiewacht Tour;Energiewacht Tour;T;1
+2631;Energiewacht Tour (S);Energiewacht Tour (E);S;1
+2640;Tour de Free State;Tour de Free State;T;23
+2641;Tour de Free State (S);Tour de Free State (E);S;23
+2650;The Exergy Tour;The Exergy Tour;T;4
+2651;The Exergy Tour (S);The Exergy Tour (E);S;4
+2660;Vuelta a El Salvador;Tour du Salvador;T;45
+2661;Vuelta a El Salvador (S);Tour du Salvador (E);S;45
+2670;Festival Elsy Jacobs;Festival Elsy Jacobs;T;26
+2671;Festival Elsy Jacobs (S);Festival Elsy Jacobs (E);S;26
+2680;Tour du Languedoc-Roussillon;Tour du Languedoc-Roussillon;T;5
+2681;Tour du Languedoc-Roussillon (S);Tour du Languedoc-Roussillon (E);S;5
+2690;Women's Tour;Tour de Grande-Bretagne;T;8
+2691;Women's Tour (S);Tour de Grande-Bretagne (E);S;8
+2700;Tour of Norway;Tour de Norvège;T;15
+2701;Tour of Norway (S);Tour de Norvège (E);S;15
+2710;BeNe Ladies Tour;Tour du Benelux;T;1
+2711;BeNe Ladies Tour (S);Tour du Benelux (E);S;1
+2720;Tour of California;Tour de Californie;T;4
+2721;Tour of California (S);Tour de Californie (E);S;4
+2730;Tour Down Under;Tour Down Under;T;6
+2731;Tour Down Under (S);Tour Down Under (E);S;6
+2740;Setmana Valenciana;Semaine Valenciane;T;14
+2741;Setmana Valenciana (S);Semaine Valenciane (E);S;14
+2750;Madrid Challenge by La Vuelta;Madrid Challenge by La Vuelta;T;14
+2751;Madrid Challenge by La Vuelta (S);Madrid Challenge by La Vuelta (E);S;14
+2760;Vuelta a Burgos;Tour de Burgos;T;14
+2761;Vuelta a Burgos (S);Tour de Burgos (E);S;14
+2770;Itzulia;Tour du Pays Basque;T;14
+2771;Itzulia (S);Tour du Pays Basque (E);S;14
+2780;Ride London Classic;Ride London Classic;T;8
+2781;Ride London Classic (S);Ride London Classic (E);S;8
+2790;Tour de Romandie;Tour de Romandie;T;10
+2791;Tour de Romandie (S);Tour de Romandie (E);S;10
+2800;Vuelta a Espana;Tour d'Espagne;T;14
+2801;Vuelta a Espana (S);Tour d'Espagne (E);S;14
+2810;UAE Tour;UAE Tour;T;116
+2811;UAE Tour (S);UAE Tour (E);S;116
+2820;Volta Catalunya;Tour de Catalogne;T;14
+2821;Volta Catalunya (S);Tour de Catalogne (E);S;14
+3000;Chrono Champenois;Chrono Champenois;I;5
+3010;Grand Prix des Nations;Grand Prix des Nations;I;5
+3020;World Championship Time Trial;Championnats du monde - Contre-la-montre;I;202
+3030;Olympic Games Time Trial;Jeux Olympiques - Contre-la-montre;I;201
+3040;Souvenir Magalie Pache;Souvenir Magalie Pache;I;10
+3050;Chrono des Herbiers (Nations);Chrono des Herbiers (Nations);I;5
+3060;Grand Prix de Suisse;Grand Prix de Suisse;I;10
+3070;Europe Championship Time Trial;Championnats d'Europe - Contre-la-montre;I;203
+4000;United Kingdom Championship - Road Race;Championnats du Royaume-Uni - Course en ligne;N;8
+4001;France Championship - Road Race;Championnats de France - Course en ligne;N;5
+4002;United States Championship - Road Race;Championnats des Etats-Unis - Course en ligne;N;4
+4003;Netherlands Championship - Road Race;Championnats des Pays-Bas - Course en ligne;N;1
+4004;Belgium Championship - Road Race;Championnats de Belgique - Course en ligne;N;12
+4005;Italy Championship - Road Race;Championnats d'Italie - Course en ligne;N;2
+4006;Germany Championship - Road Race;Championnats d'Allemagne - Course en ligne;N;3
+4007;Sweden Championship - Road Race;Championnats de Suède - Course en ligne;N;11
+4008;Soviet Union Championship - Road Race;Championnats d'URSS - Course en ligne;N;19
+4009;Norway Championship - Road Race;Championnats de Norvège - Course en ligne;N;15
+4010;Canada Championship - Road Race;Championnats du Canada - Course en ligne;N;13
+4011;Australia Championship - Road Race;Championnats d'Australie - Course en ligne;N;6
+4012;Spain Championship - Road Race;Championnats d'Espagne - Course en ligne;N;14
+4013;Denmark Championship - Road Race;Championnats du Danemark - Course en ligne;N;16
+4014;Switzerland Championship - Road Race;Championnats de Suisse - Course en ligne;N;10
+4015;Russia Championship - Road Race;Championnats de Russie - Course en ligne;N;7
+4016;Lithuania Championship - Road Race;Championnats de Lituanie - Course en ligne;N;9
+4017;Czechoslovakia Championship - Road Race;Championnats de Tchécoslovaquie - Course en ligne;N;36
+4018;German Democatric Republic Championship - Road Race;Championnats de RDA - Course en ligne;N;34
+4019;Poland Championship - Road Race;Championnats de Pologne - Course en ligne;N;18
+4020;Luxembourg Championship - Road Race;Championnats du Luxembourg - Course en ligne;N;26
+4021;Finland Championship - Road Race;Championnats de Finlande - Course en ligne;N;22
+4022;New Zealand Championship - Road Race;Championnats de Nouvelle-Zélande - Course en ligne;N;17
+4023;Austria Championship - Road Race;Championnats d'Autriche - Course en ligne;N;25
+4024;Hungary Championship - Road Race;Championnats de Hongrie - Course en ligne;N;35
+4025;Argentina Championship - Road Race;Championnats d'Argentine - Course en ligne;N;40
+4026;Colombia Championship - Road Race;Championnats de Colombie - Course en ligne;N;33
+4027;Brazil Championship - Road Race;Championnats du Brésil - Course en ligne;N;29
+4028;Portugal Championship - Road Race;Championnats du Portugal - Course en ligne;N;39
+4029;Ukraine Championship - Road Race;Championnats d'Ukraine - Course en ligne;N;21
+4030;Czechia Championship - Road Race;Championnats de Tchéquie - Course en ligne;N;30
+4031;Slovakia Championship - Road Race;Championnats de Slovaquie - Course en ligne;N;24
+4032;Ireland Championship - Road Race;Championnats d'Irlande - Course en ligne;N;41
+4033;South Africa Championship - Road Race;Championnats d'Afrique du Sud - Course en ligne;N;23
+4034;Japan Championship - Road Race;Championnats du Japon - Course en ligne;N;31
+4035;Yugoslavia Championship - Road Race;Championnats de Yougoslavie - Course en ligne;N;105
+4036;Mexico Championship - Road Race;Championnats du Mexique - Course en ligne;N;38
+4037;Belarus Championship - Road Race;Championnats du Bélarus - Course en ligne;N;20
+4038;Chile Championship - Road Race;Championnats du Chili - Course en ligne;N;47
+4039;Israel Championship - Road Race;Championnats d'Israël - Course en ligne;N;43
+4040;Estonia Championship - Road Race;Championnats d'Estonie - Course en ligne;N;32
+4041;Serbia Championship - Road Race;Championnats de Serbie - Course en ligne;N;44
+4042;Kazakhstan Championship - Road Race;Championnats du Kazakhstan - Course en ligne;N;66
+4043;Croatia Championship - Road Race;Championnats de Croatie - Course en ligne;N;46
+4044;Slovenia Championship - Road Race;Championnats de Slovénie - Course en ligne;N;27
+4045;Thailand Championship - Road Race;Championnats de Thaïlande - Course en ligne;N;48
+4046;Uzbekistan Championship - Road Race;Championnats d'Ouzbékistan - Course en ligne;N;69
+4047;Latvia Championship - Road Race;Championnats de Lettonie - Course en ligne;N;58
+4048;Cuba Championship - Road Race;Championnats de Cuba - Course en ligne;N;28
+4049;China Championship - Road Race;Championnats de Chine - Course en ligne;N;42
+4050;Hong Kong Championship - Road Race;Championnats de Hong Kong - Course en ligne;N;60
+4051;Venezuela Championship - Road Race;Championnats du Vénézuela - Course en ligne;N;49
+4052;Syria Championship - Road Race;Championnats de Syrie - Course en ligne;N;110
+4053;Greece Championship - Road Race;Championnats de Grèce - Course en ligne;N;50
+4054;Peru Championship - Road Race;Championnats du Pérou - Course en ligne;N;67
+4055;Cyprus Championship - Road Race;Championnats de Chypre - Course en ligne;N;64
+4056;Costa Rica Championship - Road Race;Championnats du Costa Rica - Course en ligne;N;51
+4057;Zimbabwe Championship - Road Race;Championnats du Zimbabwe - Course en ligne;N;73
+4058;Morocco Championship - Road Race;Championnats du Maroc - Course en ligne;N;79
+4059;Bermuda Championship - Road Race;Championnats des Bermudes - Course en ligne;N;57
+4060;Mongolia Championship - Road Race;Championnats de Mongolie - Course en ligne;N;56
+4061;Lebanon Championship - Road Race;Championnats du Liban - Course en ligne;N;131
+4062;Saint Kitts and Nevis Championship - Road Race;Championnats de Saint-Christophe-et-Niévès - Course en ligne;N;94
+4063;Curaçao Championship - Road Race;Championnats de Curaçao - Course en ligne;N;75
+4064;India Championship - Road Race;Championnats d'Inde - Course en ligne;N;70
+4065;Paraguay Championship - Road Race;Championnats du Paraguay - Course en ligne;N;53
+4066;El Salvador Championship - Road Race;Championnats du Salvador - Course en ligne;N;45
+4067;Turkey Championship - Road Race;Championnats de Turquie - Course en ligne;N;68
+4068;Liechtenstein Championship - Road Race;Championnats du Liechtenstein - Course en ligne;N;107
+4069;North Korea Championship - Road Race;Championnats de Corée du Nord - Course en ligne;N;109
+4070;Virgin Islands US Championship - Road Race;Championnats des Iles Vierges US - Course en ligne;N;122
+4071;Belize Championship - Road Race;Championnats de Bélize - Course en ligne;N;62
+4072;South Korea Championship - Road Race;Championnats de Corée du Sud - Course en ligne;N;52
+4073;Jamaica Championship - Road Race;Championnats de Jamaïque - Course en ligne;N;104
+4074;Namibia Championship - Road Race;Championnats de Namibie - Course en ligne;N;54
+4075;Puerto Rico Championship - Road Race;Championnats de Porto Rico - Course en ligne;N;61
+4076;Suriname Championship - Road Race;Championnats du Suriname- Course en ligne;N;114
+4077;Aruba  Championship - Road Race;Championnats d'Aruba - Course en ligne;N;91
+4078;Bolivia Championship - Road Race;Championnats de Bolivie - Course en ligne;N;82
+4079;Indonesia Championship - Road Race;Championnats d'Indonésie - Course en ligne;N;90
+4080;Malaysia Championship - Road Race;Championnats de Malaisie - Course en ligne;N;71
+4081;Dominican Republic  Championship - Road Race;Championnats de République Dominicaine - Course en ligne;N;86
+4082;Romania Championship - Road Race;Championnats de Roumanie - Course en ligne;N;55
+4083;Guyana Championship - Road Race;Championnats du Guyana - Course en ligne;N;92
+4084;Antigua and Barbuda Championship - Road Race;Championnats d'Antigua-et-Barbuda - Course en ligne;N;76
+4085;Iceland Championship - Road Race;Championnats d'Islande - Course en ligne;N;65
+4086;Singapore Championship - Road Race;Championnats de Singapour - Course en ligne;N;84
+4087;Trinidad and Tobago Championship - Road Race;Championnats de Trinité-et-Tobago - Course en ligne;N;80
+4088;Gabon Championship - Road Race;Championnats du Gabon - Course en ligne;N;135
+4089;Cayman Islands Championship - Time Trial;Championnats des Iles Caïmans - Course en ligne;N;136
+4090;Uganda Championship - Road Race;Championnats d'Ouganda - Course en ligne;N;141
+4091;The Bahamas Championship - Road Race;Championnats des Bahamas - Course en ligne;N;103
+4092;Ecuador Championship - Road Race;Championnats d'Equateur - Course en ligne;N;74
+4093;Guatemala Championship - Road Race;Championnats du Guatemala - Course en ligne;N;72
+4094;Virgin Islands UK Championship - Road Race;Championnats des Iles Vierges UK - Course en ligne;N;106
+4095;Rwanda Championship - Road Race;Championnats du Rwanda - Course en ligne;N;88
+4096;Taiwan Championship - Road Race;Championnats de Taïwan - Course en ligne;N;59
+4097;Ivory Coast Championship - Road Race;Championnats de Côte d'Ivoire - Course en ligne;N;120
+4098;Mauritius Championship - Road Race;Championnats de Maurice - Course en ligne;N;87
+4099;Azerbaijan Championship - Road Race;Championnats d'Azerbaïdjan - Course en ligne;N;63
+4100;Barbados Championship - Road Race;Championnats de Barbade - Course en ligne;N;95
+4101;Iran Championship - Road Race;Championnats d'Iran - Course en ligne;N;78
+4102;North Macedonia Championship - Road Race;Championnats de Macédoine du Nord - Course en ligne;N;83
+4103;Saint Vincent and the Grenadines Championship - Road Race;Championnats de Saint-Vincent-et-les-Grenadines - Course en ligne;N;121
+4104;Algeria Championship - Road Race;Championnats d'Algérie - Course en ligne;N;77
+4105;Bosnia and Herzegovina Championship - Road Race;Championnats de Bosnie-Herzégovine - Course en ligne;N;99
+4106;Eritrea Championship - Road Race;Championnats d'Erythrée - Course en ligne;N;85
+4107;Lesotho Championship - Road Race;Championnats du Lesotho - Course en ligne;N;123
+4108;Nigeria Championship - Road Race;Championnats du Nigéria - Course en ligne;N;126
+4109;Fiji Championship - Road Race;Championnats des Fidji - Course en ligne;N;137
+4110;Panama Championship - Road Race;Championnats du Panama - Course en ligne;N;81
+4111;Tunisia Championship - Road Race;Championnats de Tunisie - Course en ligne;N;93
+4112;Central African Republic Championship - Road Race;Championnats de Centrafrique - Course en ligne;N;130
+4113;Saint Lucia Championship - Road Race;Championnats de Sainte-Lucie - Course en ligne;N;142
+4114;Kuwait Championship - Road Race;Championnats du Koweït - Course en ligne;N;115
+4115;Ethiopia Championship - Road Race;Championnats d'Ethiopie - Course en ligne;N;89
+4116;Philippines Championship - Road Race;Championnats des Philippines - Course en ligne;N;97
+4117;Macau Championship - Road Race;Championnats de Macao - Course en ligne;N;139
+4118;Malta Championship - Road Race;Championnats de Malte - Course en ligne;N;143
+4119;Nicaragua Championship - Road Race;Championnats du Nicaragua - Course en ligne;N;100
+4120;Honduras Championship - Road Race;Championnats de Honduras - Course en ligne;N;98
+4121;Botswana Championship - Road Race;Championnats du Botswana - Course en ligne;N;134
+4122;Moldova Championship - Road Race;Championnats de Moldavie - Course en ligne;N;101
+4123;Qatar  Championship - Road Race;Championnats de Qatar - Course en ligne;N;127
+4124;Burkina Faso Championship - Road Race;Championnats du Burkina - Course en ligne;N;118
+4125;Bulgaria Championship - Road Race;Championnats de Bulgarie - Course en ligne;N;102
+4126;Saudi Arabia Championship - Road Race;Championnats d'Arabie Saoudite - Course en ligne;N;128
+4127;Grenada Championship - Road Race;Championnats de Grenade - Course en ligne;N;132
+4128;Montenegro Championship - Road Race;Championnats du Monténégro - Course en ligne;N;124
+4129;Saint Martin Championship - Road Race;Championnats de Saint-Martin - Course en ligne;N;117
+4130;Eswatini Championship - Road Race;Championnats d'Eswatini - Course en ligne;N;119
+4131;Uruguay Championship - Road Race;Championnats d'Uruguay - Course en ligne;N;111
+4132;Afghanistan Championship - Road Race;Championnats d'Afghanistan - Course en ligne;N;138
+4133;Cameroon Championship - Road Race;Championnats du Cameroun - Course en ligne;N;140
+4134;Guam Championship - Road Race;Championnats de Guam - Course en ligne;N;108
+4135;Angola Championship - Road Race;Championnats d'Angola - Course en ligne;N;113
+4136;United Arab Emirates Championship - Road Race;Championnats des Emirats Arabes Unis - Course en ligne;N;116
+4137;Kosovo Championship - Road Race;Championnats du Kosovo - Course en ligne;N;112
+4138;Benin Championship - Road Race;Championnats du Bénin - Course en ligne;N;133
+4139;Egypt Championship - Road Race;Championnats d'Egypte - Course en ligne;N;129
+4140;Pakistan Championship - Road Race;Championnats du Pakistan - Course en ligne;N;125
+4141;Vietnam Championship - Road Race;Championnats du Vietnam - Course en ligne;N;96
+4142;Bahrain Championship - Road Race;Championnats de Bahreïn - Course en ligne;N;144
+4143;Kenya Championship - Road Race;Championnats du Kenya - Course en ligne;N;145
+4144;Albania Championship - Road Race;Championnats d'Albanie - Course en ligne;N;146
+4145;Jordan Championship - Road Race;Championnats de Jordanie - Course en ligne;N;147
+5000;Sweden Championship - Time Trial;Championnats de Suède - Contre-la-montre;N;11
+5001;Canada Championship - Time Trial;Championnats du Canada - Contre-la-montre;N;13
+5002;United States Championship - Time Trial;Championnats des Etats-Unis - Contre-la-montre;N;4
+5003;Finland Championship - Time Trial;Championnats de Finlande - Contre-la-montre;N;22
+5004;Norway Championship - Time Trial;Championnats de Norvège - Contre-la-montre;N;15
+5005;United Kingdom Championship - Time Trial;Championnats du Royaume-Uni - Contre-la-montre;N;8
+5006;Soviet Union Championship - Time Trial;Championnats d'URSS - Contre-la-montre;N;19
+5007;Denmark Championship - Time Trial;Championnats du Danemark - Contre-la-montre;N;16
+5008;Poland Championship - Time Trial;Championnats de Pologne - Contre-la-montre;N;18
+5009;Austria Championship - Time Trial;Championnats d'Autriche - Contre-la-montre;N;25
+5010;Italy Championship - Time Trial;Championnats d'Italie - Contre-la-montre;N;2
+5011;Hungary Championship - Time Trial;Championnats de Hongrie - Contre-la-montre;N;35
+5012;Australia Championship - Time Trial;Championnats d'Australie - Contre-la-montre;N;6
+5013;Netherlands Championship - Time Trial;Championnats des Pays-Bas - Contre-la-montre;N;1
+5014;Czechoslovakia Championship - Time Trial;Championnats de Tchécoslovaquie - Contre-la-montre;N;36
+5015;Czechia Championship - Time Trial;Championnats de Tchéquie - Contre-la-montre;N;30
+5016;Russia Championship - Time Trial;Championnats de Russie - Contre-la-montre;N;7
+5017;Slovakia Championship - Time Trial;Championnats de Slovaquie - Contre-la-montre;N;24
+5018;Switzerland Championship - Time Trial;Championnats de Suisse - Contre-la-montre;N;10
+5019;Germany Championship - Time Trial;Championnats d'Allemagne - Contre-la-montre;N;3
+5020;Spain Championship - Time Trial;Championnats d'Espagne - Contre-la-montre;N;14
+5021;France Championship - Time Trial;Championnats de France - Contre-la-montre;N;5
+5022;Lithuania Championship - Time Trial;Championnats de Lituanie - Contre-la-montre;N;9
+5023;New Zealand Championship - Time Trial;Championnats de Nouvelle-Zélande - Contre-la-montre;N;17
+5024;Ukraine Championship - Time Trial;Championnats d'Ukraine - Contre-la-montre;N;21
+5025;South Africa Championship - Time Trial;Championnats d'Afrique du Sud - Contre-la-montre;N;23
+5026;Argentina Championship - Time Trial;Championnats d'Argentine - Contre-la-montre;N;40
+5027;China Championship - Time Trial;Championnats de Chine - Contre-la-montre;N;42
+5028;Colombia Championship - Time Trial;Championnats de Colombie - Contre-la-montre;N;33
+5029;Japan Championship - Time Trial;Championnats du Japon - Contre-la-montre;N;31
+5030;Yugoslavia Championship - Time Trial;Championnats de Yougoslavie - Contre-la-montre;N;105
+5031;Mexico Championship - Time Trial;Championnats du Mexique - Contre-la-montre;N;38
+5032;Belarus Championship - Time Trial;Championnats du Bélarus - Contre-la-montre;N;20
+5033;Belgium Championship - Time Trial;Championnats de Belgique - Contre-la-montre;N;12
+5034;Chile Championship - Time Trial;Championnats du Chili - Contre-la-montre;N;47
+5035;Cuba Championship - Time Trial;Championnats de Cuba - Contre-la-montre;N;28
+5036;Estonia Championship - Time Trial;Championnats d'Estonie - Contre-la-montre;N;32
+5037;Hong Kong Championship - Time Trial;Championnats de Hong Kong - Contre-la-montre;N;60
+5038;Ireland Championship - Time Trial;Championnats d'Irlande - Contre-la-montre;N;41
+5039;Portugal Championship - Time Trial;Championnats du Portugal - Contre-la-montre;N;39
+5040;Venezuela Championship - Time Trial;Championnats de Vénézuela - Contre-la-montre;N;49
+5041;Syria Championship - Time Trial;Championnats de Syrie - Contre-la-montre;N;110
+5042;Brazil Championship - Time Trial;Championnats du Brésil - Contre-la-montre;N;29
+5043;Greece Championship - Time Trial;Championnats de Grèce - Contre-la-montre;N;50
+5044;Peru Championship - Time Trial;Championnats du Pérou - Contre-la-montre;N;67
+5045;Cyprus Championship - Time Trial;Championnats de Chypre - Contre-la-montre;N;64
+5046;Uzbekistan Championship - Time Trial;Championnats d'Ouzbékistan - Contre-la-montre;N;69
+5047;Puerto Rico Championship - Time Trial;Championnats de Porto Rico - Contre-la-montre;N;61
+5048;Israel Championship - Time Trial;Championnats d'Israël - Contre-la-montre;N;43
+5049;Costa Rica Championship - Time Trial;Championnats du Costa Rica - Contre-la-montre;N;51
+5050;Croatia Championship - Time Trial;Championnats de Croatie - Contre-la-montre;N;46
+5051;Zimbabwe Championship - Time Trial;Championnats du Zimbabwe - Contre-la-montre;N;73
+5052;Serbia Championship - Time Trial;Championnats de Serbie - Contre-la-montre;N;44
+5053;Slovenia Championship - Time Trial;Championnats de Slovénie - Contre-la-montre;N;27
+5054;Bermuda Championship - Time Trial;Championnats des Bermudes - Contre-la-montre;N;57
+5055;Kazakhstan Championship - Time Trial;Championnats du Kazakhstan - Contre-la-montre;N;66
+5056;Mongolia Championship - Time Trial;Championnats de Mongolie - Contre-la-montre;N;56
+5057;Lebanon Championship - Time Trial;Championnats du Liban - Contre-la-montre;N;131
+5058;Curaçao Championship - Time Trial;Championnats de Curaçao - Contre-la-montre;N;75
+5059;India Championship - Time Trial;Championnats d'Inde - Contre-la-montre;N;70
+5060;Luxembourg Championship - Time Trial;Championnats du Luxembourg - Contre-la-montre;N;26
+5061;El Salvador Championship - Time Trial;Championnats de Salvador - Contre-la-montre;N;45
+5062;Turkey Championship - Time Trial;Championnats de Turquie - Contre-la-montre;N;68
+5063;North Korea Championship - Time Trial;Championnats de Corée du Nord - Contre-la-montre;N;109
+5064;Saint Kitts and Nevis Championship - Time Trial;Championnats de Saint-Christophe-et-Niévè s- Contre-la-montre;N;94
+5065;South Korea Championship - Time Trial;Championnats de Corée du Sud - Contre-la-montre;N;52
+5066;Jamaica Championship - Time Trial;Championnats de Jamaïque - Contre-la-montre;N;104
+5067;Mauritius Championship - Time Trial;Championnats de Maurice - Contre-la-montre;N;87
+5068;Namibia Championship - Time Trial;Championnats de Namibie - Contre-la-montre;N;54
+5069;Paraguay Championship - Time Trial;Championnats du Paraguay - Contre-la-montre;N;53
+5070;Suriname Championship - Time Trial;Championnats du Suriname- Contre-la-montre;N;114
+5071;Aruba  Championship - Time Trial;Championnats d'Aruba - Contre-la-montre;N;91
+5072;Virgin Islands UK Championship - Time Trial;Championnats des Iles Vierges UK - Contre-la-montre;N;106
+5073;Romania Championship - Time Trial;Championnats de Roumanie - Contre-la-montre;N;55
+5074;The Bahamas Championship - Time Trial;Championnats des Bahamas - Contre-la-montre;N;103
+5075;Antigua and Barbuda Championship - Time Trial;Championnats d'Antigua-et-Barbuda - Contre-la-montre;N;76
+5076;Belize Championship - Time Trial;Championnats de Bélize - Contre-la-montre;N;62
+5077;Iceland Championship - Time Trial;Championnats d'Islande - Contre-la-montre;N;65
+5078;Latvia Championship - Time Trial;Championnats de Lettonie - Contre-la-montre;N;58
+5079;Trinidad and Tobago Championship - Time Trial;Championnats de Trinité-et-Tobago - Contre-la-montre;N;80
+5080;Gabon Championship - Time Trial;Championnats du Gabon - Contre-la-montre;N;135
+5081;Virgin Islands US Championship - Time Trial;Championnats des Iles Vierges US - Contre-la-montre;N;122
+5082;Cayman Islands Championship - Time Trial;Championnats des Iles Caïmans - Contre-la-montre;N;136
+5083;Bolivia Championship - Time Trial;Championnats de Bolivie - Contre-la-montre;N;82
+5084;Ecuador Championship - Time Trial;Championnats d'Equateur - Contre-la-montre;N;74
+5085;Guatemala Championship - Time Trial;Championnats du Guatemala - Contre-la-montre;N;72
+5086;North Macedonia Championship - Time Trial;Championnats de Macédoine du Nord - Contre-la-montre;N;83
+5087;Dominican Republic  Championship - Time Trial;Championnats de République Dominicaine - Contre-la-montre;N;86
+5088;Singapore Championship - Time Trial;Championnats de Singapour - Contre-la-montre;N;84
+5089;Guyana Championship - Time Trial;Championnats du Guyana - Contre-la-montre;N;92
+5090;Azerbaijan Championship - Time Trial;Championnats d'Azerbaïdjan - Contre-la-montre;N;63
+5091;Barbados Championship - Time Trial;Championnats de Barbade - Contre-la-montre;N;95
+5092;Iran Championship - Time Trial;Championnats d'Iran - Contre-la-montre;N;78
+5093;Malaysia Championship - Time Trial;Championnats de Malaisie - Contre-la-montre;N;71
+5094;Lesotho Championship - Time Trial;Championnats du Lesotho - Contre-la-montre;N;123
+5095;Algeria Championship - Time Trial;Championnats d'Algérie - Contre-la-montre;N;77
+5096;Eritrea Championship - Time Trial;Championnats d'Erythree - Contre-la-montre;N;85
+5097;Bosnia and Herzegovina Championship - Time Trial;Championnats de Bosnie-Herzégovine - Contre-la-montre;N;99
+5098;Ethiopia Championship - Time Trial;Championnats d'Ethiopie - Contre-la-montre;N;89
+5099;Nicaragua Championship - Time Trial;Championnats du Nicaragua - Contre-la-montre;N;100
+5100;Panama Championship - Time Trial;Championnats du Panama - Contre-la-montre;N;81
+5101;Rwanda Championship - Time Trial;Championnats du Rwanda - Contre-la-montre;N;88
+5102;Thailand Championship - Time Trial;Championnats de Thaïlande - Contre-la-montre;N;48
+5103;Tunisia Championship - Time Trial;Championnats de Tunisie - Contre-la-montre;N;93
+5104;Central African Republic Championship - Time Trial;Championnats de Centrafrique - Contre-la-montre;N;130
+5105;Kuwait Championship - Time Trial;Championnats du Koweït - Contre-la-montre;N;115
+5106;Morocco Championship - Time Trial;Championnats du Maroc - Contre-la-montre;N;79
+5107;Philippines Championship - Time Trial;Championnats des Philippines - Contre-la-montre;N;97
+5108;Botswana Championship - Time Trial;Championnats du Botswana - Contre-la-montre;N;134
+5109;Moldova Championship - Time Trial;Championnats de Moldavie - Contre-la-montre;N;101
+5110;Indonesia Championship - Time Trial;Championnats d'Indonésie - Contre-la-montre;N;90
+5111;Honduras Championship - Time Trial;Championnats de Honduras - Contre-la-montre;N;98
+5112;Pakistan Championship - Time Trial;Championnats du Pakistan - Contre-la-montre;N;125
+5113;Taiwan Championship - Time Trial;Championnats de Taïwan - Contre-la-montre;N;59
+5114;Saudi Arabia Championship - Time Trial;Championnats d'Arabie Saoudite - Contre-la-montre;N;128
+5115;Montenegro Championship - Time Trial;Championnats du Monténégro - Contre-la-montre;N;124
+5116;Bulgaria Championship - Time Trial;Championnats de Bulgarie - Contre-la-montre;N;102
+5117;Kosovo Championship - Time Trial;Championnats du Kosovo - Contre-la-montre;N;112
+5118;Grenada Championship - Time Trial;Championnats de Grenade - Contre-la-montre;N;132
+5119;Saint Martin Championship - Time Trial;Championnats de Saint-Martin - Contre-la-montre;N;117
+5120;Guam Championship - Time Trial;Championnats de Guam - Contre-la-montre;N;108
+5121;Saint Vincent and the Grenadines Championship - Time Trial;Championnats de Saint-Vincent-et-les-Grenadines - Contre-la-montre;N;121
+5122;Angola Championship - Time Trial;Championnats d'Angola - Contre-la-montre;N;113
+5123;United Arab Emirates Championship - Time Trial;Championnats des Emirats Arabes Unis - Contre-la-montre;N;116
+5124;Uruguay Championship - Time Trial;Championnats d'Uruguay - Contre-la-montre;N;111
+5125;Benin Championship - Time Trial;Championnats du Bénin - Contre-la-montre;N;133
+5126;Egypt Championship - Time Trial;Championnats d'Egypte - Contre-la-montre;N;129
+5127;Vietnam Championship - Time Trial;Championnats du Vietnam - Contre-la-montre;N;96
+5128;Afghanistan Championship - Time Trial;Championnats d'Afghanistan - Contre-la-montre;N;138
+5129;Uganda Championship - Time Trial;Championnats d'Ouganda - Contre-la-montre;N;141
+5130;Bahrain Championship - Time Trial;Championnats de Bahreïn - Contre-la-montre;N;144
+5131;Albania Championship - Time Trial;Championnats d'Albanie - Contre-la-montre;N;146
