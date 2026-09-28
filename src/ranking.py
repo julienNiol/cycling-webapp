@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import pandas as pd
+import streamlit as st
 
 F1_POINTS = {
     1: 25,
@@ -61,6 +62,7 @@ def rank_by_score(
     ).reset_index(drop=True)
 
 
+@st.cache_data
 def rank_riders_yearly_and_cumulative(
     df: pd.DataFrame,
 ) -> pd.DataFrame:
