@@ -287,28 +287,21 @@ def build_category_leaders_table(
 ) -> pd.DataFrame:
     """Construit les leaders d'une statistique pour chaque catégorie."""
 
-    columns = [
-        "Rang",
-        "Nom",
-        "Valeur",
-    ]
+    columns = ["Rang", "Nom", "Nat.", "Valeur"]
 
     if race_results.empty:
         return pd.DataFrame(columns=columns)
 
-    rider_stats = aggregate_race_riders(
-        race_results,
-    )
+    rider_stats = aggregate_race_riders(race_results)
 
-    rider_names = build_rider_names(
-        race_results,
-    )
+    rider_names = build_rider_names(race_results)
 
     rider_stats = rider_stats.merge(
         rider_names[
             [
                 "id_rider",
                 "Nom",
+                "country_n3_p",
             ]
         ],
         on="id_rider",
@@ -343,11 +336,13 @@ def build_category_leaders_table(
                 [
                     "id_rider",
                     "Nom",
+                    "country_n3_p",
                     metric,
                 ]
             ]
             .rename(
                 columns={
+                    "country_n3_p": "Nat.",
                     metric: "Valeur",
                 }
             )
@@ -373,17 +368,16 @@ def build_category_leaders_table(
             .astype("int64")
         )
 
-        ranked = ranked.head(limit)[["Rang", "Nom", "Valeur"]]
-
-        rows.append(
-            ranked[
-                [
-                    "Rang",
-                    "Nom",
-                    "Valeur",
-                ]
+        ranked = ranked.head(limit)[
+            [
+                "Rang",
+                "Nom",
+                "Nat.",
+                "Valeur",
             ]
-        )
+        ]
+
+        rows.append(ranked)
 
     if not rows:
         return pd.DataFrame(columns=columns)
@@ -519,6 +513,8 @@ st.sidebar.header("Filtres")
 
 min_year = int(race_results["year"].min())
 max_year = int(race_results["year"].max())
+if min_year == max_year:
+    min_year -= 1
 
 year_range = st.sidebar.slider(
     "Années",
@@ -744,6 +740,10 @@ with category_leaders_column:
                 "Nom": st.column_config.TextColumn(
                     "Nom",
                     width="large",
+                ),
+                "Nat.": st.column_config.TextColumn(
+                    "Nat.",
+                    width="small",
                 ),
                 "Valeur": st.column_config.NumberColumn(
                     "Valeur",
