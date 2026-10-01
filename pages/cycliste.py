@@ -23,7 +23,7 @@ from src.stats import (
 CATEGORY_LABELS = {
     "T": "Tours",
     "S": "Etapes",
-    "C": "Classique",
+    "C": "Classiques",
     "I": "Chronos",
     "N": "Championnats nationaux",
 }
@@ -107,14 +107,57 @@ def _build_country_mapping(
     )
 
 
+def _compute_category_max_scores(
+    filtered_df: pd.DataFrame,
+    start_year: int,
+    end_year: int,
+) -> pd.DataFrame:
+    """Compute the best total score reached by a rider in each category."""
+    filtered_period = filtered_df[
+        filtered_df["year"].between(start_year, end_year)
+        & (filtered_df["id_rider"] != 0)
+    ]
+
+    return (
+        filtered_period.groupby(
+            ["id_rider", "edition_cat"],
+            as_index=False,
+        )
+        .agg(score=("score", "sum"))
+        .groupby(
+            "edition_cat",
+            as_index=False,
+        )
+        .agg(category_max_score=("score", "max"))
+    )
+
+
 def _build_radar(
     category_stats: pd.DataFrame,
+    category_max_scores: pd.DataFrame,
 ) -> go.Figure:
-    """Build the rider's career score radar."""
+    """Build the rider's relative score radar."""
     radar = category_stats.groupby(
         "edition_cat",
         as_index=False,
     ).agg(score=("score", "sum"))
+
+    # Compare each category score with the best total reached in that
+    # category among the currently filtered data.
+    radar = radar.merge(
+        category_max_scores,
+        on="edition_cat",
+        how="left",
+    )
+
+    radar["score_relative"] = 0.0
+    has_reference = radar["category_max_score"] > 0
+
+    radar.loc[has_reference, "score_relative"] = (
+        radar.loc[has_reference, "score"]
+        / radar.loc[has_reference, "category_max_score"]
+        * 100
+    )
 
     # Keep the canonical category order.
     categories = list(CATEGORY_LABELS.keys())
@@ -125,24 +168,31 @@ def _build_radar(
 
     codes = radar["edition_cat"].tolist()
     labels = [CATEGORY_LABELS.get(code, code) for code in codes]
-    values = radar["score"].tolist()
+    relative_values = radar["score_relative"].tolist()
+    real_scores = radar["score"].tolist()
 
     # Close the radar.
     codes_closed = codes + [codes[0]]
     labels_closed = labels + [labels[0]]
-    values_closed = values + [values[0]]
+    relative_values_closed = relative_values + [relative_values[0]]
+    real_scores_closed = real_scores + [real_scores[0]]
+
+    customdata = list(zip(labels_closed, real_scores_closed))
 
     figure = go.Figure()
 
     figure.add_trace(
         go.Scatterpolar(
-            r=values_closed,
+            r=relative_values_closed,
             theta=codes_closed,
             fill="toself",
-            name="Score",
-            customdata=labels_closed,
+            name="Score relatif",
+            customdata=customdata,
             hovertemplate=(
-                "<b>%{customdata}</b><br>Code : %{theta}<br>Score : %{r}<extra></extra>"
+                "<b>%{customdata[0]}</b><br>"
+                "Code : %{theta}<br>"
+                "Relatif : %{r:.1f}%<br>"
+                "Points : %{customdata[1]:.0f}<extra></extra>"
             ),
         )
     )
@@ -482,6 +532,7 @@ career_info = career.iloc[0]
 start_year = int(career_info["start_year"])
 end_year = int(career_info["end_year"])
 
+database_first_year = int(results["year"].min())
 database_last_year = int(results["year"].max())
 
 display_end_year = "" if end_year == database_last_year else str(end_year)
@@ -671,7 +722,16 @@ with radar_column:
         filtered_results,
     )
 
-    radar_figure = _build_radar(category_stats)
+    category_max_scores = _compute_category_max_scores(
+        filtered_df,
+        database_first_year,
+        database_last_year,
+    )
+
+    radar_figure = _build_radar(
+        category_stats,
+        category_max_scores,
+    )
 
     st.plotly_chart(
         radar_figure,
