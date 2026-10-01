@@ -397,7 +397,7 @@ with col_ranking:
 
     st.dataframe(
         ranking_table,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=get_table_height(ranking_table),
         column_config={
@@ -426,7 +426,7 @@ with col_winners:
 
     st.dataframe(
         year_leaders,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=get_table_height(year_leaders),
         column_config={
@@ -902,7 +902,7 @@ with leaders_column:
     else:
         st.dataframe(
             leaders,
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
             column_config={
                 "Statistique": st.column_config.TextColumn(
@@ -974,7 +974,7 @@ if statistic == "Classement":
 
             st.plotly_chart(
                 figure,
-                use_container_width=True,
+                width="stretch",
             )
 
 # ---------------------------------------------------------------------------
@@ -1020,5 +1020,5 @@ else:
 
             st.plotly_chart(
                 figure,
-                use_container_width=True,
+                width="stretch",
             )

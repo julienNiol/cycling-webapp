@@ -653,7 +653,7 @@ with stats_column:
         st.dataframe(
             leaders_table,
             hide_index=True,
-            use_container_width=True,
+            width="stretch",
         )
 
 
@@ -681,7 +681,7 @@ with palmares_column:
     else:
         st.dataframe(
             palmares_table,
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
             column_config={
                 "Année": st.column_config.NumberColumn(
@@ -730,7 +730,7 @@ with category_leaders_column:
     else:
         st.dataframe(
             category_leaders,
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
             column_config={
                 "Rang": st.column_config.NumberColumn(

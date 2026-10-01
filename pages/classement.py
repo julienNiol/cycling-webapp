@@ -458,7 +458,7 @@ with col_ranking:
 
     st.dataframe(
         ranking_table,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=get_table_height(ranking_table),
         column_config={
@@ -491,7 +491,7 @@ with col_winners:
 
     st.dataframe(
         year_winners,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=get_table_height(year_winners),
         column_config={

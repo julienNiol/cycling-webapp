@@ -396,7 +396,7 @@ if selection_type == "Course":
 
     st.dataframe(
         general_table,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=get_table_height(general_table),
         column_config=course_column_config,
@@ -416,7 +416,7 @@ if selection_type == "Course":
 
         st.dataframe(
             stages_table,
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
             height=get_table_height(stages_table),
             column_config=stages_column_config,
@@ -432,7 +432,7 @@ else:
 
     st.dataframe(
         result_table,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=get_table_height(result_table),
         column_config=rider_column_config,
@@ -448,7 +448,7 @@ else:
 
         st.dataframe(
             stages_result_table,
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
             height=get_table_height(stages_result_table),
             column_config=stages_rider_column_config,

@@ -340,7 +340,7 @@ with col_prev:
         "←",
         disabled=selected_index == len(years) - 1,
         help="Année précédente",
-        use_container_width=True,
+        width="stretch",
     ):
         st.session_state.selected_year = years[selected_index + 1]
         st.rerun()
@@ -362,7 +362,7 @@ with col_next:
         "→",
         disabled=selected_index == 0,
         help="Année suivante",
-        use_container_width=True,
+        width="stretch",
     ):
         st.session_state.selected_year = years[selected_index - 1]
         st.rerun()
@@ -434,7 +434,7 @@ with col_annual:
 
     st.dataframe(
         annual_riders_table,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=get_table_height(
             annual_riders_table,
@@ -464,7 +464,7 @@ with col_cumulative:
 
     st.dataframe(
         cumulative_riders_table,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=get_table_height(
             cumulative_riders_table,
@@ -579,7 +579,7 @@ with col_annual_nation:
 
     st.dataframe(
         nation_annual_table,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=get_table_height(
             nation_annual_table,
@@ -605,7 +605,7 @@ with col_cumulative_nation:
 
     st.dataframe(
         nation_cumulative_table,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         height=get_table_height(
             nation_cumulative_table,
@@ -730,7 +730,7 @@ with col_calendar:
     else:
         st.dataframe(
             calendar_table,
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
             height=get_table_height(
                 calendar_table,
@@ -789,7 +789,7 @@ with col_stats:
     else:
         st.dataframe(
             stat_leaders,
-            use_container_width=True,
+            width="stretch",
             hide_index=True,
             height=get_table_height(
                 stat_leaders,
