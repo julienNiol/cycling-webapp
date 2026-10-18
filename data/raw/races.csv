@@ -71,8 +71,11 @@
 1690;Tre Valli Varesine;Tre Valli Varesine;C;2
 1700;Milano-San Remo;Milan-San Remo;C;2
 1710;Copenhagen Sprint;Copenhagen Sprint;C;16
-1720;Schwalbe One Day Classic;Schwalbe One Day Classic;C;6
+1720;Surf Coast Classic;Surf Coast Classic;C;6
 1730;Holland Hills Classic;Holland Hills Classic;C;1
+1740;Vuelta Comunitat Valenciana;Tour de la Communauté de Valence;C;14
+1750;Grand Prix de Fourmies;Grand Prix de Fourmies;C;5
+1760;Grand Prix Stuttgart;Grand Prix Stuttgart;C;3
 2000;Coors Classic;Coors Classic;T;4
 2001;Coors Classic (S);Coors Classic (E);S;4
 2010;Tour of Texas;Tour du Texas;T;4
@@ -101,8 +104,8 @@
 2121;Etoile Vosgienne (S);Etoile Vosgienne (E);S;5
 2130;Tour de Bretagne;Tour de Bretagne;T;5
 2131;Tour de Bretagne (S);Tour de Bretagne (E);S;5
-2140;Drei Tagen von Pattensen;Trois Jours de Pattensen;T;3
-2141;Drei Tagen von Pattensen (S);Trois Jours de Pattensen (E);S;3
+2140;Drei Tagen von Pattesen;Trois Jours de Pattensen;T;3
+2141;Drei Tagen von Pattesen (S);Trois Jours de Pattensen (E);S;3
 2150;Giro d'Italia;Tour d'Italie;T;2
 2151;Giro d'Italia (S);Tour d'Italie (E);S;2
 2160;Tour de la Drôme;Tour de la Drôme;T;5
@@ -239,6 +242,8 @@
 2811;UAE Tour (S);UAE Tour (E);S;116
 2820;Volta Catalunya;Tour de Catalogne;T;14
 2821;Volta Catalunya (S);Tour de Catalogne (E);S;14
+2830;Tour des Pyrénées;Tour des Pyrénées;T;5
+2831;Tour des Pyrénées (S);Tour des Pyrénées (E);S;5
 3000;Chrono Champenois;Chrono Champenois;I;5
 3010;Grand Prix des Nations;Grand Prix des Nations;I;5
 3020;World Championship Time Trial;Championnats du monde - Contre-la-montre;I;202
@@ -393,6 +398,12 @@
 4143;Kenya Championship - Road Race;Championnats du Kenya - Course en ligne;N;145
 4144;Albania Championship - Road Race;Championnats d'Albanie - Course en ligne;N;146
 4145;Jordan Championship - Road Race;Championnats de Jordanie - Course en ligne;N;147
+4146;Mali Championship - Road Race;Championnats du Mali - Course en ligne;N;148
+4147;Andorra Championship - Road Race;Championnats d'Andorre - Course en ligne;N;149
+4148;Guinea Bissau Championship - Road Race;Championnats de Guinée Bissau - Course en ligne;N;150
+4149;Senegal Championship - Road Race;Championnats du Sénégal - Course en ligne;N;151
+4150;Cape Verde Championship - Road Race;Championnats du Cap Vert - Course en ligne;N;152
+4151;Kirgizistan Championship - Road Race;Championnats du Kirghizistan - Course en ligne;N;153
 5000;Sweden Championship - Time Trial;Championnats de Suède - Contre-la-montre;N;11
 5001;Canada Championship - Time Trial;Championnats du Canada - Contre-la-montre;N;13
 5002;United States Championship - Time Trial;Championnats des Etats-Unis - Contre-la-montre;N;4
@@ -525,3 +536,10 @@
 5129;Uganda Championship - Time Trial;Championnats d'Ouganda - Contre-la-montre;N;141
 5130;Bahrain Championship - Time Trial;Championnats de Bahreïn - Contre-la-montre;N;144
 5131;Albania Championship - Time Trial;Championnats d'Albanie - Contre-la-montre;N;146
+5132;Andorra Championship - Time Trial;Championnats d'Andorre - Contre-la-montre;N;149
+5133;Guinea Bissau Championship - Time Trial;Championnats de Guinée Bissau - Contre-la-montre;N;150
+5134;Cape Verde Championship - Time Trial;Championnats du Cap Vert - Contre-la-montre;N;152
+5135;Kirgizistan Championship - Time Trial;Championnats du Kirghizistan - Contre-la-montre;N;153
+5136;Kenya Championship - Time Trial;Championnats du Kenya - Contre-la-montre;N;145
+5137;Cameroon Championship - Time Trial;Championnats du Cameroun - Contre-la-montre;N;140
+5138;Jordan Championship - Time Trial;Championnats de Jordanie - Contre-la-montre;N;147
